@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: escape routes
+  m_EditorClassIdentifier: 
+  data:
+    featureName: escape routes
+    Ship: 296
+    OptionalFeatureTool: 0
+    column: 0
+    overlays:
+    - {fileID: 7315275909849238263, guid: 07e9a1880c1b4ae4f8ff8b94ff359ffa, type: 3}
+    - {fileID: -8006833570945821217, guid: 07e9a1880c1b4ae4f8ff8b94ff359ffa, type: 3}
+    - {fileID: -9107249200815593196, guid: 07e9a1880c1b4ae4f8ff8b94ff359ffa, type: 3}
+    - {fileID: -3060125596124157922, guid: 07e9a1880c1b4ae4f8ff8b94ff359ffa, type: 3}
+    - {fileID: 5650565255587414485, guid: 07e9a1880c1b4ae4f8ff8b94ff359ffa, type: 3}
+    - {fileID: -6061797697183854833, guid: 07e9a1880c1b4ae4f8ff8b94ff359ffa, type: 3}
+    - {fileID: 8818166359744742726, guid: 6d5f42083bcfa8046808f70c036d22ce, type: 3}
+    - {fileID: 5595097151966524323, guid: 6d5f42083bcfa8046808f70c036d22ce, type: 3}
+    - {fileID: -2296038597983452153, guid: 6d5f42083bcfa8046808f70c036d22ce, type: 3}
+    - {fileID: 2365585530913793423, guid: 6d5f42083bcfa8046808f70c036d22ce, type: 3}
+    - {fileID: 8747425607518442975, guid: 6d5f42083bcfa8046808f70c036d22ce, type: 3}
+    - {fileID: -5878739434299376263, guid: 6d5f42083bcfa8046808f70c036d22ce, type: 3}
+    - {fileID: -4291759193663552585, guid: 6900621f9fb07eb49810802aa8dcdc7e, type: 3}
+    - {fileID: 5078003479802340834, guid: 6900621f9fb07eb49810802aa8dcdc7e, type: 3}
+    - {fileID: 5362395833745373085, guid: 6900621f9fb07eb49810802aa8dcdc7e, type: 3}
+    - {fileID: 5680064721812727144, guid: 98610fa0936fba242b43c9fc581c427f, type: 3}
+    - {fileID: -5512483286004372802, guid: 98610fa0936fba242b43c9fc581c427f, type: 3}
+    - {fileID: -7334873582980081407, guid: 98610fa0936fba242b43c9fc581c427f, type: 3}
+    - {fileID: -7880214722419552353, guid: 98610fa0936fba242b43c9fc581c427f, type: 3}
+    - {fileID: -8960186379205420042, guid: 98610fa0936fba242b43c9fc581c427f, type: 3}
+    - {fileID: 7492983261036406006, guid: 98610fa0936fba242b43c9fc581c427f, type: 3}
+    AssetBundleName: beyond/features/escape routes

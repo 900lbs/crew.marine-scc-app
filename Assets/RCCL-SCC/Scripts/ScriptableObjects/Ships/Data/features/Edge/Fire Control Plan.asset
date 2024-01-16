@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: Fire Control Plan
+  m_EditorClassIdentifier: 
+  data:
+    featureName: Fire Control Plan
+    Ship: 1
+    OptionalFeatureTool: 0
+    column: 2
+    overlays:
+    - {fileID: 21300010, guid: e84b9a0ce46c89943b17cb28e5c41a93, type: 3}
+    - {fileID: 21300008, guid: e84b9a0ce46c89943b17cb28e5c41a93, type: 3}
+    - {fileID: 21300006, guid: e84b9a0ce46c89943b17cb28e5c41a93, type: 3}
+    - {fileID: 21300004, guid: e84b9a0ce46c89943b17cb28e5c41a93, type: 3}
+    - {fileID: 21300002, guid: e84b9a0ce46c89943b17cb28e5c41a93, type: 3}
+    - {fileID: 21300000, guid: e84b9a0ce46c89943b17cb28e5c41a93, type: 3}
+    - {fileID: 21300010, guid: 5bbc6b3bed97d7f419228432f5de3b73, type: 3}
+    - {fileID: 21300008, guid: 5bbc6b3bed97d7f419228432f5de3b73, type: 3}
+    - {fileID: 21300006, guid: 5bbc6b3bed97d7f419228432f5de3b73, type: 3}
+    - {fileID: 21300004, guid: 5bbc6b3bed97d7f419228432f5de3b73, type: 3}
+    - {fileID: 21300002, guid: 5bbc6b3bed97d7f419228432f5de3b73, type: 3}
+    - {fileID: 21300000, guid: 5bbc6b3bed97d7f419228432f5de3b73, type: 3}
+    - {fileID: 21300002, guid: 3841f79a79f7d114b936311443163a71, type: 3}
+    - {fileID: 21300000, guid: 3841f79a79f7d114b936311443163a71, type: 3}
+    - {fileID: 7467028366893321588, guid: 78f8b06617559e84fbed2dc8e8d80ac3, type: 3}
+    - {fileID: -7505312799219906256, guid: 78f8b06617559e84fbed2dc8e8d80ac3, type: 3}
+    - {fileID: -2607412981220754433, guid: 78f8b06617559e84fbed2dc8e8d80ac3, type: 3}
+    - {fileID: -6993208937189547757, guid: 78f8b06617559e84fbed2dc8e8d80ac3, type: 3}
+    - {fileID: 6278524806032629503, guid: 78f8b06617559e84fbed2dc8e8d80ac3, type: 3}
+    AssetBundleName: edge/features/fire control plan

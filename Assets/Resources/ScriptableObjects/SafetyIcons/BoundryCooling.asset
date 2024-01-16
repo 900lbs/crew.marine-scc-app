@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 284301744cecd724e9f789c051442fe1, type: 3}
+  m_Name: BoundryCooling
+  m_EditorClassIdentifier: 
+  iconName: BoundryCooling
+  AssignedShips: -1
+  iconImage: {fileID: 21300000, guid: 849cf3089e7a0bf4593deebdf2d54ac9, type: 3}
+  iconSize: {x: 21, y: 21}
+  assignedIconType: 0
+  AssignedProperties: 4
+  PrefabReference: {fileID: 1699649061110262, guid: 923c3fd1547e6934a9c5ded47b1aaa3d,
+    type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: life saving appliances
+  m_EditorClassIdentifier: 
+  data:
+    featureName: life saving appliances
+    Ship: 100
+    OptionalFeatureTool: 0
+    column: 0
+    overlays:
+    - {fileID: -4582431475217647415, guid: 0062de9c227a80d4b97847efd937cdac, type: 3}
+    - {fileID: -8741326214647557860, guid: 0062de9c227a80d4b97847efd937cdac, type: 3}
+    - {fileID: -9105251856402504917, guid: 0062de9c227a80d4b97847efd937cdac, type: 3}
+    - {fileID: -4766092753537589169, guid: 0062de9c227a80d4b97847efd937cdac, type: 3}
+    AssetBundleName: wonder/features/life saving appliances

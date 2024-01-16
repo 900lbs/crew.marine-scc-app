@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3539521117
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42f1e826adb206a685f37b1d20294a96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1205052deacf2996a560fe3e47506ac2
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scripts/Scriptable Objects/Ships/Data/features/Edge/SAFETY AND FIRE CONTROL
+  PLAN.asset
+Dependencies: []

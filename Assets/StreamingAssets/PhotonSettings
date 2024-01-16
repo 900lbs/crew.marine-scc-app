@@ -1,0 +1,28 @@
+{
+  "AppSettings": {
+    "AppIdRealtime": "80e6144f-1a01-4d7a-8048-4d68789cd59d",
+    "AppIdChat": null,
+    "AppIdVoice": null,
+    "AppVersion": "2.5",
+    "UseNameServer": true,
+    "FixedRegion": null,
+    "Server": null,
+    "Port": 0,
+    "Protocol": 0,
+    "EnableLobbyStatistics": false,
+    "NetworkLogging": 1,
+    "IsMasterServerAddress": false,
+    "IsBestRegion": true,
+    "IsDefaultNameServer": true,
+    "IsDefaultPort": true
+  },
+  "StartInOfflineMode": false,
+  "PunLogging": 0,
+  "EnableSupportLogger": false,
+  "RunInBackground": true,
+  "RpcList": [],
+  "DisableAutoOpenWizard": true,
+  "ShowSettings": false,
+  "name": "",
+  "hideFlags": 0
+}

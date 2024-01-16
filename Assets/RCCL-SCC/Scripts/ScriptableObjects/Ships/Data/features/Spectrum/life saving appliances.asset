@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: life saving appliances
+  m_EditorClassIdentifier: 
+  data:
+    featureName: life saving appliances
+    Ship: 4
+    OptionalFeatureTool: 0
+    column: 0
+    overlays:
+    - {fileID: 21300014, guid: 79dbfcef8e93a5a45bc97b441c1816e1, type: 3}
+    - {fileID: 21300012, guid: 79dbfcef8e93a5a45bc97b441c1816e1, type: 3}
+    - {fileID: 21300010, guid: 79dbfcef8e93a5a45bc97b441c1816e1, type: 3}
+    - {fileID: 21300008, guid: 79dbfcef8e93a5a45bc97b441c1816e1, type: 3}
+    - {fileID: 21300006, guid: 79dbfcef8e93a5a45bc97b441c1816e1, type: 3}
+    - {fileID: 21300004, guid: 79dbfcef8e93a5a45bc97b441c1816e1, type: 3}
+    - {fileID: 21300002, guid: 79dbfcef8e93a5a45bc97b441c1816e1, type: 3}
+    - {fileID: 21300000, guid: 79dbfcef8e93a5a45bc97b441c1816e1, type: 3}
+    - {fileID: 21300014, guid: 659982342517cee4c9be1b8b563d6a27, type: 3}
+    - {fileID: 21300012, guid: 659982342517cee4c9be1b8b563d6a27, type: 3}
+    - {fileID: 21300010, guid: 659982342517cee4c9be1b8b563d6a27, type: 3}
+    - {fileID: 21300008, guid: 659982342517cee4c9be1b8b563d6a27, type: 3}
+    - {fileID: 21300006, guid: 659982342517cee4c9be1b8b563d6a27, type: 3}
+    - {fileID: 21300004, guid: 659982342517cee4c9be1b8b563d6a27, type: 3}
+    - {fileID: 21300002, guid: 659982342517cee4c9be1b8b563d6a27, type: 3}
+    - {fileID: 21300000, guid: 659982342517cee4c9be1b8b563d6a27, type: 3}
+    - {fileID: 21300006, guid: fef1f63a7f052d1439137a112aae6408, type: 3}
+    - {fileID: 21300004, guid: fef1f63a7f052d1439137a112aae6408, type: 3}
+    - {fileID: 21300002, guid: fef1f63a7f052d1439137a112aae6408, type: 3}
+    - {fileID: 21300000, guid: fef1f63a7f052d1439137a112aae6408, type: 3}
+    AssetBundleName: spectrum/features/life saving appliances

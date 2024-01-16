@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3476163441
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1dbae0867ccab2024eea28a7edd81bf1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1205052deacf2996a560fe3e47506ac2
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scripts/Scriptable Objects/Ships/Data/features/Edge/doors.asset
+Dependencies: []

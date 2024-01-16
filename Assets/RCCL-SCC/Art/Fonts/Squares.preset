@@ -1,0 +1,610 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Squares
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: hashCode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: material
+    value: 
+    objectReference: {fileID: 21577242192063694, guid: 3f5923a46e57d4a9f9103035f35c9490,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: materialHashCode
+    value: 1874527705
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Version
+    value: 1.1.0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SourceFontFileGUID
+    value: 06fbff57c07da45e0ab932b456de689b
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SourceFontFile_EditorRef
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_SourceFontFile
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AtlasPopulationMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_FamilyName
+    value: Squares Bold
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_StyleName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_PointSize
+    value: 130
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_LineHeight
+    value: 149.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_AscentLine
+    value: 123.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_CapLine
+    value: 90.99999
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_MeanLine
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_Baseline
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_DescentLine
+    value: -26
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_SuperscriptOffset
+    value: 123.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_SuperscriptSize
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_SubscriptOffset
+    value: -13.000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_SubscriptSize
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_UnderlineOffset
+    value: -13.000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_UnderlineThickness
+    value: 6.5000005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_StrikethroughOffset
+    value: 35.454544
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_StrikethroughThickness
+    value: 6.5000005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FaceInfo.m_TabWidth
+    value: 325
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlyphTable.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlyphTable.Array.data[0].m_Index
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlyphTable.Array.data[0].m_Metrics.m_Width
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlyphTable.Array.data[0].m_Metrics.m_Height
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlyphTable.Array.data[0].m_Metrics.m_HorizontalBearingX
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlyphTable.Array.data[0].m_Metrics.m_HorizontalBearingY
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlyphTable.Array.data[0].m_Metrics.m_HorizontalAdvance
+    value: 24.7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlyphTable.Array.data[0].m_GlyphRect.m_X
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlyphTable.Array.data[0].m_GlyphRect.m_Y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlyphTable.Array.data[0].m_GlyphRect.m_Width
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlyphTable.Array.data[0].m_GlyphRect.m_Height
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlyphTable.Array.data[0].m_Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_GlyphTable.Array.data[0].m_AtlasIndex
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterTable.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterTable.Array.data[0].m_ElementType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterTable.Array.data[0].m_Unicode
+    value: 32
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterTable.Array.data[0].m_GlyphIndex
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CharacterTable.Array.data[0].m_Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AtlasTextures.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AtlasTextures.Array.data[0]
+    value: 
+    objectReference: {fileID: 28474894974792350, guid: 3f5923a46e57d4a9f9103035f35c9490,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AtlasTextureIndex
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_UsedGlyphRects.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FreeGlyphRects.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.Name
+    value: Squares Bold
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.PointSize
+    value: 130
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.Scale
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.CharacterCount
+    value: 96
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.LineHeight
+    value: 149.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.Baseline
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.Ascender
+    value: 123.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.CapHeight
+    value: 90.99999
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.Descender
+    value: -26
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.CenterLine
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.SuperscriptOffset
+    value: 123.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.SubscriptOffset
+    value: -13.000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.SubSize
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.Underline
+    value: -13.000001
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.UnderlineThickness
+    value: 6.5000005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.strikethrough
+    value: 35.454544
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.strikethroughThickness
+    value: 6.5000005
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.TabWidth
+    value: 325
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.Padding
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.AtlasWidth
+    value: 1024
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_fontInfo.AtlasHeight
+    value: 1024
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: atlas
+    value: 
+    objectReference: {fileID: 28474894974792350, guid: 3f5923a46e57d4a9f9103035f35c9490,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_AtlasWidth
+    value: 1024
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AtlasHeight
+    value: 1024
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AtlasPadding
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AtlasRenderMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_glyphInfoList.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_KerningTable.kerningPairs.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontFeatureTable.m_GlyphPairAdjustmentRecords.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fallbackFontAssets.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FallbackFontAssetTable.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.sourceFontFileName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.sourceFontFileGUID
+    value: 06fbff57c07da45e0ab932b456de689b
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.pointSizeSamplingMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.pointSize
+    value: 97
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.padding
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.packingMode
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.atlasWidth
+    value: 1024
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.atlasHeight
+    value: 1024
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.characterSetSelectionMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.characterSequence
+    value: 32 - 126, 160, 8203, 8230, 9633
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.referencedFontAssetGUID
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.referencedTextAssetGUID
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.fontStyle
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.fontStyleModifier
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.renderMode
+    value: 4165
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CreationSettings.includeFontFeatures
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.size
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[0].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[0].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[1].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[1].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[2].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[2].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[3].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[3].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[4].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[4].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[5].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[5].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[6].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[6].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[7].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[7].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[8].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[8].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[9].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_FontWeightTable.Array.data[9].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.size
+    value: 10
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[0].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[0].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[1].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[1].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[2].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[2].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[3].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[3].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[4].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[4].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[5].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[5].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[6].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[6].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[7].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[7].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[8].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[8].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[9].regularTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fontWeights.Array.data[9].italicTypeface
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: normalStyle
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: normalSpacingOffset
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: boldStyle
+    value: 0.75
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: boldSpacing
+    value: 7
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: italicStyle
+    value: 35
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: tabSize
+    value: 10
+    objectReference: {fileID: 0}

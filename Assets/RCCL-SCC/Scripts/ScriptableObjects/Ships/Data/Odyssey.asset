@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99255afdcc5b64644b7b423610b43283, type: 3}
+  m_Name: Odyssey
+  m_EditorClassIdentifier: 
+  Ship:
+    id: 50
+    decks:
+    - {fileID: -6752267575607632105, guid: 760dd890af3d6614fa176d73e5bd41a1, type: 3}
+    - {fileID: 2301560926451525905, guid: a9660f55b54d34641ac7ff595f53e726, type: 3}
+    - {fileID: -4689533558988898168, guid: a9660f55b54d34641ac7ff595f53e726, type: 3}
+    - {fileID: -6138427215358641853, guid: a9660f55b54d34641ac7ff595f53e726, type: 3}
+    - {fileID: -3310223957402577892, guid: a9660f55b54d34641ac7ff595f53e726, type: 3}
+    - {fileID: -2411661413282598158, guid: a9660f55b54d34641ac7ff595f53e726, type: 3}
+    - {fileID: -7134572823191887481, guid: a9660f55b54d34641ac7ff595f53e726, type: 3}
+    - {fileID: -1071162728184852168, guid: 029f54486d0663740b66aa017aea20ad, type: 3}
+    - {fileID: -5943257062674330323, guid: 029f54486d0663740b66aa017aea20ad, type: 3}
+    - {fileID: 1661444855932064546, guid: 029f54486d0663740b66aa017aea20ad, type: 3}
+    - {fileID: -7803679020649702792, guid: 029f54486d0663740b66aa017aea20ad, type: 3}
+    - {fileID: -2205182655938373974, guid: 029f54486d0663740b66aa017aea20ad, type: 3}
+    - {fileID: 501599806426656589, guid: 029f54486d0663740b66aa017aea20ad, type: 3}
+    - {fileID: 1483453986632959630, guid: bf16f64e758b0384c8cfb051ab81921e, type: 3}
+    - {fileID: -1562633215265423382, guid: bf16f64e758b0384c8cfb051ab81921e, type: 3}
+    - {fileID: -7223285590587808544, guid: bf16f64e758b0384c8cfb051ab81921e, type: 3}
+    - {fileID: 8227670889934836953, guid: bf16f64e758b0384c8cfb051ab81921e, type: 3}
+    - {fileID: -3307673522242965128, guid: bf16f64e758b0384c8cfb051ab81921e, type: 3}
+    - {fileID: 6355558758854998748, guid: bf16f64e758b0384c8cfb051ab81921e, type: 3}
+    - {fileID: -67709286362155106, guid: 760dd890af3d6614fa176d73e5bd41a1, type: 3}
+    - {fileID: 4130628023089864359, guid: 760dd890af3d6614fa176d73e5bd41a1, type: 3}
+    - {fileID: 1597375649268577135, guid: 760dd890af3d6614fa176d73e5bd41a1, type: 3}
+    cabins:
+    - {fileID: -3145118754425808225, guid: 961e4164f9b4cad48b72468a793a76ae, type: 3}
+    - {fileID: -4958046376709144112, guid: 961e4164f9b4cad48b72468a793a76ae, type: 3}
+    - {fileID: 1803800141227647638, guid: 961e4164f9b4cad48b72468a793a76ae, type: 3}
+    - {fileID: -8860708443458597303, guid: 961e4164f9b4cad48b72468a793a76ae, type: 3}
+    - {fileID: -6734263704642872641, guid: 961e4164f9b4cad48b72468a793a76ae, type: 3}
+    - {fileID: -1727456414813336793, guid: 961e4164f9b4cad48b72468a793a76ae, type: 3}
+    - {fileID: 2576705885468713220, guid: 042db73a671240048bb17f507f184321, type: 3}
+    - {fileID: -6178694619532746955, guid: 042db73a671240048bb17f507f184321, type: 3}
+    - {fileID: -8951032695985387064, guid: 042db73a671240048bb17f507f184321, type: 3}
+    - {fileID: 89305525600490257, guid: 042db73a671240048bb17f507f184321, type: 3}
+    - {fileID: -1551088778657057015, guid: 042db73a671240048bb17f507f184321, type: 3}
+    - {fileID: 2846742291198147943, guid: 042db73a671240048bb17f507f184321, type: 3}
+    - {fileID: 4205681044957743745, guid: c2ac586ced47ac740be8faa09035f39b, type: 3}
+    - {fileID: 6273350817714639343, guid: c2ac586ced47ac740be8faa09035f39b, type: 3}
+    - {fileID: -3143310407291356225, guid: c2ac586ced47ac740be8faa09035f39b, type: 3}
+    - {fileID: -3431724573119471156, guid: c2ac586ced47ac740be8faa09035f39b, type: 3}
+    - {fileID: -2830271792021782692, guid: c2ac586ced47ac740be8faa09035f39b, type: 3}
+    - {fileID: -5472448347792589012, guid: c2ac586ced47ac740be8faa09035f39b, type: 3}
+    - {fileID: -8993605108907017994, guid: d90c3fd2e2804064987df50418ebbef1, type: 3}
+    - {fileID: 6655391333376394834, guid: d90c3fd2e2804064987df50418ebbef1, type: 3}
+    - {fileID: 4236624515561389849, guid: d90c3fd2e2804064987df50418ebbef1, type: 3}
+    legends:
+    - LegendName: Damage Control Plan
+      LegendImage: {fileID: 21300000, guid: f0042b0396b402e448163ec221a2d85e, type: 3}
+    - LegendName: Fire Control Plan
+      LegendImage: {fileID: 21300000, guid: 915457b2ab3917c47b74f8edfe9cf229, type: 3}
+    - LegendName: Safety Plan
+      LegendImage: {fileID: 21300000, guid: a3f9c989305729f4da4433d49e2e44af, type: 3}
+    Features:
+    - odyssey/features/damage control plan
+    - odyssey/features/fire control plan
+    - odyssey/features/framing
+    - odyssey/features/safety plan
+    - odyssey/features/watertight doors
+    shipAbbreviation: OY
+    eniramShipID: 
+    eMusteringURL: http://oyapass01.odyssey.sh.rccl.com/A-PASS/

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: framing
+  m_EditorClassIdentifier: 
+  data:
+    featureName: framing
+    Ship: 100
+    OptionalFeatureTool: 2
+    column: 0
+    overlays:
+    - {fileID: -7713771005338633731, guid: ac1c32dc81648ee4ea7d0b2be081f949, type: 3}
+    - {fileID: -1014295011540519608, guid: ac1c32dc81648ee4ea7d0b2be081f949, type: 3}
+    - {fileID: -2069309725179693263, guid: ac1c32dc81648ee4ea7d0b2be081f949, type: 3}
+    - {fileID: -4233412128222783185, guid: ac1c32dc81648ee4ea7d0b2be081f949, type: 3}
+    - {fileID: -9027156852313627363, guid: ac1c32dc81648ee4ea7d0b2be081f949, type: 3}
+    - {fileID: 3120297589474247496, guid: ac1c32dc81648ee4ea7d0b2be081f949, type: 3}
+    - {fileID: -7129182282299187487, guid: 281a065d9de31b24d9aa3f3834c76806, type: 3}
+    - {fileID: 2672036830507954440, guid: 281a065d9de31b24d9aa3f3834c76806, type: 3}
+    - {fileID: -1141844479774640884, guid: 281a065d9de31b24d9aa3f3834c76806, type: 3}
+    - {fileID: 1754742061723186462, guid: 281a065d9de31b24d9aa3f3834c76806, type: 3}
+    - {fileID: 8440257276390071075, guid: 281a065d9de31b24d9aa3f3834c76806, type: 3}
+    - {fileID: -250311771864102652, guid: 281a065d9de31b24d9aa3f3834c76806, type: 3}
+    - {fileID: -1032680996928854668, guid: 1d5e7906ba3b6484d9a05ff43922bd4c, type: 3}
+    - {fileID: 5899074154768696808, guid: 1d5e7906ba3b6484d9a05ff43922bd4c, type: 3}
+    - {fileID: -6491521369479150638, guid: 1d5e7906ba3b6484d9a05ff43922bd4c, type: 3}
+    - {fileID: 3307062053147395524, guid: 1d5e7906ba3b6484d9a05ff43922bd4c, type: 3}
+    - {fileID: -7362917210981270917, guid: 1d5e7906ba3b6484d9a05ff43922bd4c, type: 3}
+    - {fileID: -3237179306853322496, guid: bee9d3e12fac6624fba402d32d0d957c, type: 3}
+    - {fileID: -2658612385291404585, guid: bee9d3e12fac6624fba402d32d0d957c, type: 3}
+    - {fileID: -5747239854337767059, guid: bee9d3e12fac6624fba402d32d0d957c, type: 3}
+    - {fileID: 4647097568014419878, guid: bee9d3e12fac6624fba402d32d0d957c, type: 3}
+    - {fileID: -4042613012809370584, guid: bee9d3e12fac6624fba402d32d0d957c, type: 3}
+    - {fileID: 2524264967592704375, guid: bee9d3e12fac6624fba402d32d0d957c, type: 3}
+    AssetBundleName: wonder/features/framing

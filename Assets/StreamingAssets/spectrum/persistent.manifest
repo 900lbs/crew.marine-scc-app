@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 486650846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f899d88794116b37a3fa5f7f7bc0fb30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd30867720ec59be358393d30e72f356
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99255afdcc5b64644b7b423610b43283, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/RCCL-SCC/Scripts/ScriptableObjects/Ships/Data/Spectrum.asset
+- Assets/RCCL-SCC/Art/Ships/Spectrum/Spectrum Decks/GA/SC_Decks_16-TT.png
+- Assets/RCCL-SCC/Art/Ships/Spectrum/Spectrum Decks/GA/SC_Decks_08-15.png
+- Assets/RCCL-SCC/Art/Ships/Spectrum/Spectrum Decks/GA/SC_Decks_00-07.png
+Dependencies: []

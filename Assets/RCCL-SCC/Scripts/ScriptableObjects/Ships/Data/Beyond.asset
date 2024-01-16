@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99255afdcc5b64644b7b423610b43283, type: 3}
+  m_Name: Beyond
+  m_EditorClassIdentifier: 
+  Ship:
+    id: 296
+    decks:
+    - {fileID: 2099511040371781397, guid: c8c3fef5abbc1264c964eaf857a60d74, type: 3}
+    - {fileID: -5617145940893352231, guid: c8c3fef5abbc1264c964eaf857a60d74, type: 3}
+    - {fileID: -6309062450831699488, guid: c8c3fef5abbc1264c964eaf857a60d74, type: 3}
+    - {fileID: 1034554122753272715, guid: c8c3fef5abbc1264c964eaf857a60d74, type: 3}
+    - {fileID: -2686509510635330483, guid: c8c3fef5abbc1264c964eaf857a60d74, type: 3}
+    - {fileID: -145105172155788238, guid: c8c3fef5abbc1264c964eaf857a60d74, type: 3}
+    - {fileID: -2096207204015660214, guid: 5c78afa1f84dbd448853fab3bd48697e, type: 3}
+    - {fileID: -4823473876882935276, guid: 5c78afa1f84dbd448853fab3bd48697e, type: 3}
+    - {fileID: 1633751183472271828, guid: 5c78afa1f84dbd448853fab3bd48697e, type: 3}
+    - {fileID: 8333867781562585385, guid: 5c78afa1f84dbd448853fab3bd48697e, type: 3}
+    - {fileID: -3975620004435911079, guid: 5c78afa1f84dbd448853fab3bd48697e, type: 3}
+    - {fileID: 6758715264619872048, guid: 5c78afa1f84dbd448853fab3bd48697e, type: 3}
+    - {fileID: -806606458785705461, guid: 5a047c40304e9724d929de35f2d61170, type: 3}
+    - {fileID: -911562702900957365, guid: 5a047c40304e9724d929de35f2d61170, type: 3}
+    - {fileID: 1949185085796099921, guid: 5a047c40304e9724d929de35f2d61170, type: 3}
+    - {fileID: -7515871071020844434, guid: 5a047c40304e9724d929de35f2d61170, type: 3}
+    - {fileID: -8232837780748162774, guid: 5a047c40304e9724d929de35f2d61170, type: 3}
+    - {fileID: -7786621324668156143, guid: 5a047c40304e9724d929de35f2d61170, type: 3}
+    - {fileID: 1319847894922034658, guid: ab055a47d88461d41ac2dd3c0ff3ebd1, type: 3}
+    - {fileID: 7946468939218121156, guid: ab055a47d88461d41ac2dd3c0ff3ebd1, type: 3}
+    - {fileID: 8912680617641176283, guid: ab055a47d88461d41ac2dd3c0ff3ebd1, type: 3}
+    - {fileID: 6886696195581428178, guid: ab055a47d88461d41ac2dd3c0ff3ebd1, type: 3}
+    - {fileID: 6696287442059008784, guid: ab055a47d88461d41ac2dd3c0ff3ebd1, type: 3}
+    - {fileID: 8556085002149378836, guid: ab055a47d88461d41ac2dd3c0ff3ebd1, type: 3}
+    cabins: []
+    legends:
+    - LegendName: Life Saving Appliances
+      LegendImage: {fileID: 21300000, guid: e2b63e5cf1984f1418948353989e2cc1, type: 3}
+    - LegendName: Safety Plans
+      LegendImage: {fileID: 21300000, guid: 45a42c6066ab1a84c81e6271f5a317d8, type: 3}
+    - LegendName: Fire Control Plan
+      LegendImage: {fileID: 21300000, guid: 7d97b54e3a4997942b1b0c96b60ac839, type: 3}
+    Features:
+    - beyond/features/damage control plan
+    - beyond/features/escape routes
+    - beyond/features/fire control plan
+    - beyond/features/framing
+    - beyond/features/life saving appliances
+    - beyond/features/safety plans
+    - beyond/features/structural fire plan
+    - beyond/features/watertight doors
+    shipAbbreviation: BY
+    eniramShipID: 
+    eMusteringURL: http://byapass01.beyond.sh.rccl.com/A-PASS/

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: fire control plan
+  m_EditorClassIdentifier: 
+  data:
+    featureName: fire control plan
+    Ship: 4
+    OptionalFeatureTool: 0
+    column: 2
+    overlays:
+    - {fileID: -243544520723649279, guid: 04c7dc9a0d153f246990e981ad6845e0, type: 3}
+    - {fileID: 7469529218354792342, guid: 04c7dc9a0d153f246990e981ad6845e0, type: 3}
+    - {fileID: -1060870583252227393, guid: 04c7dc9a0d153f246990e981ad6845e0, type: 3}
+    - {fileID: 1823040774438727972, guid: 04c7dc9a0d153f246990e981ad6845e0, type: 3}
+    - {fileID: -5408878100740991347, guid: 04c7dc9a0d153f246990e981ad6845e0, type: 3}
+    - {fileID: 303000268462892386, guid: 04c7dc9a0d153f246990e981ad6845e0, type: 3}
+    - {fileID: -6416982504353332184, guid: 04c7dc9a0d153f246990e981ad6845e0, type: 3}
+    - {fileID: 8397036231903230535, guid: 04c7dc9a0d153f246990e981ad6845e0, type: 3}
+    - {fileID: -6572476376109783401, guid: cdcc02b900fe3da40afd3bf435d7a50f, type: 3}
+    - {fileID: -3035671184663501457, guid: cdcc02b900fe3da40afd3bf435d7a50f, type: 3}
+    - {fileID: -8490742874538791902, guid: cdcc02b900fe3da40afd3bf435d7a50f, type: 3}
+    - {fileID: 2225547785476491182, guid: cdcc02b900fe3da40afd3bf435d7a50f, type: 3}
+    - {fileID: 4083174585491762011, guid: cdcc02b900fe3da40afd3bf435d7a50f, type: 3}
+    - {fileID: 3802779229086137665, guid: e9cef104e6dbac1468671d53952db3cb, type: 3}
+    - {fileID: -5398354305344748424, guid: e9cef104e6dbac1468671d53952db3cb, type: 3}
+    - {fileID: 2125494043423275407, guid: e9cef104e6dbac1468671d53952db3cb, type: 3}
+    - {fileID: -3049916280933157782, guid: e9cef104e6dbac1468671d53952db3cb, type: 3}
+    - {fileID: 2771093365979966532, guid: e9cef104e6dbac1468671d53952db3cb, type: 3}
+    - {fileID: -4442198358492288196, guid: e9cef104e6dbac1468671d53952db3cb, type: 3}
+    - {fileID: 1265855794642349967, guid: e9cef104e6dbac1468671d53952db3cb, type: 3}
+    - {fileID: 3540446537581615098, guid: e9cef104e6dbac1468671d53952db3cb, type: 3}
+    AssetBundleName: spectrum/features/fire control plan

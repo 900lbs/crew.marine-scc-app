@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: fire control plan
+  m_EditorClassIdentifier: 
+  data:
+    featureName: fire control plan
+    Ship: 100
+    OptionalFeatureTool: 0
+    column: 0
+    overlays:
+    - {fileID: -4718369718388183516, guid: df7ae72f4dc66af4f885a9cdd22a6cdd, type: 3}
+    - {fileID: 4426254686307370108, guid: df7ae72f4dc66af4f885a9cdd22a6cdd, type: 3}
+    - {fileID: 1285029339751887754, guid: df7ae72f4dc66af4f885a9cdd22a6cdd, type: 3}
+    - {fileID: -205729822400190359, guid: df7ae72f4dc66af4f885a9cdd22a6cdd, type: 3}
+    - {fileID: -3647958385652700807, guid: df7ae72f4dc66af4f885a9cdd22a6cdd, type: 3}
+    - {fileID: 4902187229777639491, guid: df7ae72f4dc66af4f885a9cdd22a6cdd, type: 3}
+    - {fileID: 147570933369545169, guid: 84a8f6ad29711694c85ae0d8c86a88a2, type: 3}
+    - {fileID: 8036833511140434512, guid: 84a8f6ad29711694c85ae0d8c86a88a2, type: 3}
+    - {fileID: 7040211515675897682, guid: 84a8f6ad29711694c85ae0d8c86a88a2, type: 3}
+    - {fileID: 8633036216365819082, guid: 84a8f6ad29711694c85ae0d8c86a88a2, type: 3}
+    - {fileID: -8715402588652796294, guid: 84a8f6ad29711694c85ae0d8c86a88a2, type: 3}
+    - {fileID: 8066100926314778533, guid: 84a8f6ad29711694c85ae0d8c86a88a2, type: 3}
+    - {fileID: -8352142643404974767, guid: b9f2f03b81f92ee43b4c197f412a68ba, type: 3}
+    - {fileID: 5358337667857495190, guid: b9f2f03b81f92ee43b4c197f412a68ba, type: 3}
+    - {fileID: 3641095088953542826, guid: b9f2f03b81f92ee43b4c197f412a68ba, type: 3}
+    - {fileID: 7244235765737578488, guid: b9f2f03b81f92ee43b4c197f412a68ba, type: 3}
+    - {fileID: 4252472519531155586, guid: b9f2f03b81f92ee43b4c197f412a68ba, type: 3}
+    - {fileID: -7512287667400140459, guid: b9f2f03b81f92ee43b4c197f412a68ba, type: 3}
+    - {fileID: 7982211942570243555, guid: a5286655ee8b38e4ebeb88cb4cfb8a40, type: 3}
+    - {fileID: 961969032645431558, guid: a5286655ee8b38e4ebeb88cb4cfb8a40, type: 3}
+    - {fileID: -8453183327523965350, guid: a5286655ee8b38e4ebeb88cb4cfb8a40, type: 3}
+    - {fileID: -7902372851881820171, guid: a5286655ee8b38e4ebeb88cb4cfb8a40, type: 3}
+    - {fileID: 7769102445336483408, guid: a5286655ee8b38e4ebeb88cb4cfb8a40, type: 3}
+    AssetBundleName: wonder/features/fire control plan

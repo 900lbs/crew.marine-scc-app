@@ -1,0 +1,3133 @@
+{
+  "killCards": [
+    {
+      "title": "Balcony Fire",
+      "type": "fire",
+      "deckNumber": "~tt",
+      "mfz": "06",
+      "lastEdit": "last edit 5.17.2022 03:26 pm",
+      "refPhotos": [
+        "Balcony Fire\\Image 1.jpg",
+"Balcony Fire\\Image 2.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>deck XX, mfz X state room number (if known)</indent>",
+          "checks": "False"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>Advised by OFCS</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>Advised by staff chief engineer</indent>",
+          "checks": "False"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>Make LEE from bridge</indent>\n\n- <indent=1.5em>Confirm hi-fog release into affected area.</indent>\n\n- <indent=1.5em>RR for SAR and evacuate adjacent cabins.</indent>\n\n- <indent=1.5em>Retreat FCP if smoke comes into corridor.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>Use IFEX if available.</indent>\n\n- <indent=1.5em>2 MFG entry from both side for SAR, Mark cabin has been searched with Evacuation Tag or Towels on the door handles</indent>\n\n- <indent=1.5em>Firefighting from the room , DO NOT step out to balcony</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>Above: Cabin (Fog applicator)</indent>\n\n- <indent=1.5em>Below: Cabin</indent>\n\n- <indent=1.5em>Adjacent Cabins</indent>n\n- <indent=1.5em>Consider boundary cooling for LB below</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>Keep power in area – lighting needed for SAR and evacuation.</indent>\n\n- <indent=1.5em>110V and 220V will trip on contact with water.</indent>\n\n- <indent=1.5em>Overpressure the corridor once area confirmed evacuated.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none</indent>\n",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "- <indent=1.5em>Communication:</indent>\n\n- <indent=1.5em>1 Avoid excessive communication</indent>\n\n- <indent=1.5em>2 MFG if not able to talk with FCP , send hose stander for replying the message</indent>\n\n- <indent=1.5em>3 Mark cabin had been searched</indent>",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "N%$VLH4U7NWQRG*"
+    },
+    {
+      "title": "emergency switchboard room",
+      "type": "fire",
+      "deckNumber": "16",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 03:47 pm",
+      "refPhotos": [
+        "emergency switchboard room\\Image 1.jpg",
+"emergency switchboard room\\Image 2.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 16, MFZ 6, EMERGENCY SWITCHBOARD ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 16, MFZ 6, STBD SIDE, ENTRANCE TO SWITCHBOARD ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>deck 15 mfz 7 in front of climbing wall</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>if emergency dg running , emergency stop in ecr.</indent>\n\n- <indent=1.5em>fuel shut off valves manual control outside edg room.</indent>\n\n- <indent=1.5em>send elevators to dk5 before cut off emergency power supply.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>single hose entry only if power confirmed isolated</indent>\n\n- <indent=1.5em>retreat fcp to seaplex if smoke comes to fcp.</indent>\n\n- <indent=1.5em>no hi-fog coverage, co2 muster and release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>aft: locker behind seaplex big led screen</indent>\n\n- <indent=1.5em>fwd: both side emergency dg room</indent>\n\n- <indent=1.5em>below: seaplex fwd corridor</indent>\n\n- <indent=1.5em>monitor temperature of em. dg fuel tank</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>shut off power and vent to em. switchboard room, maintain ventilation in vicinity.</indent>\n\n- <indent=1.5em>close damper and vent,  in case co2 release</indent>\n\n- <indent=1.5em>verify if 2 escape hatches on the top are closed</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high voltage</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>consider to potentially not even fight the fire but focus on containment.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "BOS&XONB)UJ$J%9"
+    },
+    {
+      "title": "dk 3 main galley",
+      "type": "fire",
+      "deckNumber": "03",
+      "mfz": "07",
+      "lastEdit": "last edit 05.17.2022 03:53 pm",
+      "refPhotos": [
+"dk 3 main galley\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 7, MAIN GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 7, STBD SIDE, STAIRCASE 7-A MID</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 6, PORT  SIDE, DINNING ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm galley shutdown.</indent>\n\n- <indent=1.5em>confirm hi-fog release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>dff shutdown / manual hi-fog release to be activated.</indent>\n\n- <indent=1.5em>in manual hi-fog fails, two hose entry with two water walls for protection and utilize wet chemical extinguisher for fire-fighting.</indent>\n\n- <indent=1.5em>if fire in galley duct-co2 can be released by the stbd/s cabinet</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: main galley deck 4</indent>\n\n- <indent=1.5em>below: provision area</indent>\n\n- <indent=1.5em>fwd: office corridor stbd side, store room/ elevator sl 08/09 on the port side.</indent>\n\n- <indent=1.5em>aft: ac room/deck store/e-station (consider boundary cooling from ac room)</indent>\n\n- <indent=1.5em>side:  none</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>confirm galley shutdown – power isolations to all equipment / ventilation stopped.</indent>\n\n- <indent=1.5em>open co2 cabinet for quick shutdown of galley equipment and ventilation stop.</indent>\n\n- <indent=1.5em>follow the instruction on the door to release the co2</indent>\n\n- <indent=1.5em>cabinet located at stb entrance lobby (fcp).</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>oil from dff.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>stop sls 8.9.10, 11, 12 & 13.</indent>\n\n- <indent=1.5em>check for fire spread and boundary cool as required in elevator shafts.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "BUF!8OL8SUQ$!PR"
+    },
+    {
+      "title": "bow thruster room",
+      "type": "fire",
+      "deckNumber": "00",
+      "mfz": "01",
+      "lastEdit": "last edit 05.16.2020 1:47 am",
+      "refPhotos": [
+        "bow thruster room\\Image 1.jpg",
+        "bow thruster room\\Image 2.jpg",
+"bow thruster room\\Image 3.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 0, MFZ 1, BOW THRUSTER ROOM (THERE ARE TWO COMPARTMENTS ON 2 LEVELS WTD 01-1-001 GIVES ACCESS TO THE FWD COMPARTMENT</indent>",
+          "checks": "True"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 1, BY FIRE DOOR 03-1-009</indent>",
+          "checks": "True"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 2, CREW MESS</indent>",
+          "checks": "True"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>emergency stop (if in operation).</indent>\n\n- <indent=1.5em>close wtd 01-1-001 and 02-1-001.</indent>\n\n- <indent=1.5em>hi fog release from ecr.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>confirm hi fog release (staff chief).</indent>\n\n- <indent=1.5em>entry to be made if fire suppressed– only if power secured.</indent>\n\n- <indent=1.5em>one hose entry with foam from inline inductor.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>sides: none</indent>\n\n- <indent=1.5em>aft: void space if required</indent>\n\n- <indent=1.5em>above: crew internet & library, crew coffee shop, store forward of chain locker, store port deck 2 comp 3 & deck 2 area adjacent elevator sl 01</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>shut off power and vent to both bow thruster rooms.</indent>\n\n- <indent=1.5em>hi voltage must be secured before mfg entry.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>possible lube oil.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>shut down sl 01.</indent>\n\n- <indent=1.5em>evacuate crew areas mfz 1</indent>\n\n- <indent=1.5em>closure of stairwell 1-c mid 2-9.</indent>\n\n- <indent=1.5em>fill fpk (boundary cooling).</indent>\n\n- <indent=1.5em>mfg’s will descend steep staircases until they arrive at the entry point to the bow thruster compt.  access is restricted at bottom of the stairs but an entry is possible.</indent>\n\n- <indent=1.5em>post sentries back stage so no one enters fcp area after it has been relocated.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "X6J3G*PQJWA$$BB"
+    },
+    {
+      "title": "main laundry dk 0 port",
+      "type": "fire",
+      "deckNumber": "00",
+      "mfz": "02",
+      "lastEdit": "last edit 05.05.2020 07:19 am",
+      "refPhotos": [
+"main laundry dk 0 port\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK  00, MFZ 2, PORT SIDE, WET LAUNDRY, COMPARTMENT 6</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 0, MFZ 2, STAIRCASE 2C MID</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>deck 2 mfz 3, starboard side tender lobby</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>esd for laundry activated from ecr</indent>\n\n- <indent=1.5em>bridge to shut all fire doors and wtds in the area</indent>\n\n- <indent=1.5em>evacuate the entire compartment and close down</indent>\n\n- <indent=1.5em>confirm hi-fog release – utilize duct hi-fog release in staircase (dk 0)</indent>\n\n- <indent=1.5em>confirm with laundry master status of evacuees</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>confirm hi fog release</indent>\n\n- <indent=1.5em>activate the duct hi-fog from the panel at dk 0 of stair 2c mid</indent>\n\n- <indent=1.5em>one hose entry water wall protection and fire-fighting.</indent>\n\n- <indent=1.5em>ofc to establish second fcp and stand by with mfg 7 by north star, ready to spray the water into laundry ventilation duct from ac room, dk 17.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>aft: crew cabins deck 0 compartment 7</indent>\n\n- <indent=1.5em>fwd: crew disco, pantry and staircase deck 0 compartment 5</indent>\n\n- <indent=1.5em>above: laundry deck 1</indent>\n\n- <indent=1.5em>below: compartment 6 corridor, gw and tww tanks</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>shut off power and ventilation to laundry, maintain ventilation in staircase.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>laundry chemical store on deck 1 port side</indent>\n\n- <indent=1.5em>significant amount of fire load due to nature of the space</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>washing tunnel cannot be sealed and will cause smoke and potential fire spread to stbd side dry cleaning area & deck 1</indent>\n\n- <indent=1.5em>fill the tww and gw tanks in compartment 6</indent>\n\n- <indent=1.5em>use r.r to establish boundary cooling above the fire quickly</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "OVZ(MBK1R2!0)WG"
+    },
+    {
+      "title": "guest statement whole zone fire",
+      "type": "fire",
+      "deckNumber": "11",
+      "mfz": "07",
+      "lastEdit": "last edit 05.17.2022 08:22 pm",
+      "refPhotos": [
+"guest statement whole zone fire\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 11, MFZ 7, GUEST STATEMENT ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 11, MFZ 6, STAIRWAY 6C MID</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 11, MFZ 5, GUEST LOBBY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm hi-fog release into affected area.</indent>\n\n- <indent=1.5em>rr for sar and evacuate adjacent cabins.</indent>\n\n- <indent=1.5em>retreat fcp if smoke comes into stairway.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>use ifex if available.</indent>\n\n- <indent=1.5em>2 mfg entry from both side for sar, mark cabin has been searched with evacuation tag or towels on the door handles</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: cabin</indent>\n\n- <indent=1.5em>below: cabin</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>keep power in area – lighting needed for sar and evacuation.</indent>\n\n- <indent=1.5em>110v and 220v will trip on contact with water.</indent>\n\n- <indent=1.5em>overpressure the corridor once area confirmed evacuated.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "- <indent=1.5em>communication:</indent>\n\n- <indent=1.5em>1 avoid excessive communication</indent>\n\n- <indent=1.5em>2 mfg if not able to talk with fcp , send hose stander for replying the message</indent>\n\n- <indent=1.5em>3 mark cabin had been searched</indent>\n\n- <indent=1.5em>4 medical stretcher team need to be ready at fcp once entry had been made by mfg</indent>\n\n- <indent=1.5em>5 be ready to charge bottle due to multi entry are needed for the whole zone fire</indent>\n\n- <indent=1.5em>6 sa mark the area had been searched and casualty retrieved</indent>\n\n- <indent=1.5em>7  be ready supply water for the mfg</indent>",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "VW52&X3Z8@5E&O8"
+    },
+    {
+      "title": "dk 4 main galley",
+      "type": "fire",
+      "deckNumber": "04",
+      "mfz": "07",
+      "lastEdit": "last edit 05.17.2022 09:15 pm",
+      "refPhotos": [
+"dk 4 main galley\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 7, MAIN GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 7, STBD SIDE, STAIRCASE 7-A MID</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 6, PORT  SIDE, DINNING ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm galley shutdown.</indent>\n\n- <indent=1.5em>confirm hi-fog release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>dff shutdown / manual hi-fog release to be activated.</indent>\n\n- <indent=1.5em>in manual hi-fog fails, two hose entry with two water walls for protection and utilize wet chemical extinguisher for fire-fighting.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: the via, café two 70, pantry for café two 70, forward area of two70</indent>\n\n- <indent=1.5em>below:  deck 3 galley area</indent>\n\n- <indent=1.5em>fwd: chef’s office corridor stbd side, store room on the port side.</indent>\n\n- <indent=1.5em>aft: fwd bulkhead of large cross passageway for the two 70 stage area</indent>\n\n- <indent=1.5em>side: none</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>confirm galley shutdown – power isolations to all equipment / ventilation stopped.</indent>\n\n- <indent=1.5em>open co2 cabinet for quick shutdown of galley equipment and ventilation stop.</indent>\n\n- <indent=1.5em>cabinet located at stb entrance lobby (fcp).</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>oil from dff.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>stop sls 10, 11, 12 & 13.</indent>\n\n- <indent=1.5em>check for fire spread and boundary cool as required in elevator shafts.</indent>\n\n- <indent=1.5em>consider relocation of assembly stations e1 & e2.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "VR6QF^N#DPNF@AQ"
+    },
+    {
+      "title": "fwd separator room",
+      "type": "fire",
+      "deckNumber": "~tt",
+      "mfz": "05",
+      "lastEdit": "last edit 05.17.2022 7:38 pm",
+      "refPhotos": [
+"fwd separator room\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK TT, MFZ 5, FWD SEPARATOR ROOM, COMPT 13</indent>",
+          "checks": "False"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK TT, MFZ 5, STBD SIDE, OUTSIDE FWD SEPARATOR ROOM – FCP WILL HAVE TO BE RE-LOCATED ONCE THE MFG’S ARE ABOUT TO ENTER THE AFT SEPARATOR ROOM - RELOCATE TO DECK 1 STAIRCASE 5-A MID 0-2 AREA</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>deck 2 mfz 4 i-95</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>emergency stop in ecr.</indent>\n\n- <indent=1.5em>fuel shut off valves.</indent>\n\n- <indent=1.5em>hi fog release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>confirm hi fog release</indent>\n\n- <indent=1.5em>co2 muster and release if no hi-fog.</indent>\n\n- <indent=1.5em>initial entry after 24 hrs to include foam from fire express or inline inductor.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>aft bulkhead and entrance door area: rapid response at fcp.</indent>\n\n- <indent=1.5em>fwd: compart13 port aft corner</indent>\n\n- <indent=1.5em>aft:  port fwd corner of fwd eng rm compartment 14</indent>\n\n- <indent=1.5em>crew cabins on dk 1 port side accessed from stairwell 5-a-mid 0-2</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>shut off power and vent to separator room, maintain ventilation in vicinity.</indent>\n\n- <indent=1.5em>all doors to be closed before co2 release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high temperature oil, pressure up to 8 bar. use foam.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>foam, foam inductor, foam branch pipe is kept just outside separator room with inductor if fire is small enough, try fire express & foam extinguishers.</indent>\n\n- <indent=1.5em>the foam dump for the foam inductor should be established in fresh area so that it can be re-supplied as necessary.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "RP$CBXHKEX4^@G0"
+    },
+    {
+      "title": "garbage handling dk 2",
+      "type": "fire",
+      "deckNumber": "02",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 07:21 pm",
+      "refPhotos": [
+"garbage handling dk 2\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 6, GARBAGE HANDLING</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 6, I-95 OUTSIDE GARBAGE HANDLING</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 5, PORT SIDE GANGWAY LOBBY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm incinerator shut down. emergency shutdown buttons are located beside co2 release cabinet</indent>\n\n- <indent=1.5em>confirm hi-fog release inside silos, within room, chute and incinerators (Consideration of activation compartment 15 flooding). this can be done remotely from the bridge or ecr. manual opening of everything but the chute are from aft engine room on the starboard bulkhead</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>one hose entry.</indent>\n\n- <indent=1.5em>release valve for silos is on right hand side after entering.</indent>\n\n- <indent=1.5em>co2 release cabinets for silos is on the right hand side when entering from i-95</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: dining room, stbd side.</indent>\n\n- <indent=1.5em>below: continuation of incinerator room (no entry).</indent>\n\n- <indent=1.5em>fwd: engine casing and aft gangway lobby.</indent>\n\n- <indent=1.5em>aft: cold store and food waste treatment room. send mfg down compartment 16 stair off i-95 to enter the bio room on deck 1 to provide boundary cooling</indent>\n\n- <indent=1.5em>Consideration monitors temperature on STBD Switchboard room</indent>\n\n- <indent=1.5em>side: port side rapid response at fcp.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>confirm there are no casualties</indent>\n\n- <indent=1.5em>power isolations to all equipment / ventilation stopped especially incinerator gas oil supply.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high fire load from combustibles and potential accelerants in the garbage.</indent>\n\n- <indent=1.5em>used cooking oil in drums.</indent>\n\n- <indent=1.5em>waste chemicals and flammables on last day before landing (inside cold room).</indent>\n\n- <indent=1.5em>gas oil being used to incinerate</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>consider release of hi fog in cold room to prevent progression to hazardous materials stored inside.</indent>\n\n- <indent=1.5em>consider hi-fog release in bio waste room for boundary cooling</indent>\n\n- <indent=1.5em>rescue party could be more effective by entering from deck 30 and working upwards. they would need to enter from aft or forward engine room where you would relocate the fcp to.</indent>\n\n- <indent=1.5em>relocate assembly stations y1, y2, y3, y4 & y5.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "*NN3HS$2QLH32N3"
+    },
+    {
+      "title": "galley exhaust ducts",
+      "type": "fire",
+      "deckNumber": "16",
+      "mfz": "07",
+      "lastEdit": "last edit 11.14.2019 07:09 pm",
+      "refPhotos": [
+        "galley exhaust ducts\\Image 1.jpg",
+"galley exhaust ducts\\Image 2.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 16, FZ 7, STARBOARD SIDE, FAN ROOM, GALLEY EXHAUST DUCTS</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>deck 16, fz 7, staircase 7a mid</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 16, FZ 6, SEAPLEX, AFT</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm galley shutdown.</indent>\n\n- <indent=1.5em>confirm hi-fog release.</indent>\n\n- <indent=1.5em>confirm dampers closed</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>dff shutdown / manual hi-fog release to be activated.</indent>\n\n- <indent=1.5em>if manual hi-fog fails, two hose entry with two water walls for protection and utilize wet chemical extinguisher for fire-fighting.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>fwd: sl10 & sl11 elevator shafts</indent>\n\n- <indent=1.5em>aft: dk16 ifly</indent>\n\n- <indent=1.5em>aft: dk14 windjammer galley</indent>\n\n- <indent=1.5em>aft: dk13 ac room 07-13</indent>\n\n- <indent=1.5em>aft: dk7 ac room 07-7</indent>\n\n- <indent=1.5em>aft: dk6 ac room 07-7</indent>\n\n- <indent=1.5em>above: dk17 ac room 07-17</indent>\n\n- <indent=1.5em>below: n/a</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>confirm galley shutdown – power isolations to all equipment / ventilation stopped.</indent>\n\n- <indent=1.5em>open co2 cabinet for quick shutdown of galley equipment and ventilation stop</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>oil from dff.</indent>\n\n- <indent=1.5em>consider oxy/acetylene store, deck 3 mfz 7.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>stop sl’s 10, 11, 12 & 13.</indent>\n\n- <indent=1.5em>check for fire spread and boundary cool as required in elevator shafts.</indent>\n\n- <indent=1.5em>consider relocation of assembly stations e1 & e2.</indent>\n\n- <indent=1.5em>co2 mustering complete before releasing co2</indent>\n\n- <indent=1.5em>consider evacuating staterooms in fz7, deck 6 to deck 13</indent>\n\n- <indent=1.5em>consider evacuating 270 café</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": " <indent=1.5em>there is a time delay of 20 minutes once ventilation has been stopped in the galleys before the hatch to galley duct mast can be opened.</indent>\n\n- <indent=1.5em>spraying water from the top of the duct will not go down far as there is a bend in the duct to prevent such water from going any further.</indent>",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "S#ZSUPK$MKOG2$V"
+    },
+    {
+      "title": "fwd main engine room dk 30",
+      "type": "fire",
+      "deckNumber": "~tt",
+      "mfz": "05",
+      "lastEdit": "last edit 05.17.2022 06:57 pm",
+      "refPhotos": [
+"fwd main engine room dk 30\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 30, MFZ 5, FWD MAIN ENGINE ROOM COMPARTMENT 14</indent>",
+          "checks": "False"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 30, MFZ 5, COMPARTMENT 13, STBD SIDE</indent>",
+          "checks": "False"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK  2, MFZ 6, STBD SIDE, AFT LUGGAGE HANDLING AREA</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>esd (emergency shut down from ecr): emergency stop of engine / fuel shut off valves / power and ventilation shut off.</indent>\n\n- <indent=1.5em>hi fog release.</indent>\n\n- <indent=1.5em>bridge to close adjacent wtd and fd.</indent>",
+          "checks": "False"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>confirm hi fog release:</indent>\n\n<indent=5.5em>- - local release valves at fcp</indent>\n\n<indent=5.5em>- - srv located fwd of er to stbd of wtd 30.05.001</indent>\n\n- <indent=1.5em>if no hi fog, entry with foam and water wall for sar and ff in case of small fire. foam station is located at fcp. more foam buckets available from aft main engine room and 150l foam extinguisher available next to boiler #2.</indent>\n\n- <indent=1.5em>use water shield on wtd and retreat if necessary into incinerator room.</indent>\n\n- <indent=1.5em>if initial entry fails and after co2 muster is complete or as per masters discretion release co2. initial entry after 24hrs.</indent>\n\n- <indent=1.5em>entry to space to include foam.</indent>",
+          "checks": "False"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>fwd: compartment 13 (mfg) mfg and rr</indent>\n\n- <indent=1.5em>aft: compartment 15 (mfg)</indent>\n\n- <indent=1.5em>above: forward deck 2 area of mfz 5 – passenger lobbies – beware combustible materials. deck 1 port side cabins.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>power and vent to me room shut off initially from ecr (esd – emergency shut down).</indent>\n\n- <indent=1.5em>all doors to be closed before co2 release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high temperature oil, use foam.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>for any boundary cooling operations in machinery spaces only use mfg with knowledge of machinery space layout for this operation.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "AW6WR)#I$(X6W@$"
+    },
+    {
+      "title": "forward switchboard room",
+      "type": "fire",
+      "deckNumber": "01",
+      "mfz": "05",
+      "lastEdit": "last edit 05.17.2022 06:48 pm",
+      "refPhotos": [
+"forward switchboard room\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 1, MFZ 5, FWD SWITCHBOARD ROOM, COMPARTMENT 14</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 1, MFZ 5, STB  SIDE, OUTSIDE FWD  SWITCHBOARD ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>deck 2 mfz 6 i-95 outside ecr</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>emergency stop all the fwd engines.</indent>\n\n- <indent=1.5em>open the breaker on transfer line: 811.2002.0001 for fwd switchboard room.</indent>\n\n- <indent=1.5em>hi-fog released locally by opening the valve in front of the entrance.</indent>\n\n- <indent=1.5em>remote close wtds and fds in the area (01-5-001 & 01-5-003 & 01-5-005) from the bridge</indent>\n\n- <indent=1.5em>rr for sar and fsd closing if not done yet.</indent>\n\n- <indent=1.5em>start the aft engines.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>if hi-fog fails, co2 muster and release.</indent>\n\n- <indent=1.5em>single hose entry only if power confirmed isolated, from fd-01-5-003 for sar & ff.</indent>\n\n- <indent=1.5em>retreat fcp to dk2 mfz6 outside fd-02-5-015 if smoke comes to fcp.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>aft: stb. side, fwd bulkhead of compt 15.</indent>\n\n- <indent=1.5em>fwd: stb. side, fwd bulkhead of fwd switchboard room.</indent>\n\n- <indent=1.5em>above: stb/s guest lobby.</indent>\n\n- <indent=1.5em>below: stb/s rever. osmose aft</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>shut off power and vent to fwd switchboard room, maintain ventilation in vicinity.</indent>\n\n- <indent=1.5em>shut off high voltage.</indent>\n\n- <indent=1.5em>close damper and vent in case co2 release</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high voltage</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>consider to potentially not even fight the fire but focus on containment.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "$Y*UF#QT5L7TAS$"
+    },
+    {
+      "title": "emergency dg",
+      "type": "fire",
+      "deckNumber": "16",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 12:28 am",
+      "refPhotos": [
+"emergency dg\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 16, MFZ 6 EMERGENCY DIESEL GENERATOR ROOM  PORT/STBD</indent>",
+          "checks": "True"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 16, MFZ 5, OUTSIDE EMERGENCY DG ROOM FWD PORT/STBD</indent>",
+          "checks": "True"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 15, MFZ 5, PORT, STAIRCASE PORT/ STBD SIDE RUNNING TRACK AREA</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>emergency stop in ecr.</indent>\n\n- <indent=1.5em>fuel shut off valves manual control outside edg room.</indent>\n\n- <indent=1.5em>consider hi-fog release from ecr.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "firefighting techniques",
+          "notes": "- <indent=1.5em>two hose entry with foam from inline inductor.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above:</indent>\n\n- <indent=1.5em>below: skate store, teens outdoor area,</indent>\n\n- <indent=1.5em>fwd: fan chamber</indent>\n\n- <indent=1.5em>aft: emergency generator switchboard room</indent>\n\n- <indent=1.5em>side:  port side rapid response at scene</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>shut off power and vent to em dg room.</indent>\n\n- <indent=1.5em>confirmed dampers are closed before co2 release.</indent>\n\n- <indent=1.5em>positive supply to co2 bottle rooms and entrance corridors.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>fuel tanks inboard side of each emergency generator.</indent>\n\n- <indent=1.5em>emergency fuel shut off  valves located just outside each respective emergency generator access door</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>guests in area to be evacuated from area – may need extra crew to assist to do this rapidly.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "LL9^L4*G^4035U*"
+    },
+    {
+      "title": "converter room stbd",
+      "type": "fire",
+      "deckNumber": "02",
+      "mfz": "07",
+      "lastEdit": "last edit 05.17.2022 12:13 am",
+      "refPhotos": [
+"converter room stbd\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 7, STARBOARD SIDE, CONVERTER ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 7, ENTRANCE TO AZIPOD ROOMS</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>deck 2, mfz 6, luggage handling area</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>emergency stop in ecr.</indent>\n\n- <indent=1.5em>hi fog release.</indent>\n\n- <indent=1.5em>remote close wtds and fds in the area.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>hi fog release.</indent>\n\n- <indent=1.5em>single hose direct only if power confirmed isolated.</indent>\n\n- <indent=1.5em>setup mfgs at entrance to converter room then retreat out of azipod room.</indent>\n\n- <indent=1.5em>if hi fog fails, co2 muster and release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>aft and port: starboard azipod room – isolate power</indent>\n\n- <indent=1.5em>fwd: deck 2 staircase 7c stbd.</indent>\n\n- <indent=1.5em>above: deck 3 co2 room, aft mooring deck.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>shut off power and vent to converter room. maintain overpressure in azipod room.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high voltage</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>check emergency escape hatch leading up to aft mooring deck – consider as alternative entrance if necessary.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "27CTR9JH733DAL4"
+    },
+    {
+      "title": "converter room port",
+      "type": "fire",
+      "deckNumber": "02",
+      "mfz": "07",
+      "lastEdit": "last edit 05.17.2022 12:08 am",
+      "refPhotos": [
+"converter room port\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 7, PORT SIDE, CONVERTER ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 7, ENTRANCE TO AZIPOD ROOMS</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>deck 2, mfz 6, provision handling area</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>emergency stop in ecr.</indent>\n\n- <indent=1.5em>hi fog release.</indent>\n\n- <indent=1.5em>remote close wtds and fds in the area.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>hi fog release.</indent>\n\n- <indent=1.5em>single hose direct only if power confirmed isolated.</indent>\n\n- <indent=1.5em>setup mfgs at entrance to converter room then retreat out of azipod room.</indent>\n\n- <indent=1.5em>if hi fog fails, co2 muster and release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>aft and port: starboard azipod room – isolate power</indent>\n\n- <indent=1.5em>fwd: deck 2 provisions cooked meat, dressings, pickles, condiments.</indent>\n\n- <indent=1.5em>above: deck 3 ac room, aft mooring and oxygen/acetylene store – manual hi fog release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>shut off power and vent to converter room. maintain overpressure in azipod room.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high voltage</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>check emergency escape hatch leading up to aft mooring deck – consider as alternative entrance if necessary.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "Z@!A6M&10J&SB!Z"
+    },
+    {
+      "title": "azipod rooms",
+      "type": "fire",
+      "deckNumber": "02",
+      "mfz": "07",
+      "lastEdit": "last edit 05.17.2022 12:06 am",
+      "refPhotos": [
+"azipod rooms\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 7, AZIPOD ROOM PORT/STBD COMPT 21</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 7, ENTRANCE AREA TO AZIPOD ROOMS</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 6, STBD SIDE, LUGGAGE HANDLING AREA</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>emergency stop in ecr.</indent>\n\n- <indent=1.5em>hi-fog release from ecr.</indent>\n\n- <indent=1.5em>fuel shut off valves.</indent>\n\n- <indent=1.5em>close all access doors.</indent>\n\n- <indent=1.5em>shutdown adjacent converter.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>co2 muster and release.</indent>\n\n- <indent=1.5em>initial entry after 24 hrs to include foam ( 2 hose entry )</indent>\n\n- <indent=1.5em>relocate fcp to behind dk 2 fd 02-07-013 when mfg’s enter compt</indent>\n\n- <indent=1.5em>wtd should be put to manual on the bridge</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>adjacent azipod rooms</indent>\n\n- <indent=1.5em>fwd cool rooms port side and passage way stbd side, galley store and galley uniform store</indent>\n\n- <indent=1.5em>no bc in converter rooms</indent>\n\n- <indent=1.5em>above: mooring deck.</indent>\n\n- <indent=1.5em>aft spare parts locker – access can be gained from the aft mooring deck escape trunk, caution must be taken not to enter the azipod room where the fire is as there are two doors at the bottom of the escape trunk one leading into the spare parts locker and one leading in to the azipod room where the fire will be.</indent>\n\n",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>shut off power and ventilation to azipod room.</indent>\n\n- <indent=1.5em>all doors to be closed before co2 release.</indent>\n\n- <indent=1.5em>shut off high voltage.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high temperature oil. use foam.</indent>\n\n- <indent=1.5em>oxygen and acetylene store above port azipod room</indent>\n\n- <indent=1.5em>electrical stations above – take caution with water – dispatch an electrician to over any boundary cooling required.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>use inline inductor with foam</indent>\n\n- <indent=1.5em>there are steps going down in both the port and stbd azipod rooms, mfg’s should take care if the compartment is smoke logged.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "J4)82AR1ADCECM1"
+    },
+    {
+      "title": "aft switchboard room",
+      "type": "fire",
+      "deckNumber": "01",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 11:39 am",
+      "refPhotos": [
+"aft switchboard room\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 1, MFZ 6, AFT SWITCHBOARD ROOM, COMPARTMENT 16</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 1, MFZ 6, PORT  SIDE, OUTSIDE AFT  SWITCHBOARD ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>deck 2 mfz 5 guest lobby</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>emergency stop all the aft engines.</indent>\n\n- <indent=1.5em>open the breaker on transfer line: 811.1015.0001 for aft switchboard room</indent>\n\n- <indent=1.5em>hi-fog released locally by opening the valve in front of the entrance.</indent>\n\n- <indent=1.5em>remote close wtds and fds in the area (01-6-004 & 01-6-006 & 01-6-008) from the bridge</indent>\n\n- <indent=1.5em>rr for sar and fsd closing if not done yet.</indent>\n\n- <indent=1.5em>start the fwd engines.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>if hi-fog fails, co2 muster and release.</indent>\n\n- <indent=1.5em>single hose entry only if power confirmed isolated, from fd-01-6-008 for sar & ff.</indent>\n\n- <indent=1.5em>retreat fcp to dk2 mfz6 outside fd-02-6-025 if smoke comes to fcp.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>aft: port side, fwd bulkhead of compt 17.</indent>\n\n- <indent=1.5em>fwd: port side, aft bulkhead of compt. 15.</indent>\n\n- <indent=1.5em>above: crew cabins deck 2 port side i-94.</indent>\n\n- <indent=1.5em>below: ceiling of aft main engine room</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>shut off power and vent to aft switchboard room, maintain ventilation in vicinity.</indent>\n\n- <indent=1.5em>shut off high voltage.</indent>- <indent=1.5em>close damper and vent in case co2 release</indent>\n\n",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high voltage</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>consider to potentially not even fight the fire but focus on containment.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "1&^LF8#5746FWJV"
+    },
+    {
+      "title": "aft separator room",
+      "type": "fire",
+      "deckNumber": "30",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 11:32 pm",
+      "refPhotos": [
+"aft separator room\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 30, MFZ 6, AFT SEPARATOR ROOM, COMPARTMENT 17</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 30, MFZ 6, STBD  SIDE, OUTSIDE AFT  SEPARATOR ROOM – FCP WILL HAVE TO BE RE-LOCATED ONCE THE MFG’S ARE ABOUT TO ENTER THE AFT SEPARATOR ROOM - RELOCATE TO DECK 1 LOBBY ADJACENT STAIRCASE  5B MID 1-2  AREA</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>deck 2 mfz 5 i-95</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>emergency stop in ecr.</indent>\n\n- <indent=1.5em>fuel shut off valves.</indent>\n\n- <indent=1.5em>hi fog release.</indent>\n\n- <indent=1.5em>start engine in compartment not being fed from that separator room.</indent>\n\n- <indent=1.5em>remote close wtds and fds in the area (30-06-003 & 30-06-004)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>confirm hi fog release – local release is inside the room, however the section valve can be activated using the black knob outside the room.</indent>\n\n- <indent=1.5em>there is no co2 coverage in this space</indent>\n\n- <indent=1.5em>initial entry after 24 hrs to include foam from fire express or inline inductor.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>aft: stbd, fwd bulkhead of compt 18.</indent>\n\n- <indent=1.5em>fwd: rapid response at fcp.</indent>\n\n- <indent=1.5em>above: crew cabins deck 1 stbd side accessed by staircase 6b mid  1-2</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>shut off power and vent to aft separator room, maintain ventilation in vicinity.</indent>\n\n- <indent=1.5em>(power - tbc)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high temperature oil, pressure up to 8 bar. use foam.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>consider to potentially not even fight the fire but focus on containment.</indent>\n\n- <indent=1.5em>foam, foam inductor, foam branch pipe is kept just outside separator room with inductor if fire is small enough, try fire express & foam extinguishers.</indent>\n\n- <indent=1.5em>the foam dump and foam inductor should be relocated from outside the separator room to the center corridor in a fresh area so that it can be re-supplied as necessary</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "RHQIU)DM34IK!&4"
+    },
+    {
+      "title": "aft main engine room dk 30",
+      "type": "fire",
+      "deckNumber": "30",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 10:58 pm",
+      "refPhotos": [
+        "aft main engine room dk 30\\Image 1.jpg",
+"aft main engine room dk 30\\Image 2.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 30, MFZ 6, AFT MAIN ENGINE ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 30, MFZ 6, STBD SIDE, INCINERATOR ROOM ACCESS VIA GARBAGE HANDLING ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK  2, MFZ 5, STBD SIDE, AFT GANGWAY LOBBY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>esd (emergency shut down from ecr): emergency stop of engine / fuel shut off valves / power and ventilation shut off.</indent>\n\n- <indent=1.5em>hi fog release.</indent>\n\n- <indent=1.5em>bridge to close adjacent wtd and fd.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>confirm hi fog release:</indent>\n\n<indent=5.5em>- - local release valves at fcp</indent>\n\n<indent=5.5em>- - srv located aft of er above wtd 30.06.003</indent>\n\n- <indent=1.5em>if no hi fog, entry with foam and water wall for sar and ff in case of small fire. foam station is located at fcp. more foam buckets available from fwd main engine room and 150l foam extinguisher available next to boiler #2. use water shield on wtd and retreat if necessary into incinerator room.</indent>\n\n\n\n- <indent=1.5em>if initial entry fails and after co2 muster is complete or as per masters discretion release co2. initial entry after 24hrs.</indent>\n\n- <indent=1.5em>entry to space to include foam.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>fwd: fwd main engine room/rr</indent>\n\n- <indent=1.5em>aft: compartment 17 (mfg)</indent>\n\n- <indent=1.5em>above: forward deck 2 area of mfz 6 – all of the area forward of the ecr until mfz 5</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>shut off power and vent to me room.</indent>\n\n- <indent=1.5em>all doors to be closed before co2 release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high temperature oil. use foam.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>for any boundary cooling operations in machinery spaces only use mfg with knowledge of machinery space layout for this operation.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "H%P(1)W95!Q(LD&"
+    },
+    {
+      "title": "windjammer show galley",
+      "type": "fire",
+      "deckNumber": "14",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 12:58 am",
+      "refPhotos": [
+"windjammer show galley\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 14, MFZ 6, WINDJAMMER SHOW GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 14, MFZ 6, WINDJAMMER MARKETPLACE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 14, MFZ 5   ELEVATOR LOBBY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm galley shutdown.</indent>\n\n- <indent=1.5em>confirm hi-fog release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>dff shutdown / manual hi-fog release to be activated.</indent>\n\n- <indent=1.5em>in manual hi-fog fails, two hose entry with two water walls for protection and utilize wet chemical extinguisher for fire-fighting.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: port side - seaplex dog house pantry, stbd side – storeroom and stairway 6c mid 1- 15 area on deck 15</indent>\n\n- <indent=1.5em>below:  guest staterooms & corridors</indent>\n\n- <indent=1.5em>fwd:  windjammer</indent>\n\n- <indent=1.5em>aft:  windjammer</indent>\n\n- <indent=1.5em>sides:  windjammer roller shutter</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>confirm galley shutdown – power isolations to all equipment / ventilation stopped</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>evacuate decks 14 & 15 mfz 5, 6 & 7</indent>\n\n- <indent=1.5em>close off staircase 7a mid 0-16</indent>\n\n- <indent=1.5em>shut off elevators sl10, sl11, sl12 & sl13</indent>\n\n- <indent=1.5em>don’t allow elevators sc 07 – 16 to proceed higher than deck 13 if possible</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "%%RZ5%7$@2X4M1*"
+    },
+    {
+      "title": "dk 14 windjammer",
+      "type": "fire",
+      "deckNumber": "14",
+      "mfz": "07",
+      "lastEdit": "last edit 05.17.2022 12:16 am",
+      "refPhotos": [
+"dk 14 windjammer\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 14, MFZ 7, WINDJAMMER GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 14, MFZ 7, WINDJAMMER AFT</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 15, MFZ 6 DECK AREA</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm galley shutdown.</indent>\n\n- <indent=1.5em>confirm hi-fog release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>dff shutdown / manual hi-fog release to be activated.</indent>\n\n- <indent=1.5em>in manual hi-fog fails, two hose entry with two water walls for protection and utilize wet chemical extinguisher for fire-fighting.</indent>\n\n- <indent=1.5em>two hose entry - 1 hose ww, 1 hose foam, inline inductor and foam dump with sufficient drums of foam – 1 drum of foam lasts for1 minute – foam supply dump at inductor to be manned to ensure foam is continuously available to mfg fighting the fire.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: flowrider & ifly</indent>\n\n- <indent=1.5em>below:  ac room</indent>\n\n- <indent=1.5em>fwd:  stbd fwd wj entrance door, port side cleaning gear locker</indent>\n\n- <indent=1.5em>aft:  windjammer</indent>\n\n- <indent=1.5em>sides:  windjammer</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>none.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>evacuate decks: 13, 14 & 15 mfz 6 & 7</indent>\n\n- <indent=1.5em>close off staircase 7a mid 0-16</indent>\n\n- <indent=1.5em>shut off elevators sl10, sl11, sl12 & sl13</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "XC8CW@!X2W%S5RD"
+    },
+    {
+      "title": "dk 2 crew galley",
+      "type": "fire",
+      "deckNumber": "02",
+      "mfz": "02",
+      "lastEdit": "last edit 05.17.2022 02:18 am",
+      "refPhotos": [
+"dk 2 crew galley\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 2, CREW GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 2, PORT SIDE, AFT ENTRANCE TO CREW GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 3, STBD SIDE, SHELL GATE 3</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm galley shutdown.</indent>\n\n- <indent=1.5em>confirm hi-fog release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>dff shutdown / manual hi-fog release to be activated.</indent>\n\n- <indent=1.5em>in manual hi-fog fails, two hose entry with two water walls for protection and utilize wet chemical extinguisher for fire-fighting.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: dk 3 stage</indent>\n\n- <indent=1.5em>below: laundry finishing</indent>\n\n- <indent=1.5em>fwd: crew mess</indent>\n\n- <indent=1.5em>aft:  cold room and rr at fcp</indent>\n\n- <indent=1.5em>side: crew corridor leading to mess.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>confirm galley shutdown – power isolations to all equipment / ventilation stopped.</indent>\n\n- <indent=1.5em>open co2 cabinet for quick shutdown of galley equipment and ventilation stop.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "special hazards",
+          "notes": "- <indent=1.5em>oil from dff</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>evacuate crew mess and royal theatre.</indent>\n\n- <indent=1.5em>close roller shutter for 24hr grill.</indent>\n\n- <indent=1.5em>close off staircase 2c mid.</indent>\n\n- <indent=1.5em>stop sls 02, 03 & 04.</indent>\n\n- <indent=1.5em>relocate assembly stations a1, a2, a3 & a4.</indent>\n\n- <indent=1.5em>fcp to be relocated once entry is made.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "A#I79N$KK!UBXQD"
+    },
+    {
+      "title": "retail store",
+      "type": "fire",
+      "deckNumber": "00",
+      "mfz": "04",
+      "lastEdit": "last edit 05.17.2022 02:04 am",
+      "refPhotos": [
+"retail store\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 0, MFZ 4, COMPARTMENT 10, PORT SIDE, LIQUOR & PERFUME STORE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 0, MFZ 4, COMPARTMENT 10 OUTSIDE RETAIL STORE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 3, STBD SIDE, FWD TENDER LOBBY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm hi-fog release in the area</indent>\n\n- <indent=1.5em>attempt to reach manual hi-fog release for store (located outside the cat 14 space but inside the retail store)</indent>\n\n- <indent=1.5em>close fds in the area to contain smoke within the retail store</indent>\n\n- <indent=1.5em>rr for sar and fsd closing to protect the other store rooms on deck 0 and deck 30</indent>\n\n- <indent=1.5emconfirm wtds closed leading into compartment 10 on deck 30 and deck 1</indent>\n\n- <indent=1.5em>manually release hi-fog in adjacent chemical store for boundary cooling</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>one hose entry, direct, from entrance to retail store</indent>\n\n- <indent=1.5em>retreat fcp to stairway 4a-mid if smoke comes into passageway.</indent>>\n\n- <indent=1.5em>instruct team to release hi-fog if this was not previously done</indent>>\n\n- <indent=1.5em>consider 2nd hose entry to retail store or photo lab for boundary cooling if initial team is attacking fire</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: deck 1, compartment 10, crew cabins</indent>\n\n- <indent=1.5em>fwd: retail store or photo lab</indent>\n\n- <indent=1.5em>aft: crew cabins compartment 11</indent>\n\n- <indent=1.5em>sides: port – retail store. stbd – chemical store</indent>\n\n- <indent=1.5em>below: hotel uniform store and bell box</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>isolate power to the compartment</indent>\n\n- <indent=1.5em>overpressure 4a-mid</indent>\n\n- <indent=1.5em>overpressure to cabins on deck 1</indent>\n\n- <indent=1.5em>shutdown ventilation to store</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>liquor and perfume</indent>\n\n- <indent=1.5em>high fire load in the area</indent>\n\n- <indent=1.5em>adjacent chemical store</indent>\n\n- <indent=1.5em>photo lab chemicals</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>if fire progresses, changing room and art store have substantial combustible material.</indent>\n\n- <indent=1.5em>inform scc to send a team to evacuate and shut down sl 05, 06 and 07</indent>\n\n- <indent=1.5em>consider closing 4a-mid</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "OKI7NOKI0EEQ8D!"
+    },
+    {
+      "title": "main laundry dk 0",
+      "type": "fire",
+      "deckNumber": "00",
+      "mfz": "02",
+      "lastEdit": "last edit 05.17.2022 01:52 am",
+      "refPhotos": [
+"main laundry dk 0\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 00, MFZ 2, STARBOARD SIDE, DRY CLEANING, COMPARTMENT 6</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 0, MFZ 2, STAIRCASE 2C MID</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>deck 2 mfz 2, starboard side tender lobby</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>esd for laundry activated from ecr</indent>\n\n- <indent=1.5em>bridge to shut all fire doors and wtds in the area</indent>\n\n- <indent=1.5em>evacuate the entire compartment and close down</indent>\n\n- <indent=1.5em>confirm hi-fog release – utilize duct hi-fog release in staircase (dk 0)</indent>\n\n- <indent=1.5em>confirm with laundry master status of evacuees</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>confirm hi fog release</indent>\n\n- <indent=1.5em>activate the duct hi-fog from the panel at dk 0 of stair 2c mid</indent>\n\n- <indent=1.5em>two hose entry water wall protection and fire-fighting.</indent>\n\n- <indent=1.5em>ofc to establish second fcp and stand by with mfg 7 by north star, ready to spray the water into laundry ventilation duct from ac room, dk 17.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>aft: crew cabins deck 0 compartment 7</indent>\n\n- <indent=1.5em>fwd: crew disco, pantry and staircase deck 0 compartment 5</indent>\n\n- <indent=1.5em>above: laundry deck 1</indent>\n\n- <indent=1.5em>below: compartment 6 corridor, gw and tww tanks</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>shut off power and ventilation to laundry, maintain ventilation in staircase.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>laundry chemical store on deck 1 port side</indent>\n\n- <indent=1.5em>significant amount of fire load due to nature of the space</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>washing tunnel cannot be sealed and will cause smoke and potential fire spread to port side wet laundry area & deck 1</indent>\n\n- <indent=1.5em>fill the tww and gw tanks in compartment 6</indent>\n\n- <indent=1.5em>use r.r to establish boundary cooling above the fire quickly</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "VBV825WZ@33@XMC"
+    },
+    {
+      "title": "crew disco dk 0",
+      "type": "fire",
+      "deckNumber": "00",
+      "mfz": "02",
+      "lastEdit": "last edit 05.17.2022 01:38 am",
+      "refPhotos": [
+"crew disco dk 0\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 0, MFZ 2, CREW DISCO</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 0, MFZ 2, STAIRCASE 2C-MID</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 3, STBD SIDE, SHELL GATE 3</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm hi-fog release.</indent>\n\n- <indent=1.5em>confirm persons evacuated</indent>\n\n- <indent=1.5em>request mfz 2 fire doors closed</indent>\n\n- <indent=1.5em>isolate power to laundry and pantry</indent>\n\n- <indent=1.5em>confirm wtd 00-2-001 is closed</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>first attempt to get rr into the area with ifex.</indent>\n\n- <indent=1.5em>two hose entry, direct water with water shield on the door</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: dk 1crew and eccr cabins,</indent>\n\n- <indent=1.5em>below: compartment 6 (tanks and walkway)</indent>\n\n- <indent=1.5em>fwd: pw tanks</indent>\n\n- <indent=1.5em>aft:  main laundry</indent>\n\n- <indent=1.5em>side: hull</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>confirm 440 supply to pantry is off and that laundry power is shutdown.</indent>\n\n- <indent=1.5em>shutdown ventilation in the crew disco. ensure ventilation remains to crew cabins and over pressurize stair case 2b-mid</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none.</indent>\n\n- <indent=1.5em>dry cleaning chemicals are adjacent</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>avoid entry via staircase 2b-mid due to smoke compromising a very large staircase</indent>\n\n- <indent=1.5em>fill pw and service tanks for boundary control</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "9MHYH4J*E993125"
+    },
+    {
+      "title": "broadcast room",
+      "type": "fire",
+      "deckNumber": "01",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 01:15 am",
+      "refPhotos": [
+"broadcast room\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 1, MFZ 6, BROADCAST ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 1, MFZ 6, STBD SIDE, CREW CORRIDOR VIA STAIRWAY 6-B MID</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 5, STBD SIDE, AFT PASSENGER GANGWAY LOBBY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm hi-fog release.</indent>\n\n- <indent=1.5em>rr for sar and evacuate adjacent cabins if possible.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>two hose entry, direct, from crew corridors port and stbd.</indent>\n\n- <indent=1.5em>port side for sar.</indent>\n\n- <indent=1.5em>stbd side for sar and ff.</indent>\n\n- <indent=1.5em>retreat fcp to stairway if smoke comes into corridor.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: luggage handling/i-95.</indent>\n\n- <indent=1.5em>fwd: crew cabins.</indent>\n\n- <indent=1.5em>aft: meat and poultry freezer.</indent>\n\n- <indent=1.5em>sides: stairwell 6-c mid.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>keep power in area – lighting needed for sar and evacuation.</indent>\n\n- <indent=1.5em>110v and 220v will trip on contact with water.</indent>\n\n- <indent=1.5em>overpressure the corridor only once cabins confirmed evacuated.</indent>\n\n- <indent=1.5em>stop a/c supply to cabinets.</indent>\n\n- <indent=1.5em>cut power to broadcast room only.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>bunker lines for hfo, go and caustic soda running along aft bulkhead.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "&FHTOSZ98S@5QE3"
+    },
+    {
+      "title": "dk 5 giovannis italian",
+      "type": "fire",
+      "deckNumber": "05",
+      "mfz": "06",
+      "lastEdit": "last edit 11.03.2019 11:40 pm",
+      "refPhotos": [
+"dk 5 giovannis italian\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 6, GIOVANNI’S ITALIAN GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 6, SW 6-C MID ENTRANCE TO GIOVANNI’S ITALIAN GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 7, STBD SIDE, THE VIA</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm galley shutdown.</indent>\n\n- <indent=1.5em>confirm hi-fog release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>dff shutdown / manual hi-fog release to be activated.</indent>\n\n- <indent=1.5em>in manual hi-fog fails, two hose entry with two water walls for protection and utilize wet chemical extinguisher for fire-fighting.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: guest staterooms & passageway</indent>\n\n- <indent=1.5em>below: the aft area of silk dinning room</indent>\n\n- <indent=1.5em>fwd: giovanni’s italian restaurant</indent>\n\n- <indent=1.5em>aft:  rapid response at fcp</indent>\n\n- <indent=1.5em>side: promenade deck and vintages wine bar</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>confirm galley shutdown – power isolations to all equipment / ventilation stopped.</indent>\n\n- <indent=1.5em>open co2 cabinet for quick shutdown of galley equipment and ventilation stop.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>oil from dff.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>swift evacuation of the area.</indent>\n\n- <indent=1.5em>close off staircase 6c mid if smoke spreads from fcp.</indent>\n\n- <indent=1.5em>consider relocation of assembly stations d3 & d4, e1 & e2.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "W6&YP@JJ^GMER(#"
+    },
+    {
+      "title": "crew cabin fire",
+      "type": "fire",
+      "deckNumber": "01",
+      "mfz": "03",
+      "lastEdit": "last edit 05.17.2022 11:24 pm",
+      "refPhotos": [
+"crew cabin fire\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 1, MFZ 3, CREW CABIN 41201</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 1, MFZ 3, STAIRWAY 3B MID</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 4, I-95</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm hi-fog release into affected area.</indent>\n\n- <indent=1.5em>rr for sar and evacuate adjacent cabins.</indent>\n\n- <indent=1.5em>retreat fcp if smoke comes into stairway.</indent>\n\n- <indent=1.5em>crew to use the secondary escape route by through wtds.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>use ifex if available.</indent>- <indent=1.5em>one hose entry, direct, entry from crew stairway.</indent>\n\n- <indent=1.5em>if needed, two teams can be sent in for sar.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: cabins</indent>\n\n- <indent=1.5em>sides: crew cabin areas</indent>\n\n- <indent=1.5em>below: crew cabin areas</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>keep power in area – lighting needed for sar and evacuation.</indent>\n\n- <indent=1.5em>110v and 220v will trip on contact with water.</indent>\n\n- <indent=1.5em>overpressure the corridor once area confirmed evacuated.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "none.",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "C%*F6Y3D*4JXSGQ"
+    },
+    {
+      "title": "casino dk 3",
+      "type": "fire",
+      "deckNumber": "03",
+      "mfz": "04",
+      "lastEdit": "last edit 05.17.2022 11:13 pm",
+      "refPhotos": [
+"casino dk 3\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 4, CASINO</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 4, STBD, STAIRWAY 4C</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 5, CENTRE, ELEVATOR LOBBY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm hi-fog release.</indent>\n\n- <indent=1.5em>confirm persons evacuated</indent>\n\n- <indent=1.5em>request mfz 4 shutdown (including roller shutters)</indent>\n\n- <indent=1.5em>isolate power to casino</indent>\n\n- <indent=1.5em>confirm fds are closed</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>first attempt to get rr into the area with ifex.</indent>\n\n- <indent=1.5em>two hose entry, direct fire-fighting technique</indent>\n\n- <indent=1.5em>utilize hi-fog</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: deck 4 – royal esplanade (guest assembly stations to be relocated)</indent>\n\n- <indent=1.5em>below: crew cabins & medical</indent>\n\n- <indent=1.5em>fwd: pw music hall</indent>\n\n- <indent=1.5em>aft:  casino extension & </indent>\n\n- <indent=1.5em>side: guest corridors</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>ventilation only to be shut down when there is confirmation of no casualties</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>utilize cctv to direct response teams and assess situation</indent>\n\n- <indent=1.5em>smoke extraction in esplanade</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "- <indent=1.5em>need to confirm that all access points are shut down – send mfg to investigate open doors as directed from operational command</indent>",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "(#$UMD6DM%7^MNC"
+    },
+    {
+      "title": "dk 5 wonderland",
+      "type": "fire",
+      "deckNumber": "05",
+      "mfz": "04",
+      "lastEdit": "last edit 05.17.2022 03:36 am",
+      "refPhotos": [
+"dk 5 wonderland\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 4, WONDERLAND GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 4, WONDERLAND RESTAURANT</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 5, STBD SIDE, FUTURE CRUISE DESK</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm galley shutdown.</indent>\n\n- <indent=1.5em>confirm hi-fog release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>dff shutdown / manual hi-fog release to be activated.</indent>\n\n- <indent=1.5em>if manual hi-fog fails, two hose entry with two water walls for protection and utilize wet chemical extinguisher for fire-fighting.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: guest staterooms & passageway</indent>\n\n- <indent=1.5em>below: sorrento’s galley and restaurant</indent>\n\n- <indent=1.5em>fwd: sw 4-a mid</indent>\n\n- <indent=1.5em>aft:  rapid response at fcp</indent>\n\n- <indent=1.5em>side: promenade deck and crew passage way</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>confirm galley shutdown – power isolations to all equipment / ventilation stopped.</indent>\n\n- <indent=1.5em>open co2 cabinet for quick shutdown of galley equipment and ventilation stop.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>oil from dff</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>swift evacuation of the area including restaurant.</indent>\n\n- <indent=1.5em>relocate assembly stations c3 &c4.</indent>\n\n- <indent=1.5em>stop sls 05,06 & 07.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "OI!&P*8LRF#2(%F"
+    },
+    {
+      "title": "carpenters workshop",
+      "type": "fire",
+      "deckNumber": "00",
+      "mfz": "07",
+      "lastEdit": "last edit 05.17.2022 02:20 am",
+      "refPhotos": [
+"carpenters workshop\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 0, MFZ 7, STBD SIDE, CARPENTER’S WORKSHOP</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 1, MFZ 7, STBD SIDE, OUTSIDE CARPENTER’S WORKSHOP</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 6, PORT SIDE, AFT LUGGAGE HANDLING AREA</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm hi-fog release.</indent>\n\n- <indent=1.5em>rr for sar and fsd closing (many doors in adjacent area).</indent>\n\n- <indent=1.5em>confirm wtd closed leading into technical area.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>one hose entry, direct, from entrance at staircase 7-a mid</indent>\n\n- <indent=1.5em>retreat fcp to stairway if smoke comes into passageway.</indent>\n\n- <indent=1.5em>consider 2nd hose entry into changing room.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: meat and poultry freezer.</indent>\n\n- <indent=1.5em>fwd: changing room or electrical workshop (if fire progresses).</indent>\n\n- <indent=1.5em>aft: pw tank.</indent>\n\n- <indent=1.5em>sides: port – hi-fog unit room; stbd – changing room</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>isolate power to all equipment in area.</indent>\n\n- <indent=1.5em>overpressure staircase 7-a mid.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>flammables locker inside store.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>if fire progresses, changing room and art store have substantial combustible material.</indent>\n\n- <indent=1.5em>consider closing staircase 7-a mid.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "O!DZITK&58P!4L("
+    },
+    {
+      "title": "dk 30 zn 3 comp 9 pump rm",
+      "type": "fire",
+      "deckNumber": "30",
+      "mfz": "03",
+      "lastEdit": "last edit 05.17.2022 02:18 am",
+      "refPhotos": [
+"dk 30 zn 3 comp 9 pump rm\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 30, MFZ 3, PUMP ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 30, MFZ 4,COMPARTMENT 10,OUTSIDE HOTEL STORE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK  2, MFZ 4, STBD SIDE, LUGGAGE HANDLING AREA</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>• ESD (Emergency Shut Down from ECR): Emergency stop of Engine / Fuel shut off valves / Power and Ventilation shut off.</indent>\n\n- <indent=1.5em>• Hi Fog release.</indent>\n\n- <indent=1.5em>• bridge to close adjacent wtd and fd.</indent>\n\n- <indent=1.5em>•  evacuate the dk0 comp. 8,9 ,10 cabins</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>check with ecr about the hi-fog release and pressurized nitrogen bottle temperature/pressure.</indent>\n\n\n\n- <indent=1.5em>if no hi fog and safe to go in, entering with foam and water wall for sar and ff in case of small fire. the nearest foam station is located at dk 30 z 5 fwd dg2 and separate rm 1 by stabilizer. more foam buckets available from mfg 1 locker. use water shield on wtd and retreat if necessary retreat into fcp.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>fwd.: compartment 8(mfg)</indent>\n\n- <indent=1.5em>aft: compartment 10(mfg/rr)</indent>\n\n- <indent=1.5em>above: deck 1 3c mid crew cabin area (mfg)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>power and ventilation to me room shut off initially from ecr (esd – emergency shut down).</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high temperature oil. use foam.</indent>\n\n- <indent=1.5em>pressurized nitrogen bottle. explosion possible due to pressure rise. check with ecr for safe to go in.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>for any boundary cooling operations in machinery spaces only use mfg with knowledge of machinery space layout for this operation.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "2R!^PB6W!SK1WPU"
+    },
+    {
+      "title": "paint store",
+      "type": "fire",
+      "deckNumber": "05",
+      "mfz": "01",
+      "lastEdit": "last edit 05.17.2022 11:54 pm",
+      "refPhotos": [
+"paint store\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 1, PORT SIDE, PAINT STORE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 1, PORT SIDE, ENTRANCE OF FWD MOORING DECK</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 2, PORT SIDE, OPEN DECK</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm hi-fog release.</indent>\n\n- <indent=1.5em>rr for sar and fsd closing, fwd mooring deck hi-fog system released if not done from the bridge.</indent>\n\n- <indent=1.5em>bridge to turn the ship and keep the wind from the stern.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>one hose entry, direct, from entrance of the paint store, hydrant available on mooring deck, keep entrance to mooring deck closed at all time.</indent>\n\n- <indent=1.5em>retreat fcp to stairway if smoke comes into passageway.</indent>\n\n- <indent=1.5em>consider 2nd hose entry.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: crew cabins and crew bar pantry</indent>\n\n- <indent=1.5em>below: cruise staff office</indent>\n\n- <indent=1.5em>fwd: switchboard room</indent>\n\n- <indent=1.5em>aft: passageway</indent>\n\n- <indent=1.5em>sides: port – fwd mooring deck; stbd – stairs landing area</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>isolate power to all equipment in area.</indent>\n\n- <indent=1.5em>stop ventilation of mfz 1 & 2, consider to stop air intake if too much smoke.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>flammables materials inside store.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>consider closing stair case 1c mid</indent>\n\n- <indent=1.5em>evacuate all people from mfz 1</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "V8JHZ*@7F2ELFHA"
+    },
+    {
+      "title": "engine casing dk 02 to 07",
+      "type": "fire",
+      "deckNumber": "02",
+      "mfz": "05",
+      "lastEdit": "last edit 05.17.2022 04:51 pm",
+      "refPhotos": [
+        "engine casing dk 02 to 07\\Image 1.jpg",
+        "engine casing dk 02 to 07\\Image 2.jpg",
+"engine casing dk 02 to 07\\Image 3.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>ANNOUNCEMENTS TO BE FOLLOW AS DESCRIBED BELOW RELATED TO THE LOCATION OF THE FIRE BELOW DK 07:</indent>\n\n- <indent=1.5em>BRAVO X 3 WITH LOCATION OF THE FIRE (DECK AND FIRE ZONE)</indent>\n\n- <indent=1.5em>LOCATION OF THE CASINGS:</indent>\n\n<indent=5.5em>- FWD CASING MFZ 5 COMPARTMENT 14 PORT SIDE & STARBOARD SIDE</indent>\n\n<indent=5.5em>- AFT CASING MFZ 6 COMPARTMENT 15 PORT SIDE & STARBOARD SIDE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP 1",
+          "notes": "- <indent=1.5em>FWD CASING</indent>\n\n<indent=5.5em>- DK 2 MFZ 5 COMP. 14 PORT SIDE / STBD SIDE</indent>\n\n- <indent=1.5em>AFT CASING</indent>\n\n<indent=5.5em>- DK 2 MFZ 6 COMP. 15 PORT SIDE / STBD SIDE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area 1",
+          "notes": "- <indent=1.5em>DECK  2, MFZ 5, AFT GUEST LOBBY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP 2",
+          "notes": "<indent=1.5em>for sar purpose (and/or co2 mustering list is not completed) depending on the temperature inside the affected area secondary fcp and sa can be established either on dk 07 or dk 16:</indent>- <indent=1.5em>FWD CASING</indent>\n\n<indent=5.5em>- DK 7, MFZ 5, STBD SIDE OPPOSITE SR# 7646</indent>\n\n<indent=5.5em>- DK 16, MFZ 5, STBD SIDE FROM EM GEN RM 01 OR SUN DECK</indent>\n\n- <indent=1.5em>AFT CASING</indent>\n\n<indent=5.5em>- DK 7, MFZ 6, PORT SIDE OPPOSITE SR# 7254</indent>\n\n<indent=5.5em>- DK 16, MFZ 5, STBD SIDE FROM EM GEN RM 01 OR SUN DECK</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area 2",
+          "notes": "- <indent=1.5em>DECK  7, MFZ 5, AFT GUEST LOBBY</indent>\n\n- <indent=1.5em>DK 16, MFZ 6, SEAPLEX STBD/PORT SIDE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "task assignments",
+          "notes": "<indent=1.5em>BELOW IS THE TASK ASSIGNMENT OF THE MFGS:</indent>\n\n- <indent=5.5em>4 X MFGS PROCEED TO FCP – FIRE FIGHTING & SAR 2 X MFGS AT THE AFFECTED AREA AND 2 X MFGS ON STAND BY IN THE AFFECTED AREA 1 X MFG FIREFIGHTING & 1 MFG HOSES HANDLING</indent>\n\n- <indent=5.5em>2 X MFGS  PROCEED TO  DK 07 OR DK 16 – DEPENDING WHERE IS SECONDARY SA</indent>\n\n- <indent=5.5em>1 X MFG PROCEED TO AFT OR FWD ENGINE COMPARTMENT DK 30 – DEPENDING WHICH CASING IS THE FIRE</indent>\n\n- <indent=5.5em>BACK UP  1 & 3 STAY AT STAGING AREA ON DK 02</indent>\n\n- <indent=5.5em>BACK UP 2  PROCEED TO SECONDARY STAGING AREA ON DK  07 OR DK 16</indent>\n\n- <indent=5.5em>STRETCHER TEAM  #1  PROCEED TO  STAGING AREA ON DK 02</indent>\n\n- <indent=5.5em>STRETCHER TEAM  #2  PROCEED TO  STAGING AREA ON DK 07 OR DK 16</indent>\n\n\n\n<indent=1.5em>IN CASE SEARCH OF THE AREA IS REQUIRED 2 STAGING AREAS AND 2 FCPS NEED TO BE UTILIZED AND ANNOUNCED. DEPENDING ON THE TEMPERATURE IN THE AFFECTED AREA EITHER DK 07 OR DK 16 WILL BE CHOOSEN.</indent>\n\n- <indent=1.5em>UHF CH 1 & 2   TO BE ASSIGNED FOR COMMUNICATION WITH FCP 1 & STAGING AREA 1.</indent>\n\n- <indent=1.5em>UHF CH 3 & 4   TO BE ASSIGNED FOR COMMUNICATION WITH FCP 2 & STAGING AREA 2.</indent>\n\n- <indent=1.5em>NOTE: BRIDGE TO HAVE ANOTHER ADDITIONAL UHF RADIO!</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>hi-fog activation (always first initial action with any technical space fire)</indent>\n\n- <indent=1.5em>bridge to close adjacent wtd and fd.</indent>\n\n- <indent=1.5em>manual closing of the flaps on dk 2 (this will stop the extraction fan as well)</indent>\n\n<indent=5.5em>- THIS STEP IS DONE ONLY AS PER CHIEF ENGINEER DISCRETION!</indent>\n\n<indent=5.5em>- location of push buttons for manual closing –</indent>\n\n<indent=5.5em>- FWD CASING,  DK 0 STAIRCASE 5A IN FRONT OF ENTRANCE TO COMP. 13</indent>\n\n<indent=5.5em>- AFT CASING,  DK 2 BEHIND THE DOOR TO COMP. 16 FROM I-95</indent>\n\n- <indent=1.5em>esd - if needed (emergency shut down activation will stop all the equipment in compartment 14 or 15 including diesel engines and all ventilation)</indent>\n\n<indent=5.5em>- attention - if the situation allows and fire/smoke can be contained only with shutting down the flaps consider avoiding esd to avoid black out. eventually ecr will changeover the engines to not affected compartment.</indent>\n\n- <indent=1.5em>5.  monitoring situation on dk 16 where are emergency generators and emergency switchboard rooms</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>confirm hi fog release:</indent>\n\n<indent=5.5em>- - from ecr or scc</indent>\n\n<indent=5.5em>- - srv located  dk 2, port side, at the entrance to staircase 6b mid, next to ecr</indent>\n\n- <indent=1.5em>two hose entry with foam and water wall for sar and ff.</indent>\n\n- <indent=1.5em>foam stations located at emergency generator room 01 and 02. more foam buckets available from fire lockers 01, 02, 04, 05, engine room dk 30 and ffa locker dk 6 fwd ps.</indent>\n\n- <indent=1.5em>on each deck in casing room there are extinguishers and fire hoses available.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>decks 01 - 17</indent>\n\n- <indent=1.5em>fwd: mfz 5 aft port side & starboard side</indent>\n\n- <indent=1.5em>aft:   mfz 6 fwd port side & starboard side</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>consider shutting off power and vent in affected areas.</indent>\n\n- <indent=1.5em>all doors to be closed</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high temperature of burning metal, dark smoke from burning pipeline.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>ba controller should be assigned to each fcp.</indent>\n\n- <indent=1.5em>for boundary cooling operations in engine casing additional crew members will be required to stand by on each deck. consider utilizing assistance group # 39.</indent>\n\n- <indent=1.5em>evacuate guests from operation area on dk15.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "GD)SWV@CYD2NMG*"
+    },
+    {
+      "title": "engine casing dk 07 to 16",
+      "type": "fire",
+      "deckNumber": "07",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 04:51 pm",
+      "refPhotos": [
+        "engine casing dk 07 to 16\\Image 1.jpg",
+"engine casing dk 07 to 16\\Image 2.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>ANNOUNCEMENTS TO BE FOLLOW AS DESCRIBED BELOW RELATED TO THE LOCATION OF THE FIRE ABOVE DK 07:</indent>\n\n- <indent=1.5em>BRAVO X 3 ENGINE CASING</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP 1",
+          "notes": "- <indent=1.5em>DK 7, MFZ 6, PORT SIDE OPPOSITE SR# 7254 OR STBD SIDE OPPOSITE SR# 7648</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area 1",
+          "notes": "- <indent=1.5em>DECK  7, MFZ 5, GUEST LOBBY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP 2",
+          "notes": "<indent=1.5em>for sar purpose in case fire has been reported extinguished, and co2 mustering list is not complete:</indent>\n\n- <indent=1.5em>dk 16, mfz 5, sun deck stbd/port side, access to gen.room.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area 2",
+          "notes": "<indent=1.5em>for sar purpose in case fire has been reported extinguished, and co2 mustering list is not complete:</indent>\n\n- <indent=1.5em>DK 16, MFZ 6, SEAPLEX STBD/PORT SIDE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "task assignments",
+          "notes": "<indent=1.5em>THE FOLLOWING SCENARIO DESCRIBES PROCEEDURE IN CASE FIRE HAS BEEN EXTINGUISHED AND CO2 MUSTERING LIST IS NOT ACCOUNTED FOR WHERE SEARCH OF THE AREA IS REQUIRED.  2 STAGING AREAS AND 2 FCP’S NEED TO BE UTILIZED AND ANNOUNCED.  BRIDGE WILL PROCEED WITH THE FOLLOWING ANNOUNCEMENT TO ASSIGN LOCATIONS IN ORDER FOR MFG’S, BACK UP TEAMS & STRETCHER TEAMS TO RESPOND.</indent>\n\n- <indent=1.5em>MFG’S 1, 2, 3 & 4  PROCEED TO STAGING AREA ON DK 07 (FZ 5, GUEST LOBBY)</indent>\n\n- <indent=1.5em>MFG’S 5, 6 & 7  PROCEED TO STAGING AREA ON DK 16 (FZ 6, SEAPLEX STBD/PORT SIDE)</indent>\n\n- <indent=1.5em>• BACK UP  1 & 3 PROCEED TO STAGING AREA ON DK 07</indent>\n\n- <indent=1.5em>• BACK UP 2  PROCEED TO STAGING AREA ON DK 16</indent>\n\n- <indent=1.5em>• STRETCHER TEAM  #1  PROCEED TO  STAGING AREA ON DK 07</indent>\n\n- <indent=1.5em>• STRETCHER TEAM  #2  PROCEED TO  STAGING AREA ON DK 16</indent>\n\n\n\n- <indent=1.5em>UHF CH 1 & 2   TO BE ASSIGNED FOR COMMUNICATION WITH FCP 1 & STAGING AREA 1.</indent>\n\n<indent=1.5em>UHF CH 3 & 4 TO BE ASSIGNED FOR COMMUNICATION WITH FCP 2 & STAGING AREA 2.</indent>\n\n\n\n- <indent=1.5em>NOTE: BRIDGE TO HAVE ANOTHER ADDITIONAL UHF RADIO!</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>hi-fog activation (always first initial action with any technical space fire)</indent>\n\n- <indent=1.5em>bridge to close adjacent wtd and fd.</indent>\n\n- <indent=1.5em>manual closing of the flaps on dk 2 (this will stop the extraction fan as well)</indent>\n\n<indent=5.5em>- THIS STEP IS DONE ONLY AS PER CHIEF ENGINEER DISCRETION!</indent>\n\n<indent=5.5em>- location of push buttons for manual closing –</indent>\n\n<indent=5.5em>- FWD CASING,  DK 0 STAIRCASE 5A IN FRONT OF ENTRANCE TO COMP. 13</indent>\n\n<indent=5.5em>- AFT CASING,  DK 2 BEHIND THE DOOR TO COMP. 16 FROM I-95</indent>\n\n- <indent=1.5em>esd - if needed (emergency shut down activation will stop all the equipment in compartment 14 or 15 including diesel engines and all ventilation)</indent>\n\n<indent=5.5em>- attention - if the situation allows and fire/smoke can be contained only with shutting down the flaps consider avoiding esd to avoid black out. eventually ecr will changeover the engines to not affected compartment.</indent>\n\n- <indent=1.5em>5.  monitoring situation on dk 16 where are emergency generators and emergency switchboard rooms</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>confirm hi fog release:</indent>\n\n<indent=5.5em>- - from ecr or scc</indent>\n\n<indent=5.5em>- - srv located  dk 2, port side, at the entrance to staircase 6b mid, next to ecr</indent>\n\n- <indent=1.5em>two hose entry with foam and water wall for sar and ff.</indent>\n\n- <indent=1.5em>foam stations located at emergency generator room 01 and 02. more foam buckets available from fire lockers 01, 02, 04, 05, engine room dk 30 and ffa locker dk 6 fwd ps. on each deck in casing room there are extinguishers and fire hoses available.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>decks 07 - 17</indent>\n\n- <indent=1.5em>fwd: mfz 5 aft port side & starboard side</indent>\n\n- <indent=1.5em>aft:   mfz 6 fwd port side & starboard side</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>consider shutting off power and vent in affected areas.</indent>\n\n- <indent=1.5em>all doors to be closed</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>high temperature of burning metal, dark smoke from burning pipeline.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>ba controller should be assigned to each fcp.</indent>\n\n- <indent=1.5em>for boundary cooling operations in engine casing additional crew members will be required to stand by on each deck. consider utilizing assistance group # 39.</indent>\n\n- <indent=1.5em>evacuate guests from operation area on dk15.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "#71LM01W6B@35NL"
+    },
+    {
+      "title": "bosun store",
+      "type": "fire",
+      "deckNumber": "05",
+      "mfz": "01",
+      "lastEdit": "last edit 05.17.2022 11:54 pm",
+      "refPhotos": [
+"bosun store\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 1, STARBOARD SIDE, BOSUN STORE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 1, STAIRCASE 1C MID</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 2, PORT SIDE, OPEN DECK</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm hi-fog release.</indent>\n\n- <indent=1.5em>RR for SAR and FSD closing, FWD mooring deck Hi-fog system released if not done from the bridge.</indent>\n\n- <indent=1.5em>bridge to turn the ship and keep the wind from the stern.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>one hose entry, direct, from entrance of the paint store, hydrant available on mooring deck, keep entrance to mooring deck closed at all time.</indent>\n\n- <indent=1.5em>retreat fcp to stairway if smoke comes into passageway.</indent>\n\n- <indent=1.5em>consider 2nd hose entry.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: crew cabins and crew bar pantry</indent>\n\n- <indent=1.5em>below: cruise staff office</indent>\n\n- <indent=1.5em>fwd: switchboard room</indent>\n\n- <indent=1.5em>aft: passageway</indent>\n\n- <indent=1.5em>sides: port – fwd mooring deck; stbd – stairs landing area</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>isolate power to all equipment in area.</indent>\n\n- <indent=1.5em>stop ventilation of mfz 1 & 2, consider to stop air intake if too much smoke.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>flammables materials inside store.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>consider closing stair case 1c mid</indent>\n\n- <indent=1.5em>evacuate all people from mfz 1</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "- <indent=1.5em>Confirm area evacuated</indent>\n\n- <indent=1.5em>Confirm FD’s closed</indent>\n\n- <indent=1.5em>FCP Deck 5 / FZ1 / Staircase 1C MID</indent>\n\n- <indent=1.5em>Advise to ECR to block Crew Elevator on MFZ 1</indent>\n\n- <indent=1.5em>Rapid Response on Scene. All mustered</indent>\n\n- <indent=1.5em>Confirm Power isolated</indent>\n\n- <indent=1.5em>Releasing High Fog inside the Forward Mooring Deck Manually </indent>\n\n- <indent=1.5em>Entering in the incident location with IFEX w/RR</indent>\n\n- <indent=1.5em>Retrieving RR to FCP. Confirm heavy smoke and low visibility.</indent>\n\n- <indent=1.5em>SA / FCP requesting 02 mobile fire groups for R-entry</indent>\n\n- <indent=1.5em>MFG on FCP. SA / Switching to Ch. 3</indent>\n\n- <indent=1.5em>Confirm permission to make a R-ENTRY</indent>\n\n- <indent=1.5em>Teams on AIR</indent>\n\n- <indent=1.5em>go in</indent>",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "V8JHZ*@7F2ELFHA"
+    },
+    {
+      "title": "dk 14 windjammer galley",
+      "type": "fire",
+      "deckNumber": "14",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 12:58 am",
+      "refPhotos": [
+"dk 14 windjammer galley\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 14, MFZ 7, WINDJAMMER GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 14, MFZ 7, WINDJAMMER AFT</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 15, MFZ 6 DECK AREA</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>confirm galley shutdown.</indent>\n\n- <indent=1.5em>confirm hi-fog release.</indent>\n\n- <indent=1.5em>confirm co2 release.</indent>\n\n- <indent=1.5em>confirm roller shutter closed (if applicable)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>dff shutdown / manual hi-fog release to be activated.</indent>\n\n- <indent=1.5em>if manual hi-fog fails, two hose entry with two water walls for protection and utilize wet chemical extinguisher for fire-fighting.</indent>\n\n- <indent=1.5em>Two hose Entry - 1 hose WW, 1 Hose Foam, inline inductor and foam dump with sufficient drums of foam – 1 drum of foam last for 1 minute – foam supply dump at inductor to be manned to ensure foam is continuously available to MFG fighting the fire.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: Flowrider & Ifly </indent>\n\n- <indent=1.5em>below: AC Room</indent>\n\n- <indent=1.5em>fwd:  Stbd Fwd WJ entrance door, Port side Cleaning Gear Locker</indent>\n\n- <indent=1.5em>aft:  windjammer</indent>\n\n- <indent=1.5em>sides:  windjammer</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>none.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>evacuate decks 13, 14 & 15 mfz 6 & 7</indent>\n\n- <indent=1.5em>close off staircase 7a mid 0-16</indent>\n\n- <indent=1.5em>shut off elevators sl10, sl11, sl12 & sl13</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "%%RZ5%7$@2X4M1*"
+    },
+    {
+      "title": "dk 5 giovannis italian outside oven",
+      "type": "fire",
+      "deckNumber": "05",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 11:40 pm",
+      "refPhotos": [
+"dk 5 giovannis italian outside oven\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 6, GIOVANNI’S ITALIAN KITCHEN / OUTSIDE OVEN</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 6, STAIRCASE 6-C MID PORT SIDE BY ENTRANCE TO GIOVANNI’S ITALIAN GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 7, STBD SIDE, NEXT CRUISE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>Confirm Roller Shutter Closed (Including ventilation and power inside)</indent>\n\n- <indent=1.5em>confirm galley shutdown.</indent>\n\n- <indent=1.5em>confirm hi-fog release.</indent>\n\n- <indent=1.5em>Confirm FD’s closed (Including Roller Shutter 06-5-002 & FD 05-7-005 – By Next Cruise)</indent>\n\n- <indent=1.5em>Close off Staircase 6C Mid if smoke spreads from FCP.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>Hi-Fog release to be activated (Inside)</indent>\n\n- <indent=1.5em>Hi-Fog release inside roller shutter (Oven), if fails access with hose entry to the service door to extinguished the fire.</indent>\n\n- <indent=1.5em>Consider Indirect attack fire-fighting technique.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: guest staterooms & passageway</indent>\n\n- <indent=1.5em>below: dining room</indent>\n\n- <indent=1.5em>fwd: giovanni’s italian restaurant</indent>\n\n- <indent=1.5em>aft:  rapid response at fcp</indent>\n\n- <indent=1.5em>side: Port Side / Embarkation Deck (Consider Protect Glass Windows and Lifeboats 10; 12 & 14) and Giovanni’s Wine Bar</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>Confirm Oven -/- Shutdown – power isolations to all equipment -/- ventilation stopped.</indent>\n\n- <indent=1.5em> Consider Smoke Containment and Extraction procedures. Smoke propagation in the entire dining room, may also affected-/-blockage escape routes. Be aware of the smoke extraction outlet will impact Deck 5 embarkation deck.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>Consider to release DELUGE high fog system (Locally) in order to protect Deck 5 & 3.(cut-out / atirum)</indent>\n\n- <indent=1.5em>close off staircase 6c mid if smoke spreads from fcp.</indent>\n\n- <indent=1.5em>Consider Crew members in IN 5, 21, 22, 23, 24, 37 & 38 to carry out the duties for smoke clearance detailed on SB.\n\n- <indent=1.5em>Consider relocation of Assembly Stations D1; D2; D3; D4; D5 and Y & Z (Crew Assembly Stations)</indent>\n\n- <indent=1.5em>Consider to use Lost Fire Zone (FZ 6) Relocation Plan for AS. Once the Assembly Stations are relocating, embarkation routes will be also affected.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "W6&YP@JJ^GMER(#"
+    },
+    {
+      "title": "dk 5 giovannis italian kitchen galley",
+      "type": "fire",
+      "deckNumber": "05",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 11:40 pm",
+      "refPhotos": [
+"dk 5 giovannis italian kitchen galley\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 6, GIOVANNI’S ITALIAN KITCHEN GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 6, STAIRCASE 6-C MID PORT SIDE BY ENTRANCE TO GIOVANNI’S ITALIAN GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 7, STBD SIDE, NEXT CRUISE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>Confirm Galley Shutdown.</indent>\n\n- <indent=1.5em>Consider Stop Ventilation (Confirm not Missing/Casualty Crew before)</indent>\n\n- <indent=1.5em>confirm hi-fog release.(dff & galley ducts</indent>\n\n- <indent=1.5em>Confirm CO 2 release (Inside Ducts)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>DFF shutdown / Manual Hi-Fog release to be activated.</indent>\n\n- <indent=1.5em>In Manual Hi-fog fails, two hose entry with two water walls for protection and utilize Wet Chemical extinguisher or Foam for fire-fighting.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: guest staterooms & passageway</indent>\n\n- <indent=1.5em>below: dining room (deck 4)</indent>\n\n- <indent=1.5em>fwd: giovanni’s italian kitchen(consider mfg on air)</indent>\n\n- <indent=1.5em>aft:  rapid response at fcp</indent>\n\n- <indent=1.5em>side: Port Side / Embarkation Deck (Consider to Protect Lifeboats 14 & 16) and Giovanni’s Wine Bar(consider mfg on air)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>Confirm galley Shutdown – power isolations to all equipment / ventilation stopped.</indent>\n\n<indent=1.5em>Open CO2 cabinet for quick shutdown of galley equipment and ventilation stop.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>oil from dff</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>Consider to release DELUGE high fog system (Locally) in order to protect Deck 4 & 3.</indent>\n\n- <indent=1.5em>close off staircase 6c mid if smoke spreads from fcp.</indent>\n\n- <indent=1.5em>Consider smoke containment & extraction procedures</indent>\n\n- <indent=1.5em>Consider relocation of Assembly Stations D1; D2; D3; D4; D5 and Y & Z (Crew Assembly Stations) Consider to use Lost Fire Zone (FZ 6) Relocation Plan (Assembly Stations). Once the Assembly Stations are relocating, In route to lifeboats will also be affected.</indent>\n\n- <indent=1.5em>Consider to close Roller Shutter 06-5-002 & FD 05-7-005 (Next Cruise)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "W6&YP@JJ^GMER(#"
+    },
+    {
+      "title": "royal theater",
+      "type": "fire",
+      "deckNumber": "03",
+      "mfz": "02",
+      "lastEdit": "last edit 05.17.2022 11:40 pm",
+      "refPhotos": [
+"royal theater\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 2, CENTER LINE, SAVOY THEATER, STAGE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 2, STAIRWAY 2A STARBOARD</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 5, MFZ 3, STARBOARD SIDE, EMBARKATION DECK (BY LB 1)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>Confirm Hi-Fog Released (If fails consider releasing high fog system locally).</indent>\n\n- <indent=1.5em>Confirm Persons Evacuated (Before Stop Ventilation).</indent>\n\n- <indent=1.5em>Confirm FD’s closed (Including Roller Shutters RS-04-1-002 & RS04-1- 001).</indent>\n\n- <indent=1.5em>Evacuation on Main Galley on Deck 4; Dressing & Wardrobe Room and Offices.</indent>\n\n- <indent=1.5em>Confirm Power Isolated.</indent>\n\n- <indent=1.5em>Stop Service Lift 01; 02; 03 & 04 (Consider to keep service for MFG’s transport).</indent>\n\n- <indent=1.5em>Close Staircase 1C Mid (Including 2A P&S) and 2C Mid.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>Hi-Fog release to be activated.</indent>\n\n- <indent=1.5em>If Hi-fog fails, Two hoses entry (To be consider).</indent>\n\n- <indent=1.5em>Consider Direct attack fire-fighting Technique.</indent>\n\n- <indent=1.5em>Consider to use more than one MFG for fire-fighting (if necessary).</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: Stage. Consider use MFG on air.</indent>\n\n- <indent=1.5em>below: Stage Pit (Access from Deck 2). Consider use MFG on air.</indent>\n\n- <indent=1.5em>fwd: Deck 5 Stage Platforms. Consider use MFG on air</indent>\n\n- <indent=1.5em>aft:  N/A (Boundary from Deck 2 below access)</indent>\n\n- <indent=1.5em>side: Crew Staircase 2A Stbd & Port Side.</indent>\n\n- <indent=1.5em>Consider extends boundary cooling due to 3 joined decks from Deck 3 to 5.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>Consider Smoke Containment & Extraction procedures.</indent>\n\n<indent=1.5em>Smoke propagation in the Entire Area, may also affected/blockage escape routes.Be aware of the smoke extraction outlet is located on Port Side, will impact Deck 5 embarkation deck.</indent>\n\n<indent=1.5em>Confirm once the smoke extraction system is activated, the smoke curtains at the internal stairs between 4 and 5 are closing.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>Utilize CCTV to direct response teams and Assess situation (due to enlarge area), fire can spreads over 3 joined decks.</indent>\n\n- <indent=1.5em>Consider Crew members in IN 5, 21, 22, 23, 24, 37 & 38 to carry out the duties for smoke clearance detailed on SB.</indent>\n\n- <indent=1.5em>Consider relocation of Assembly Stations A1; A2; A3 and A4 Stations) </indent>\n\n- <indent=1.5em>Consider to use Lost Fire Zone (FZ 2) Relocation Plan for AS. Once the Assembly Stations are relocating, embarkation routes will be also affected.</indent>\n\n- <indent=1.5em>Evacuation on Staterooms on Deck 7.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "W6&YP@JJ^GMER(#"
+    },
+    {
+      "title": "dk 15 seaplex",
+      "type": "fire",
+      "deckNumber": "15",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 11:40 pm",
+      "refPhotos": [
+        "dk 15 seaplex\\Image 1.jpg",
+"dk 15 seaplex\\Image 2.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 15, MFZ 6, PORT SIDE, SEAPLEX</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 15, MFZ 5, STARBOAD SIDE, GUEST ELEVATOR LOBBY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 14, MFZ 3, PORT SIDE, BY LIME & COCONUT POOL BAR</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>Confirm Hi-Fog Released (If fails consider releasing high fog system locally).</indent>\n\n- <indent=1.5em>Confirm Evacuation of the Area.</indent>\n\n- <indent=1.5em>Confirm Power Isolated.</indent>\n\n- <indent=1.5em>Confirm FD’s Close.</indent>\n\n- <indent=1.5em>Confirm Glass Sliding Doors in both sides in closed position.</indent>\n\n- <indent=1.5em>Consider to Stop Passenger Lift 07; 08; 09; 10; 11; 12; 13; 14; 15 & 16</indent>\n\n- <indent=1.5em>Consider to Stop Service Lifts SL 10,11,12, 13</indent>\n\n- <indent=1.5em>Close Staircase 7A Mid; 6C Mid and 5B Mid</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>Hi-Fog release to be activated. (manually if necessary)</indent>\n\n- <indent=1.5em>If Hi-fog fails, Two hoses entry (To be considered).</indent>\n\n- <indent=1.5em>Consider Direct attack fire-fighting Technique.</indent>\n\n- <indent=1.5em>Consider to use more than one MFG for fire-fighting (if necessary).</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: n/a</indent>\n\n- <indent=1.5em>below: Windjammer Marketplace</indent>\n\n- <indent=1.5em>fwd: Social 180. Consider to use MFG on air</indent>\n\n- <indent=1.5em>aft: From Store Room (Port Side).</indent>\n\n- <indent=1.5em>side: Outside Deck Port & Starboard (special considerations with glass windows).</indent>\n\n- <indent=1.5em>Consider extends boundary cooling due to 2 joined decks from Deck 15 to 16.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>n/a</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>batteries (inside bumper cars)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>Evacuate Decks: 15 (Sport Deck-Seaplex) MFZ 7; 6 & 5. Deck 16 (Playmakers-Playground & Offices)</indent>\n\n- <indent=1.5em>Consider Weather Conditions.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "W6&YP@JJ^GMER(#"
+    },
+    {
+      "title": "dk 14 windjammer marketplace",
+      "type": "fire",
+      "deckNumber": "14",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 12:58 am",
+      "refPhotos": [
+"dk 14 windjammer marketplace\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 14, MFZ 6, WINDJAMMER BUFFET STATION</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 14, MFZ 5, PORT SIDE, TEPPANYAKI</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 14, MFZ 3, PORT SIDE, BY LIME & COCONUT POOL BAR</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>Confirm Evacuation of the Area (Consider to use 6CMid & 7AMid) for quick evacuation if need it.</indent>\n\n- <indent=1.5em>Confirm Windjammer/Electrical Equipment shutdown.</indent>\n\n- <indent=1.5em>Confirm Roller Shutter Closed (RS-14-6-004; RS-14-6-003; RS-14-6-002; RS-14-6-001).</indent>\n\n- <indent=1.5em>Consider to Stop Passenger Lift 07; 08; 09; 10; 11; 12; 13; 14; 15 & 16</indent>\n\n- <indent=1.5em>Confirm Hi-Fog release inside galley ducts (when need it).</indent>\n\n- <indent=1.5em>Confirm CO2 release inside galley ducts (when need it).</indent>\n\n- <indent=1.5em>Consider to close Staircase 7A Mid; 6C Mid and 5B Mid</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>Hi-Fog release to be activated (Manually If necessary).</indent>\n\n- <indent=1.5em>If Hi-fog fails, Two hose entry (To be consider) with two water walls for protection.</indent>\n\n- <indent=1.5em>Consider Indirect / Direct (Combination) Attack fire-fighting technique.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: Seaplex</indent>\n\n- <indent=1.5em>below: AC Room / Stateroom Area</indent>\n\n- <indent=1.5em>fwd:  Stbd WJ entrance door (Including Galley Coastal Kitchen), Port WJ Entrance (Including Teppanyaki & Galley)</indent>\n\n- <indent=1.5em>aft:  Windjammer (Including 6C Mid & 7A Mid)</indent>\n\n- <indent=1.5em>sides: n/a</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>n/a</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>Windjammer’s Marketplace exceeds in size (length & area) evacuation is critical.</indent>\n\n- <indent=1.5em>Evacuate Decks: 13 (Staterooms), 14 & 15 (Sport Deck-Seaplex) MFZ 6 & 7</indent>\n\n- <indent=1.5em>Consider to Stop Passenger Lift 07; 08; 09; 10; 11; 12; 13; 14; 15 & 16</indent>\n\n- <indent=1.5em>Consider to Stop Service Lifts SL10, SL11, SL12 & SL13 (However these may be used by the MFG for transport).</indent>\n\n- <indent=1.5em>Consider Weather Conditions.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "%%RZ5%7$@2X4M1*"
+    },
+    {
+      "title": "dk 4 sorrentos outside oven",
+      "type": "fire",
+      "deckNumber": "04",
+      "mfz": "04",
+      "lastEdit": "last edit 05.17.2022 11:40 pm",
+      "refPhotos": [
+"dk 4 sorrentos outside oven\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 4, STARBOARD SIDE, SORRENTO’S</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 4, STAIRCASE 4A MID ENTRANCE TO SORRENTO’S PANTRY & GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 3, BY STAIRCASE 3A MID, PORT SIDE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>Confirm Roller Shutter Closed. Also confirm ventilation and power inside shutdown.</indent>\n\n- <indent=1.5em>confirm hi-fog release inside.</indent>\n\n- <indent=1.5em>Confirm FD’s closed (Including Roller Shutters 06-4-001 & FD 05-4-002 - Next to Crown & Compass).</indent>\n\n- <indent=1.5em>Close Staircase 4A Mid.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>Hi-Fog release to be activated in the area, if fails access with one hose entry to extinguished the fire.</indent>\n\n- <indent=1.5em>Hi-Fog release inside roller shutter (Inside Oven)</indent>\n\n- <indent=1.5em>Consider 2 hoses entry. Direct attack fire-fighting Technique.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: Wonderland’s Galley (Deck 5)</indent>\n\n- <indent=1.5em>below: Casino Royale (Deck 3)</indent>\n\n- <indent=1.5em>fwd: Galley (Inside). Consider to use MFG on air</indent>\n\n- <indent=1.5em>aft: Sorrento’s Inside (Sitting Area). Consider to use MFG on air</indent>\n\n- <indent=1.5em>side: Sorrento’s Inside (Sitting Area). Consider to use MFG on air</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>Confirm Oven / Shutdown – power isolations to all equipment / ventilation stopped.</indent>\n\n- <indent=1.5em>Consider Smoke Containment & Extraction procedures.</indent>\n\n- <indent=1.5em>Smoke propagation in the entire dining room, may also affected/blockage escape routes. Be aware of the smoke extraction outlet will impact Deck 5 embarkation deck.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>Consider to release DELUGE high fog system (Locally) if the fire developed out Sorrento.</indent>\n\n- <indent=1.5em>Consider Crew members in IN 5, 21, 22, 23, 24, 37 & 38 to carry out the duties for smoke clearance detailed on SB.</indent>\n\n- <indent=1.5em>Consider relocation of Assembly Stations C1; C2; C3 and C4 Stations)</indent>\n\n- <indent=1.5em>Consider to use Lost Fire Zone (FZ 4) Relocation Plan for AS. Once the Assembly Stations are relocating, embarkation routes will be also affected.</indent>\n\n- <indent=1.5em>Consider to close Roller Shutter 06-4-001 & FD 05-4-002 (Next to Crown & Compass)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "W6&YP@JJ^GMER(#"
+    },
+    {
+      "title": "dk 4 music hall",
+      "type": "fire",
+      "deckNumber": "04",
+      "mfz": "03",
+      "lastEdit": "last edit 05.17.2022 11:40 pm",
+      "refPhotos": [
+"dk 4 music hall\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 3, STARBOARD SIDE, MUSIC HALL</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 4, STAIRWAY 4AMID</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 5, STARBOARD SIDE, BOLEROS</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>Confirm Hi-Fog Release.</indent>\n\n- <indent=1.5em>Confirm Persons Evacuated (Before Stop Ventilation).</indent>\n\n- <indent=1.5em>Confirm FD’s closed (Including Roller Shutters on FZ 4 & 5).</indent>\n\n- <indent=1.5em>Confirm Power Isolated.</indent>\n\n- <indent=1.5em>Close off Staircase 4A.</indent>\n\n- <indent=1.5em>Stop Passenger Lift 01; 02; 03; 04; 05 & 06.</indent>\n\n- <indent=1.5em>Stop Service Lift 05; 06 & 07.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>Hi-Fog release to be activated</indent>\n\n- <indent=1.5em>If Hi-fog fails, Two hoses entry (To be consider).</indent>\n\n- <indent=1.5em>Consider Indirect / Direct (Combination) fire-fighting Technique.</indent>\n\n- <indent=1.5em>Consider to use more than one MFG for fire-fighting (If necessary).</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: Deck 5 – Chops Grille & Schooner Bar (if necessary). Guest Assembly Stations to be relocated.</indent>\n\n- <indent=1.5em>below: Deck 3 - Music Hall (By MFG on Air due to the opening between decks 4 & 3)</indent>\n\n- <indent=1.5em>fwd: Diamond Club (Special consideration with the glass doors)</indent>\n\n- <indent=1.5em>aft: Sorrento’s Galley</indent>\n\n- <indent=1.5em>side: From Deck 3 – Inside Music Hall (By MFG on Air)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>Consider Smoke Containment & Extraction procedures.</indent>\n\n- <indent=1.5em>Smoke propagation in the entire room and retail street, may also affected/blockage escape routes.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>Utilize CCTV to direct response teams and Assess situation (due to enlarge area)</indent>\n\n- <indent=1.5em>Consider relocation of Assembly Stations B1; B2; B3 and B4 Stations)</indent>\n\n- <indent=1.5em>Consider to use Lost Fire Zone (FZ 3) Relocation Plan for AS. Once the Assembly Stations are relocating, embarkation routes will be also affected.</indent>\n\n- <indent=1.5em>Consider Evacuation Staterooms on Deck 3 / FZ 3.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "W6&YP@JJ^GMER(#"
+    },
+    {
+      "title": "dk 4 dining room wine cellar",
+      "type": "fire",
+      "deckNumber": "04",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 11:40 pm",
+      "refPhotos": [
+"dk 4 dining room wine cellar\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 6, CENTER LINE, DINNING ROOM, WINE CELLAR</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 7, STAIRCASE 7A MID PORT SIDE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 6, I-95</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>Confirm Hi-Fog Release.</indent>\n\n- <indent=1.5em>Confirm Persons Evacuated (Before Stop Ventilation).</indent>\n\n- <indent=1.5em>Confirm FD’s closed (Including Roller Shutter 06-5-002 & FD 05-7-005 - Next Cruise)</indent>\n\n- <indent=1.5em>Consider ECC relocation.</indent>\n\n- <indent=1.5em>Confirm Power Isolated.</indent>\n\n- <indent=1.5em>Close Staircase 6C Mid.</indent>\n\n- <indent=1.5em>Stop Passenger Lift 07; 08; 09; 10; 11; 12; 13; 14; 15 & 16.</indent>\n\n- <indent=1.5em>Stop Service Lift 08; 09; 10 & 11. Consider to keep Service Lift 12 & 13 for MFG’s transport.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>Hi-Fog release to be activated</indent>\n\n- <indent=1.5em>If Hi-fog fails, Two hoses entry (To be consider).</indent>\n\n- <indent=1.5em>Consider Direct & Indirect (Combination) attack fire-fighting Technique.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: Giovanni’s Wine Bar - Deck 5</indent>\n\n- <indent=1.5em>below: Dining Room – Wine Cellar – Deck 3</indent>\n\n- <indent=1.5em>fwd: Wine Cellar / Pantry – Deck 4 (Consider MFG on Air)</indent>\n\n- <indent=1.5em>aft: 6C Mid (RRT)</indent>\n\n- <indent=1.5em>side: Stbd & Port Side Lifejacket’s Lockers (Consider MFG on Air)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>Confirm power isolated to all equipment -/- ventilation stopped.</indent>\n\n- <indent=1.5em>Consider Smoke Containment & Extraction procedures.</indent>\n\n- <indent=1.5em> Smoke propagation in the entire dining room, may also affected / blockage escape routes. Be aware of the smoke extraction outlet will impact Deck 5 embarkation deck.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>Consider to release DELUGE high fog system (Locally) in order to protect from Deck 5 & 3 (Cut-Out / Atrium).</indent>\n\n- <indent=1.5em>Consider Crew members in IN 5, 21, 22, 23, 24, 37 & 38 to carry out the duties for smoke clearance detailed on SB.</indent>\n\n- <indent=1.5em>Consider relocation of Assembly Stations D1; D2; D3; D4; D5 and Y & Z (Crew Assembly Stations)</indent>\n\n- <indent=1.5em>Consider to use Lost Fire Zone (FZ 6) Relocation Plan (Assembly Stations). Once the Assembly Stations are relocating, In route to lifeboats will also be affected and availability of lifejackets.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "W6&YP@JJ^GMER(#"
+    },
+    {
+      "title": "dk 4 dining room sitting area",
+      "type": "fire",
+      "deckNumber": "04",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 11:40 pm",
+      "refPhotos": [
+        "dk 4 dining room sitting area\\Image 1.jpg",
+"dk 4 dining room sitting area\\Image 2.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 6, CENTER LINE, DINNING ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 5, DINING ROOM STARBOARD SIDE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 4, I-95 (BY MEDICAL FACILITY)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>Confirm Hi-Fog Released (If fails consider releasing high fog system locally).</indent>\n\n- <indent=1.5em>Confirm Persons Evacuated (Before Stop Ventilation).</indent>\n\n- <indent=1.5em>Confirm FD’s closed (Including Roller Shutter 06-5-002 & FD 05-7-005)</indent>\n\n- <indent=1.5em>Confirm Power Isolated.</indent>\n\n- <indent=1.5em>Stop Passenger Lift 07; 08; 09; 10; 11; 12; 13; 14; 15 & 16.</indent>\n\n- <indent=1.5em>Stop Service Lift 08; 09; 10 & 11. Consider to keep Service Lift 12 & 13 for MFG’s transport.</indent>\n\n- <indent=1.5em>Close Staircase 6C Mid and 7A Mid.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>Hi-Fog release to be activated</indent>\n\n- <indent=1.5em>Two hose entry, Direct attack fire-fighting technique.</indent>\n\n- <indent=1.5em>Activate Hi-Fog (If Hi-fog fails, two hose entry)</indent>\n\n- <indent=1.5em>Consider to use more than one MFG for fire-fighting.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: Deck 5 - Giovanni’s Italian Kitchen and Wine & The Via (Consider MFG on Air).</indent>\n\n- <indent=1.5em>below: Deck 3 – Dining Room (Consider MFG on Air).</indent>\n\n- <indent=1.5em>fwd: Main Dining Room P & S Side and Main Entrance</indent>\n\n- <indent=1.5em>aft: 6C Mid & 7A Mid</indent>\n\n- <indent=1.5em>side: n/a</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>Confirm power isolated to all equipment / ventilation stopped.</indent>\n\n- <indent=1.5em>Consider Smoke Containment & Extraction procedures.</indent>\n\n- <indent=1.5em>Smoke propagation in the entire dining room, may also affected-/-blockage escape routes. Be aware of the smoke extraction outlet will impact Deck 5 embarkation deck.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>Consider to release DELUGE high fog system (Locally) in order to protect from Deck 5 & 3 (Cut-Out / Atrium).</indent>\n\n- <indent=1.5em>Consider Crew members in IN 5, 21, 22, 23, 24, 37 & 38 to carry out the duties for smoke clearance detailed on SB.</indent>\n\n- <indent=1.5em>Consider relocation of Assembly Stations D1; D2; D3; D4; D5 and Y & Z (Crew Assembly Stations)</indent>\n\n- <indent=1.5em>Consider to use Lost Fire Zone (FZ 6) Relocation Plan (Assembly Stations). Once the Assembly Stations are relocating, In route to lifeboats will also be affected and availability of lifejackets.</indent>\n\n- <indent=1.5em>Consider ECC relocation.</indent>\n\n- <indent=1.5em>Consider Evacuation on Deck 3; 4 & 5 / FZ 6.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "W6&YP@JJ^GMER(#"
+    },
+    {
+      "title": "dk 4 two 70",
+      "type": "fire",
+      "deckNumber": "04",
+      "mfz": "07",
+      "lastEdit": "last edit 05.17.2022 11:40 pm",
+      "refPhotos": [
+        "dk 4 two 70\\Image 1.jpg",
+"dk 4 two 70\\Image 2.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 7, CENTER LINE, TWO 70 PIT</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 7, OUTSIDE STAIRCASE 7 C PORT SIDE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 4, MFZ 6, OUTSIDE STAIRCASE 6CM STARBOARD SIDE, DINING ROOM</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>Confirm Hi-Fog Released (If fails consider releasing high fog system locally).</indent>\n\n- <indent=1.5em>Confirm Evacuation of the area.</indent>\n\n- <indent=1.5em>Confirm Power Isolated.</indent>\n\n- <indent=1.5em>Stop Service Lift 08; 09; 10; 11; 12 & 13. Consider to keep Service for MFG’s transport.</indent>\n\n- <indent=1.5em>Close Staircase 7C Mid.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>Hi-Fog release to be activated (Manually if necessary)</indent>\n\n- <indent=1.5em>If Hi-fog fails, Two hoses entry (To be considered) with two water walls for protection.</indent>\n\n- <indent=1.5em>Consider Direct attack fire-fighting Technique.</indent>\n\n- <indent=1.5em>Consider to use more than one MFG for fire-fighting. (if necessary)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: Deck 5 – Stage</indent>\n\n- <indent=1.5em>below: Deck 3 – Aft Mooring Deck and AC Room</indent>\n\n- <indent=1.5em>fwd: Crew Corridor</indent>\n\n- <indent=1.5em>aft: Backstage Area</indent>\n\n- <indent=1.5em>side: Deck 4 - Dressing Room-Port Side & Corridor-Starboard Side</indent>\n\n- <indent=1.5em>Consider extends boundary cooling due to 3 joined decks from Deck 5 to 7.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>Confirm Oven -/- Shutdown – power isolations to all equipment -/- ventilation stopped.</indent>\n\n- <indent=1.5em>Consider Smoke Containment & Extraction procedures.</indent>\n\n- <indent=1.5em>Smoke propagation in the entire dining room, may also affected-/-blockage escape routes. Be aware of the smoke extraction outlet will impact Deck 5 embarkation deck.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>Utilize CCTV to direct response teams and Assess situation (due to enlarge area), fire can spreads over 3 joined decks.</indent>\n\n- <indent=1.5em>Consider Crew members in IN 5, 21, 22, 23, 24, 37 & 38 to carry out the duties for smoke clearance detailed on SB.</indent>\n\n- <indent=1.5em>Consider relocation of Assembly Stations E1 and E2.</indent>\n\n- <indent=1.5em>Consider to use Lost Fire Zone (FZ 7) Relocation Plan for AS. Once the Assembly Stations are relocating, embarkation routes will be also affected.</indent>\n\n- <indent=1.5em>Consider extends boundary cooling due to 3 joined decks from Deck 3 to 5.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "W6&YP@JJ^GMER(#"
+    },
+    {
+      "title": "dk 3 main galley starboard side fcp access",
+      "type": "fire",
+      "deckNumber": "03",
+      "mfz": "07",
+      "lastEdit": "last edit 05.17.2022 11:40 pm",
+      "refPhotos": [
+"dk 3 main galley starboard side fcp access\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 7, MAIN GALLEY</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 7, STBD SIDE, STAIRCASE 7-A MID</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 6, PORT SIDE, DINNING ROOM</indent>\n\n- <indent=1.5em>DECK 2, MFZ 6, CENTER LINE, I-95</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>Confirm Galley Shutdown.</indent>\n\n- <indent=1.5em>Confirm Hi-Fog Release.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>DFF shutdown / Manual Hi-Fog release to be activated.</indent>\n\n- <indent=1.5em>In Manual Hi-fog fails, two hose entry with two water walls for protection and utilize Wet Chemical extinguisher for fire-fighting.</indent>\n\n- <indent=1.5em>If fire in Galley duct-CO2 can be released by the STBD/S cabinet</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: Main galley deck 4</indent>\n\n- <indent=1.5em>below: Provision area</indent>\n\n- <indent=1.5em>fwd: Office corridor stbd side, store room/ Elevator SL 08/09 on the port side.</indent>\n\n- <indent=1.5em>aft: AC room/Deck store/E-Station (Consider Boundary cooling from AC room)</indent>\n\n- <indent=1.5em>side: None</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>Confirm Galley shutdown – power isolations to all equipment / ventilation stopped.</indent>\n\n- <indent=1.5em>Open CO2 cabinet for quick shutdown of galley equipment and ventilation stop.</indent>\n\n- <indent=1.5em>Follow the instruction on the door to release the CO2</indent>\n\n<indent=1.5em>Cabinet located at Stb entrance lobby (FCP).</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>oil from dff</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>Stop SLs 8.9.10, 11, 12 & 13.</indent>\n\n- <indent=1.5em>Check for fire spread and boundary cool as required in Elevator Shafts.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "- <indent=1.5em>Confirm area evacuated</indent>\n\n- <indent=1.5em>Confirm FD’s closed</indent>\n\n- <indent=1.5em>Confirm Power shutdown and releasing of high fog in the DFF by CM’s</indent>\n\n- <indent=1.5em>Confirm High Fog and CO2 released inside the ducts</indent>\n\n- <indent=1.5em>FCP Deck 5 / FZ1 / Staircase 1C MID</indent>\n\n- <indent=1.5em>Advise to ECR to block Crew Elevator on MFZ 7</indent>\n\n- <indent=1.5em>Rapid Response on Scene. All mustered</indent>\n\n- <indent=1.5em>Entering in the incident location with IFEX w/RR</indent>\n\n- <indent=1.5em>Retrieving RR to FCP. Confirm heavy smoke and low visibility.</indent>\n\n- <indent=1.5em>SA / FCP requesting 02 mobile fire groups for R-entry</indent>\n\n- <indent=1.5em>MFG on FCP. SA / Switching to Ch. 3</indent>\n\n- <indent=1.5em>Confirm permission to make a R-ENTRY</indent>\n\n- <indent=1.5em>Teams on AIR</indent>\n\n- <indent=1.5em>go in</indent>",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "W6&YP@JJ^GMER(#"
+    },
+    {
+      "title": "dk 3 dining room wine cellar",
+      "type": "fire",
+      "deckNumber": "03",
+      "mfz": "06",
+      "lastEdit": "last edit 05.17.2022 11:40 pm",
+      "refPhotos": [
+"dk 3 dining room wine cellar\\Image 1.jpg"
+      ],
+      "killCardSteps": [
+        {
+          "title": "Bravo",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 6, CENTER LINE, DINNING ROOM, WINE CELLAR</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "FCP",
+          "notes": "- <indent=1.5em>DECK 3, MFZ 7, STAIRCASE 7A MID PORT SIDE</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "staging area",
+          "notes": "- <indent=1.5em>DECK 2, MFZ 5, I-95</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "initial actions",
+          "notes": "- <indent=1.5em>Confirm Hi-Fog Released (If fails consider releasing high fog system locally).</indent>\n\n- <indent=1.5em>Confirm Persons Evacuated (Before Stop Ventilation).</indent>\n\n- <indent=1.5em>Confirm FD’s closed (Including Roller Shutter 06-5-002 & FD 05-7-005 by Next Cruise).</indent>\n\n- <indent=1.5em>Confirm Power Isolated.</indent>\n\n- <indent=1.5em>Stop Passenger Lift 07; 08; 09; 10; 11; 12; 13; 14; 15 & 16.</indent>\n\n- <indent=1.5em>Stop Service Lift 08; 09; 10 & 11. Consider to keep Service Lift 12 & 13 for MFG’s transport.</indent>\n\n- <indent=1.5em>Close Staircase 6C Mid and 7A Mid.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "fire fighting techniques",
+          "notes": "- <indent=1.5em>Hi-Fog release to be activated</indent>\n\n- <indent=1.5em>Hi-Fog release inside wine cellar, if fails access with two hoses entry to the door to extinguished the fire.</indent>\n\n- <indent=1.5em>Consider Direct & Indirect (Combination) attack fire-fighting Technique.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "boundary cooling",
+          "notes": "- <indent=1.5em>above: Dining Room - Deck 4</indent>\n\n- <indent=1.5em>below: I-95 Midship in Between Luggage Handling Area</indent>\n\n- <indent=1.5em>fwd: Wine Cellar / Pantry – Deck 3 (Consider MFG on Air)</indent>\n\n- <indent=1.5em>aft: 6C Mid (RRT))</indent>\n\n- <indent=1.5em>side: Stbd & Port Side Lifejacket’s Lockers (Consider MFG on Air)</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "power and ventilation",
+          "notes": "- <indent=1.5em>Confirm power isolated to all equipment / ventilation stopped.</indent>\n\n- <indent=1.5em>Consider Smoke Containment & Extraction procedures.</indent>\n\n- <indent=1.5em>Smoke propagation in the entire Dining Room, may also affected/blockage escape routes. Be aware of the smoke extraction outlet will impact Deck 5 embarkation deck.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "hazardous materials",
+          "notes": "- <indent=1.5em>none</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "considerations",
+          "notes": "- <indent=1.5em>Consider I-94 in route to FCP from Deck 2 to Deck 3 Staircase 7A Mid due to boundary cooling from Deck 3 / FZ 6.</indent>\n\n- <indent=1.5em>Consider to release DELUGE high fog system (Locally) in order to protect from Deck 5 & 3 (Cut-Out / Atrium).</indent>\n\n<indent=1.5em>Consider Crew members in IN 5, 21, 22, 23, 24, 37 & 38 to carry out the duties for smoke clearance detailed on SB.</indent>\n\n<indent=1.5em>Consider relocation of Assembly Stations D1; D2; D3; D4; D5 and Y & Z (Crew Assembly Stations)</indent>\n\n<indent=1.5em>Consider to use Lost Fire Zone (FZ 6) Relocation Plan (Assembly Stations). Once the Assembly Stations are relocating, embarkation routes to lifeboats will also be affected and availability of lifejackets.</indent>\n\n<indent=1.5em>Consider ECC relocation.</indent>",
+          "checks": "false"
+        },
+        {
+          "title": "lessons learnt",
+          "notes": "",
+          "checks": "false"
+        }
+      ],
+      "VersionID": "W6&YP@JJ^GMER(#"
+    }
+  ]
+}

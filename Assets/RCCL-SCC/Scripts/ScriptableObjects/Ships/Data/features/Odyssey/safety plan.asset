@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: safety plan
+  m_EditorClassIdentifier: 
+  data:
+    featureName: safety plan
+    Ship: 50
+    OptionalFeatureTool: 0
+    column: 1
+    overlays:
+    - {fileID: 8669956900969197132, guid: 018241121bc0009428aea41641af4570, type: 3}
+    - {fileID: -1622453313452856285, guid: 018241121bc0009428aea41641af4570, type: 3}
+    - {fileID: 5812048003676354264, guid: 018241121bc0009428aea41641af4570, type: 3}
+    - {fileID: 2887238130830460333, guid: 018241121bc0009428aea41641af4570, type: 3}
+    - {fileID: -2849288312358530374, guid: 018241121bc0009428aea41641af4570, type: 3}
+    - {fileID: 4849756083162321209, guid: 018241121bc0009428aea41641af4570, type: 3}
+    - {fileID: -2593827255927534076, guid: 28754367959211c4e80086beea40a817, type: 3}
+    - {fileID: -8086327207594461939, guid: 28754367959211c4e80086beea40a817, type: 3}
+    - {fileID: 8999906479461160375, guid: 28754367959211c4e80086beea40a817, type: 3}
+    - {fileID: -755875416084270742, guid: 28754367959211c4e80086beea40a817, type: 3}
+    - {fileID: -3860986291503852274, guid: 28754367959211c4e80086beea40a817, type: 3}
+    - {fileID: 6867256725316341987, guid: 28754367959211c4e80086beea40a817, type: 3}
+    - {fileID: 5423242772687813466, guid: 5a705fd6fcf56d04089e93478ce305e2, type: 3}
+    - {fileID: -7385452807041830907, guid: 5a705fd6fcf56d04089e93478ce305e2, type: 3}
+    - {fileID: 3656993254717672783, guid: 5a705fd6fcf56d04089e93478ce305e2, type: 3}
+    - {fileID: -4921990094050853570, guid: 02b15abb139b19e488cb857cc1a7c595, type: 3}
+    - {fileID: -8593550553358366523, guid: 02b15abb139b19e488cb857cc1a7c595, type: 3}
+    - {fileID: -7731060397815062453, guid: 02b15abb139b19e488cb857cc1a7c595, type: 3}
+    - {fileID: 6441371754127304655, guid: 02b15abb139b19e488cb857cc1a7c595, type: 3}
+    - {fileID: 5675850798219979303, guid: 02b15abb139b19e488cb857cc1a7c595, type: 3}
+    - {fileID: 1287669541542140943, guid: 02b15abb139b19e488cb857cc1a7c595, type: 3}
+    AssetBundleName: odyssey/features/safety plan

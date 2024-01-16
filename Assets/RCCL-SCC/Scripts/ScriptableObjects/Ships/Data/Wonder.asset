@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99255afdcc5b64644b7b423610b43283, type: 3}
+  m_Name: Wonder
+  m_EditorClassIdentifier: 
+  Ship:
+    id: 100
+    decks:
+    - {fileID: -2296236225022847586, guid: 7ef96c1967052af419f131f5925f66c8, type: 3}
+    - {fileID: -8833284758922458628, guid: 7ef96c1967052af419f131f5925f66c8, type: 3}
+    - {fileID: 5963423134504448673, guid: 7ef96c1967052af419f131f5925f66c8, type: 3}
+    - {fileID: 5424564190641581011, guid: 7ef96c1967052af419f131f5925f66c8, type: 3}
+    - {fileID: -2775379093976078609, guid: 7ef96c1967052af419f131f5925f66c8, type: 3}
+    - {fileID: 8047058331286208739, guid: 7ef96c1967052af419f131f5925f66c8, type: 3}
+    - {fileID: -1572000320969261014, guid: cc0453c964c96d54881b19aa981f25ae, type: 3}
+    - {fileID: 2383959847934104696, guid: cc0453c964c96d54881b19aa981f25ae, type: 3}
+    - {fileID: 5184928497780935400, guid: cc0453c964c96d54881b19aa981f25ae, type: 3}
+    - {fileID: -1562403916477858663, guid: cc0453c964c96d54881b19aa981f25ae, type: 3}
+    - {fileID: -1601234608130881092, guid: cc0453c964c96d54881b19aa981f25ae, type: 3}
+    - {fileID: 7977811025936773930, guid: cc0453c964c96d54881b19aa981f25ae, type: 3}
+    - {fileID: 2609819996207266629, guid: d04535a2f67922744b2e509ed1f1e02a, type: 3}
+    - {fileID: -3180523660669038503, guid: 0ca59982a8f64c540b87850bb25a664b, type: 3}
+    - {fileID: 1360291636051939427, guid: d04535a2f67922744b2e509ed1f1e02a, type: 3}
+    - {fileID: -7037778696840101295, guid: d04535a2f67922744b2e509ed1f1e02a, type: 3}
+    - {fileID: -8087924462696845525, guid: d04535a2f67922744b2e509ed1f1e02a, type: 3}
+    - {fileID: -7945071723457070054, guid: d04535a2f67922744b2e509ed1f1e02a, type: 3}
+    - {fileID: -1173258039994269090, guid: d04535a2f67922744b2e509ed1f1e02a, type: 3}
+    - {fileID: -5188115224058436262, guid: 0ca59982a8f64c540b87850bb25a664b, type: 3}
+    - {fileID: 7436874005441468245, guid: 0ca59982a8f64c540b87850bb25a664b, type: 3}
+    - {fileID: -4417898341565862915, guid: 0ca59982a8f64c540b87850bb25a664b, type: 3}
+    - {fileID: 4817898353825641493, guid: 0ca59982a8f64c540b87850bb25a664b, type: 3}
+    - {fileID: 21300000, guid: fd22d7b29f4ddef46829ff11fb3ffb70, type: 3}
+    cabins: []
+    legends:
+    - LegendName: Life Saving Appliances
+      LegendImage: {fileID: 21300000, guid: bfa653e78dfc9eb4f8890a736ad77c0e, type: 3}
+    - LegendName: Damage Control Plan
+      LegendImage: {fileID: 21300000, guid: f5d6cc7204ba251418457cf88d71f7a3, type: 3}
+    - LegendName: Fire Control Plan
+      LegendImage: {fileID: 21300000, guid: 1c3a7d8852040354192feef1f69b011d, type: 3}
+    - LegendName: Safety Plan
+      LegendImage: {fileID: 21300000, guid: bcea175240c3648468478aae8647ae66, type: 3}
+    Features:
+    - wonder/features/damage control plan
+    - wonder/features/fire control plan
+    - wonder/features/framing
+    - wonder/features/life saving appliances
+    - wonder/features/safety plan
+    shipAbbreviation: WN
+    eniramShipID: 
+    eMusteringURL: http://wnapass01.wonder.sh.rccl.com/

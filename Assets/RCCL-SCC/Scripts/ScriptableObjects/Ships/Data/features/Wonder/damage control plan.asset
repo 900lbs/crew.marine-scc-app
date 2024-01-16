@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: damage control plan
+  m_EditorClassIdentifier: 
+  data:
+    featureName: damage control plan
+    Ship: 100
+    OptionalFeatureTool: 0
+    column: 2
+    overlays:
+    - {fileID: -5964593984255265653, guid: 964b79533ef089c42a21e9f0a5c094ce, type: 3}
+    - {fileID: 5532516261141225115, guid: 964b79533ef089c42a21e9f0a5c094ce, type: 3}
+    - {fileID: 2917841872739631471, guid: 964b79533ef089c42a21e9f0a5c094ce, type: 3}
+    - {fileID: 2158196200336828022, guid: 964b79533ef089c42a21e9f0a5c094ce, type: 3}
+    - {fileID: -443204203051346540, guid: 964b79533ef089c42a21e9f0a5c094ce, type: 3}
+    - {fileID: -5091093234167428031, guid: 964b79533ef089c42a21e9f0a5c094ce, type: 3}
+    - {fileID: -1236532759542194043, guid: 5330e1ec2cb21574b93f0fa490e52829, type: 3}
+    - {fileID: -6865115127839592644, guid: 5330e1ec2cb21574b93f0fa490e52829, type: 3}
+    - {fileID: 5050216261483856683, guid: 5330e1ec2cb21574b93f0fa490e52829, type: 3}
+    - {fileID: -3170981635277630152, guid: 5330e1ec2cb21574b93f0fa490e52829, type: 3}
+    - {fileID: -4993054753844348355, guid: 5330e1ec2cb21574b93f0fa490e52829, type: 3}
+    - {fileID: 911163005284691788, guid: 5330e1ec2cb21574b93f0fa490e52829, type: 3}
+    AssetBundleName: wonder/features/damage control plan

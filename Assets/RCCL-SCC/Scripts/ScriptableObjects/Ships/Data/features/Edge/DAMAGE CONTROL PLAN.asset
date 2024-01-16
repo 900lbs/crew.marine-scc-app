@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: DAMAGE CONTROL PLAN
+  m_EditorClassIdentifier: 
+  data:
+    featureName: DAMAGE CONTROL PLAN
+    Ship: 1
+    OptionalFeatureTool: 0
+    column: 1
+    overlays:
+    - {fileID: 21300004, guid: 844090bcf1e69e84a967f3ee4e497770, type: 3}
+    - {fileID: 21300002, guid: 844090bcf1e69e84a967f3ee4e497770, type: 3}
+    - {fileID: 21300000, guid: 844090bcf1e69e84a967f3ee4e497770, type: 3}
+    - {fileID: 21300010, guid: 844090bcf1e69e84a967f3ee4e497770, type: 3}
+    - {fileID: 21300008, guid: 844090bcf1e69e84a967f3ee4e497770, type: 3}
+    - {fileID: 21300006, guid: 844090bcf1e69e84a967f3ee4e497770, type: 3}
+    AssetBundleName: edge/features/damage control plan

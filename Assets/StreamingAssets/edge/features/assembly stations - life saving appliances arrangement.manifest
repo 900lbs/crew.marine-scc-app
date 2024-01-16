@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 527664460
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a0ec960c8f6fed431445369c295c957
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ec5555621b0a60db310d46402943cdca
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/RCCL-SCC/Scripts/ScriptableObjects/Ships/Data/features/Edge/assembly stations
+  - life saving appliances arrangement.asset
+Dependencies: []

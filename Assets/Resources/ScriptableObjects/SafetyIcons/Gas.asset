@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 284301744cecd724e9f789c051442fe1, type: 3}
+  m_Name: Gas
+  m_EditorClassIdentifier: 
+  iconName: Gas
+  AssignedShips: -1
+  iconImage: {fileID: 21300000, guid: 7a8957102bede814db5229cf6b115a1f, type: 3}
+  iconSize: {x: 0, y: 0}
+  assignedIconType: 1
+  AssignedProperties: 2
+  PrefabReference: {fileID: 1024127699156878, guid: 682d71e647171034e9965cd0f8e0bdde,
+    type: 3}

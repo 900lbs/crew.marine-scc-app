@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99255afdcc5b64644b7b423610b43283, type: 3}
+  m_Name: Oasis
+  m_EditorClassIdentifier: 
+  Ship:
+    id: 8
+    decks:
+    - {fileID: 21300010, guid: 106ba5c9fd5e9da409b3a6dee54fdb81, type: 3}
+    - {fileID: 21300006, guid: 106ba5c9fd5e9da409b3a6dee54fdb81, type: 3}
+    - {fileID: 21300008, guid: 106ba5c9fd5e9da409b3a6dee54fdb81, type: 3}
+    - {fileID: 21300004, guid: 106ba5c9fd5e9da409b3a6dee54fdb81, type: 3}
+    - {fileID: 21300002, guid: 106ba5c9fd5e9da409b3a6dee54fdb81, type: 3}
+    - {fileID: 21300000, guid: 106ba5c9fd5e9da409b3a6dee54fdb81, type: 3}
+    - {fileID: 21300010, guid: 0ed3a22b5b2310a439c4832eace83d75, type: 3}
+    - {fileID: 21300008, guid: 0ed3a22b5b2310a439c4832eace83d75, type: 3}
+    - {fileID: 21300006, guid: 0ed3a22b5b2310a439c4832eace83d75, type: 3}
+    - {fileID: 21300004, guid: 0ed3a22b5b2310a439c4832eace83d75, type: 3}
+    - {fileID: 21300002, guid: 0ed3a22b5b2310a439c4832eace83d75, type: 3}
+    - {fileID: 21300000, guid: 0ed3a22b5b2310a439c4832eace83d75, type: 3}
+    - {fileID: 21300010, guid: b3bb8d749a7577d45abaeb39c2c2f345, type: 3}
+    - {fileID: 21300008, guid: b3bb8d749a7577d45abaeb39c2c2f345, type: 3}
+    - {fileID: 21300006, guid: b3bb8d749a7577d45abaeb39c2c2f345, type: 3}
+    - {fileID: 21300004, guid: b3bb8d749a7577d45abaeb39c2c2f345, type: 3}
+    - {fileID: 21300002, guid: b3bb8d749a7577d45abaeb39c2c2f345, type: 3}
+    - {fileID: 21300000, guid: b3bb8d749a7577d45abaeb39c2c2f345, type: 3}
+    - {fileID: 21300010, guid: 4a6a800fd74abc14e9de82168fa5e23a, type: 3}
+    - {fileID: 21300008, guid: 4a6a800fd74abc14e9de82168fa5e23a, type: 3}
+    - {fileID: 21300006, guid: 4a6a800fd74abc14e9de82168fa5e23a, type: 3}
+    - {fileID: 21300004, guid: 4a6a800fd74abc14e9de82168fa5e23a, type: 3}
+    - {fileID: 21300002, guid: 4a6a800fd74abc14e9de82168fa5e23a, type: 3}
+    - {fileID: 21300000, guid: 4a6a800fd74abc14e9de82168fa5e23a, type: 3}
+    cabins:
+    - {fileID: 21300010, guid: 24ea589410c20954e9dc53af6b330985, type: 3}
+    - {fileID: 21300008, guid: 24ea589410c20954e9dc53af6b330985, type: 3}
+    - {fileID: 21300006, guid: 24ea589410c20954e9dc53af6b330985, type: 3}
+    - {fileID: 21300004, guid: 24ea589410c20954e9dc53af6b330985, type: 3}
+    - {fileID: 21300002, guid: 24ea589410c20954e9dc53af6b330985, type: 3}
+    - {fileID: 21300000, guid: 24ea589410c20954e9dc53af6b330985, type: 3}
+    - {fileID: 21300006, guid: 9799b9b2dea3f37408b5de9c927f8b80, type: 3}
+    - {fileID: 21300004, guid: 9799b9b2dea3f37408b5de9c927f8b80, type: 3}
+    - {fileID: 21300002, guid: 9799b9b2dea3f37408b5de9c927f8b80, type: 3}
+    - {fileID: 21300000, guid: 9799b9b2dea3f37408b5de9c927f8b80, type: 3}
+    legends:
+    - LegendName: Fire Control Plan
+      LegendImage: {fileID: 21300000, guid: e11073afcee3a25478d19e86d4092ddc, type: 3}
+    - LegendName: Life Saving Appliances
+      LegendImage: {fileID: 21300000, guid: 198c44193a2a18249a3bd675d388b6c0, type: 3}
+    Features:
+    - oasis/features/evacuation plan
+    - oasis/features/fire control plan
+    - oasis/features/framing
+    - oasis/features/life saving appliances
+    shipAbbreviation: OA
+    eniramShipID: id=1023-003
+    eMusteringURL: http://oaapass01.oasis.sh.rccl.com/A-PASS/BridgeDashboard.aspx

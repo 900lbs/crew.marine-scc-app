@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: Framing
+  m_EditorClassIdentifier: 
+  data:
+    featureName: Framing
+    Ship: 2
+    OptionalFeatureTool: 2
+    column: 1
+    overlays:
+    - {fileID: 21300010, guid: 51fe951c6ef8f494681567b81c6b1ad4, type: 3}
+    - {fileID: 21300008, guid: 51fe951c6ef8f494681567b81c6b1ad4, type: 3}
+    - {fileID: 21300006, guid: 51fe951c6ef8f494681567b81c6b1ad4, type: 3}
+    - {fileID: 21300004, guid: 51fe951c6ef8f494681567b81c6b1ad4, type: 3}
+    - {fileID: 21300002, guid: 51fe951c6ef8f494681567b81c6b1ad4, type: 3}
+    - {fileID: 21300000, guid: 51fe951c6ef8f494681567b81c6b1ad4, type: 3}
+    - {fileID: 21300010, guid: 6766d6508570ad341bc2cde7552252b7, type: 3}
+    - {fileID: 21300008, guid: 6766d6508570ad341bc2cde7552252b7, type: 3}
+    - {fileID: 21300006, guid: 6766d6508570ad341bc2cde7552252b7, type: 3}
+    - {fileID: 21300004, guid: 6766d6508570ad341bc2cde7552252b7, type: 3}
+    - {fileID: 21300002, guid: 6766d6508570ad341bc2cde7552252b7, type: 3}
+    - {fileID: 21300000, guid: 6766d6508570ad341bc2cde7552252b7, type: 3}
+    - {fileID: 21300008, guid: 09eab6bcbf179e64ca4d0035038d1cf7, type: 3}
+    - {fileID: 21300006, guid: 09eab6bcbf179e64ca4d0035038d1cf7, type: 3}
+    - {fileID: 21300004, guid: 09eab6bcbf179e64ca4d0035038d1cf7, type: 3}
+    - {fileID: 21300002, guid: 09eab6bcbf179e64ca4d0035038d1cf7, type: 3}
+    - {fileID: 21300000, guid: 09eab6bcbf179e64ca4d0035038d1cf7, type: 3}
+    - {fileID: 21300004, guid: 53fad366b4c355d49b4683f3cf7c1793, type: 3}
+    - {fileID: 21300002, guid: 53fad366b4c355d49b4683f3cf7c1793, type: 3}
+    - {fileID: 21300000, guid: 53fad366b4c355d49b4683f3cf7c1793, type: 3}
+    - {fileID: 21300010, guid: 53fad366b4c355d49b4683f3cf7c1793, type: 3}
+    - {fileID: 21300008, guid: 53fad366b4c355d49b4683f3cf7c1793, type: 3}
+    - {fileID: 21300006, guid: 53fad366b4c355d49b4683f3cf7c1793, type: 3}
+    AssetBundleName: symphony/features/framing

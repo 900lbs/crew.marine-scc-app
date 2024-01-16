@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1761539379
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a96c1d292be1f447c2760280ddd6a8df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 58cb493f7a7fca39bfcd762e0a14cf74
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scripts/Scriptable Objects/Ships/Data/features/Oasis/LSA.asset
+Dependencies: []

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a35f3f20447854547ac87821fb6fdaee, type: 3}
+  m_Name: Table Build - DEV
+  m_EditorClassIdentifier: 
+  FileName: Table Build - DEV
+  BuildName: SafetyCommandCenter-Table-Demo
+  BuildVersion: 3.0
+  PhotonVersion: 2.5
+  ProjectContext: {fileID: 350234069192787579, guid: 4e5f400676c70184cbe3d2edd3ebd977,
+    type: 3}
+  SceneSettings: {fileID: 11400000, guid: fcb03248bd0d1314c8b0e08b3b630e25, type: 2}
+  ProjectSettings:
+    DebugEnabled: 0
+    DevEnabled: 1
+    MultishipEnabled: 0
+    TargetShip: {fileID: 11400000, guid: 2f3581ff1f105da44a88ba0dfae795c2, type: 2}
+    AntiAliasing: 8
+  MainMenu: {fileID: 102900000, guid: 9b4c3a105864ab548a67960f360b0ece, type: 3}
+  Application: {fileID: 102900000, guid: e086e82211a57ad458e98518d809ed81, type: 3}

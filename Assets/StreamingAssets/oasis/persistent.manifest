@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4205032075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 791d758356263595a6daa8d4eb6a7b96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd30867720ec59be358393d30e72f356
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99255afdcc5b64644b7b423610b43283, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/RCCL-SCC/Scripts/ScriptableObjects/Ships/Data/Oasis.asset
+- Assets/RCCL-SCC/Art/Ships/Oasis/Oasis Decks/Overlays/CabinNumbers/OA_CabinNumbers_11-17.png
+- Assets/RCCL-SCC/Art/Ships/Oasis/Oasis Decks/GA/OA_Decks 08-14.png
+- Assets/RCCL-SCC/Art/Ships/Oasis/Oasis Decks/Overlays/CabinNumbers/OA_CabinNumbers_03-10.png
+- Assets/RCCL-SCC/Art/Ships/Oasis/Oasis Decks/Legends/OA_Legend_LSP.png
+- Assets/RCCL-SCC/Art/Ships/Oasis/Oasis Decks/GA/OA_Decks DB-02.png
+- Assets/RCCL-SCC/Art/Ships/Oasis/Oasis Decks/GA/OA_Decks 03-07.png
+- Assets/RCCL-SCC/Art/Ships/Oasis/Oasis Decks/GA/OA_Decks 15-Profile.png
+- Assets/RCCL-SCC/Art/Ships/Oasis/Oasis Decks/Legends/OA_Legend_FCP.png
+Dependencies: []

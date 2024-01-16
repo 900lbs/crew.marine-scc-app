@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1085871166
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf1b501ef1b200e77c8fe9dd0f2944de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e9f7586bbca04083dac5085b54f8ac6
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 99255afdcc5b64644b7b423610b43283, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/RCCL-SCC/Scripts/ScriptableObjects/Ships/Data/CurrentShip.asset
+Dependencies: []

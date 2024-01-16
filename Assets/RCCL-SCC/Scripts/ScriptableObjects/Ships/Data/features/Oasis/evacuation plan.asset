@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: evacuation plan
+  m_EditorClassIdentifier: 
+  data:
+    featureName: evacuation plan
+    Ship: 8
+    OptionalFeatureTool: 0
+    column: 0
+    overlays:
+    - {fileID: 21300010, guid: 092a27b6ee5720b45973ddc152445661, type: 3}
+    - {fileID: 21300008, guid: 092a27b6ee5720b45973ddc152445661, type: 3}
+    - {fileID: 21300006, guid: 092a27b6ee5720b45973ddc152445661, type: 3}
+    - {fileID: 21300004, guid: 092a27b6ee5720b45973ddc152445661, type: 3}
+    - {fileID: 21300002, guid: 092a27b6ee5720b45973ddc152445661, type: 3}
+    - {fileID: 21300000, guid: 092a27b6ee5720b45973ddc152445661, type: 3}
+    - {fileID: 21300010, guid: e78d1cf57b00f374983a0e7928bf56b8, type: 3}
+    - {fileID: 21300008, guid: e78d1cf57b00f374983a0e7928bf56b8, type: 3}
+    - {fileID: 21300006, guid: e78d1cf57b00f374983a0e7928bf56b8, type: 3}
+    - {fileID: 21300004, guid: e78d1cf57b00f374983a0e7928bf56b8, type: 3}
+    - {fileID: 21300002, guid: e78d1cf57b00f374983a0e7928bf56b8, type: 3}
+    - {fileID: 21300000, guid: e78d1cf57b00f374983a0e7928bf56b8, type: 3}
+    - {fileID: 21300002, guid: 6e87914d3c1a8e547b11c519d5b2b3a8, type: 3}
+    - {fileID: 21300000, guid: 6e87914d3c1a8e547b11c519d5b2b3a8, type: 3}
+    AssetBundleName: oasis/features/evacuation plan

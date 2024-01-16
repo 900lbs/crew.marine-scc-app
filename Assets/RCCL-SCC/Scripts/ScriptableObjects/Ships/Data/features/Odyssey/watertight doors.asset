@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: watertight doors
+  m_EditorClassIdentifier: 
+  data:
+    featureName: watertight doors
+    Ship: 50
+    OptionalFeatureTool: 0
+    column: 1
+    overlays:
+    - {fileID: -8444315508494621286, guid: 291414bb32c084a4dbd0a4408599a3f4, type: 3}
+    - {fileID: -4786915032017612498, guid: 291414bb32c084a4dbd0a4408599a3f4, type: 3}
+    - {fileID: 1023847788702183432, guid: 291414bb32c084a4dbd0a4408599a3f4, type: 3}
+    - {fileID: -8874983141720227993, guid: 291414bb32c084a4dbd0a4408599a3f4, type: 3}
+    - {fileID: -7690897050325189202, guid: 291414bb32c084a4dbd0a4408599a3f4, type: 3}
+    - {fileID: -3876824769571560049, guid: 291414bb32c084a4dbd0a4408599a3f4, type: 3}
+    - {fileID: 7075547634325040481, guid: 6513abe659019d14eaa456440b773ae7, type: 3}
+    AssetBundleName: odyssey/features/watertight doors

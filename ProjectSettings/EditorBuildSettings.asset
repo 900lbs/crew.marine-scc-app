@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RCCL-SCC/Scenes/MainMenu.unity
+    guid: 9b4c3a105864ab548a67960f360b0ece
+  - enabled: 1
+    path: Assets/RCCL-SCC/Scenes/SafetyCenter_2_5.unity
+    guid: 3420e1288b2004c42945710bf9372b04
+  - enabled: 0
+    path: Assets/RCCL-SCC/Scenes/SafetyCenter_2_5_Tablet.unity
+    guid: e8613dc38720f2b41840840b57c72652
+  m_configObjects: {}

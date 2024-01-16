@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: Framing
+  m_EditorClassIdentifier: 
+  data:
+    featureName: Framing
+    Ship: 22
+    OptionalFeatureTool: 2
+    column: 0
+    overlays:
+    - {fileID: 21300010, guid: 9e75d578b0f9a994c8c76398f844c8f3, type: 3}
+    - {fileID: 21300008, guid: 9e75d578b0f9a994c8c76398f844c8f3, type: 3}
+    - {fileID: 21300006, guid: 9e75d578b0f9a994c8c76398f844c8f3, type: 3}
+    - {fileID: 21300004, guid: 9e75d578b0f9a994c8c76398f844c8f3, type: 3}
+    - {fileID: 21300002, guid: 9e75d578b0f9a994c8c76398f844c8f3, type: 3}
+    - {fileID: 21300000, guid: 9e75d578b0f9a994c8c76398f844c8f3, type: 3}
+    - {fileID: 21300010, guid: fab0068c71b4298488530cabcf02ea30, type: 3}
+    - {fileID: 21300008, guid: fab0068c71b4298488530cabcf02ea30, type: 3}
+    - {fileID: 21300006, guid: fab0068c71b4298488530cabcf02ea30, type: 3}
+    - {fileID: 21300004, guid: fab0068c71b4298488530cabcf02ea30, type: 3}
+    - {fileID: 21300002, guid: fab0068c71b4298488530cabcf02ea30, type: 3}
+    - {fileID: 21300000, guid: fab0068c71b4298488530cabcf02ea30, type: 3}
+    - {fileID: 21300008, guid: 38ed3616be527cb4194e293dc807aae9, type: 3}
+    - {fileID: 21300006, guid: 38ed3616be527cb4194e293dc807aae9, type: 3}
+    - {fileID: 21300004, guid: 38ed3616be527cb4194e293dc807aae9, type: 3}
+    - {fileID: 21300002, guid: 38ed3616be527cb4194e293dc807aae9, type: 3}
+    - {fileID: 21300000, guid: 38ed3616be527cb4194e293dc807aae9, type: 3}
+    - {fileID: 21300004, guid: 6a5a90771b050804d9b7775ab7b927ca, type: 3}
+    - {fileID: 21300002, guid: 6a5a90771b050804d9b7775ab7b927ca, type: 3}
+    - {fileID: 21300000, guid: 6a5a90771b050804d9b7775ab7b927ca, type: 3}
+    - {fileID: 21300010, guid: 6a5a90771b050804d9b7775ab7b927ca, type: 3}
+    - {fileID: 21300008, guid: 6a5a90771b050804d9b7775ab7b927ca, type: 3}
+    - {fileID: 21300006, guid: 6a5a90771b050804d9b7775ab7b927ca, type: 3}
+    AssetBundleName: apex/features/Framing

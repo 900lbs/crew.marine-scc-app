@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: framing
+  m_EditorClassIdentifier: 
+  data:
+    featureName: framing
+    Ship: 296
+    OptionalFeatureTool: 2
+    column: 0
+    overlays:
+    - {fileID: -535828584928679461, guid: dbe7e7bc3e8282e4baf46a9eeffe4236, type: 3}
+    - {fileID: 408858802457567699, guid: dbe7e7bc3e8282e4baf46a9eeffe4236, type: 3}
+    - {fileID: 4557646439084756955, guid: dbe7e7bc3e8282e4baf46a9eeffe4236, type: 3}
+    - {fileID: 256231298901666559, guid: dbe7e7bc3e8282e4baf46a9eeffe4236, type: 3}
+    - {fileID: 3456698230833745669, guid: dbe7e7bc3e8282e4baf46a9eeffe4236, type: 3}
+    - {fileID: -8955120084736385203, guid: dbe7e7bc3e8282e4baf46a9eeffe4236, type: 3}
+    - {fileID: -3930358147923552494, guid: 30f448fc46822564ba358d8e058bc475, type: 3}
+    - {fileID: 8941878940368826174, guid: 30f448fc46822564ba358d8e058bc475, type: 3}
+    - {fileID: 3653419379251097962, guid: 30f448fc46822564ba358d8e058bc475, type: 3}
+    - {fileID: 2671265779694027181, guid: 30f448fc46822564ba358d8e058bc475, type: 3}
+    - {fileID: -7200766737575704582, guid: 30f448fc46822564ba358d8e058bc475, type: 3}
+    - {fileID: 7490188153970338844, guid: 30f448fc46822564ba358d8e058bc475, type: 3}
+    - {fileID: -4655789143409669252, guid: 8aa1e06c074c0c142aa8ebdd1172e90f, type: 3}
+    - {fileID: 339686478611660967, guid: 8aa1e06c074c0c142aa8ebdd1172e90f, type: 3}
+    - {fileID: -7590196206778068277, guid: 8aa1e06c074c0c142aa8ebdd1172e90f, type: 3}
+    - {fileID: 694007293473568889, guid: 8aa1e06c074c0c142aa8ebdd1172e90f, type: 3}
+    - {fileID: -2166333520215288950, guid: 8aa1e06c074c0c142aa8ebdd1172e90f, type: 3}
+    - {fileID: -1129830835597579852, guid: 1c0e949c25353fc4c81589e94396402d, type: 3}
+    - {fileID: -7144146991753263981, guid: 1c0e949c25353fc4c81589e94396402d, type: 3}
+    - {fileID: 7871040891452971141, guid: 1c0e949c25353fc4c81589e94396402d, type: 3}
+    - {fileID: -4969218975833952960, guid: 1c0e949c25353fc4c81589e94396402d, type: 3}
+    - {fileID: -3630069943666775436, guid: 1c0e949c25353fc4c81589e94396402d, type: 3}
+    - {fileID: -7517216605322213993, guid: 1c0e949c25353fc4c81589e94396402d, type: 3}
+    AssetBundleName: beyond/features/framing

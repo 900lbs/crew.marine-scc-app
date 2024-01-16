@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: fire control plan
+  m_EditorClassIdentifier: 
+  data:
+    featureName: fire control plan
+    Ship: 50
+    OptionalFeatureTool: 0
+    column: 0
+    overlays:
+    - {fileID: -4311479028344755530, guid: 6ee2b227d02dc314cacdc1a37911fad7, type: 3}
+    - {fileID: -8571002855931530412, guid: 6ee2b227d02dc314cacdc1a37911fad7, type: 3}
+    - {fileID: -5009264819983879536, guid: 6ee2b227d02dc314cacdc1a37911fad7, type: 3}
+    - {fileID: 282391007420626074, guid: 6ee2b227d02dc314cacdc1a37911fad7, type: 3}
+    - {fileID: 4228222439781307288, guid: 6ee2b227d02dc314cacdc1a37911fad7, type: 3}
+    - {fileID: 3527881351400507251, guid: 6ee2b227d02dc314cacdc1a37911fad7, type: 3}
+    - {fileID: -7998567314607936790, guid: c7697975474f95b4c94e9f3d0ecd7658, type: 3}
+    - {fileID: 6314799094848927907, guid: c7697975474f95b4c94e9f3d0ecd7658, type: 3}
+    - {fileID: -422699063314284738, guid: c7697975474f95b4c94e9f3d0ecd7658, type: 3}
+    - {fileID: 1798801359147836111, guid: c7697975474f95b4c94e9f3d0ecd7658, type: 3}
+    - {fileID: 523316854510126145, guid: c7697975474f95b4c94e9f3d0ecd7658, type: 3}
+    - {fileID: 4109795896514540937, guid: c7697975474f95b4c94e9f3d0ecd7658, type: 3}
+    - {fileID: -7271812375900748962, guid: 591a58429ecd41c43a1ee0f23cf568f2, type: 3}
+    - {fileID: -5172723340878490443, guid: 591a58429ecd41c43a1ee0f23cf568f2, type: 3}
+    - {fileID: 5208928365262705989, guid: 591a58429ecd41c43a1ee0f23cf568f2, type: 3}
+    - {fileID: 8330175380297078637, guid: afe2645cca7c07d499a6b4a08ec8571c, type: 3}
+    - {fileID: -6785188162563834372, guid: afe2645cca7c07d499a6b4a08ec8571c, type: 3}
+    - {fileID: 8670337682243976251, guid: afe2645cca7c07d499a6b4a08ec8571c, type: 3}
+    - {fileID: 4870189785866415331, guid: afe2645cca7c07d499a6b4a08ec8571c, type: 3}
+    - {fileID: 1037943895857102832, guid: afe2645cca7c07d499a6b4a08ec8571c, type: 3}
+    - {fileID: -6753504633571965468, guid: afe2645cca7c07d499a6b4a08ec8571c, type: 3}
+    AssetBundleName: odyssey/features/fire control plan

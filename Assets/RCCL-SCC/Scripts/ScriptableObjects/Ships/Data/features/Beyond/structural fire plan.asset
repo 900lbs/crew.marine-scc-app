@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: structural fire plan
+  m_EditorClassIdentifier: 
+  data:
+    featureName: structural fire plan
+    Ship: 296
+    OptionalFeatureTool: 0
+    column: 0
+    overlays:
+    - {fileID: 4612140499998289580, guid: e9c5fb53d57c3b945a4b464cbca657a4, type: 3}
+    - {fileID: -5728507166835002629, guid: e9c5fb53d57c3b945a4b464cbca657a4, type: 3}
+    - {fileID: -3769748331673201962, guid: e9c5fb53d57c3b945a4b464cbca657a4, type: 3}
+    - {fileID: 7615444346013308725, guid: e9c5fb53d57c3b945a4b464cbca657a4, type: 3}
+    - {fileID: 4360127396450154567, guid: e9c5fb53d57c3b945a4b464cbca657a4, type: 3}
+    - {fileID: -4663024249263437923, guid: e9c5fb53d57c3b945a4b464cbca657a4, type: 3}
+    - {fileID: 8632853617292286591, guid: be15274a862cf1941ac11d968d7dc8a9, type: 3}
+    - {fileID: -6787827340429504343, guid: be15274a862cf1941ac11d968d7dc8a9, type: 3}
+    - {fileID: 583420326736081849, guid: be15274a862cf1941ac11d968d7dc8a9, type: 3}
+    - {fileID: -701705641758871386, guid: be15274a862cf1941ac11d968d7dc8a9, type: 3}
+    - {fileID: -2511326649710078907, guid: be15274a862cf1941ac11d968d7dc8a9, type: 3}
+    - {fileID: -6996003804820372607, guid: be15274a862cf1941ac11d968d7dc8a9, type: 3}
+    - {fileID: 1859179664754504154, guid: beb9a31f6777a4844a275f266222fd5c, type: 3}
+    - {fileID: 2637187567008088305, guid: beb9a31f6777a4844a275f266222fd5c, type: 3}
+    - {fileID: 3441870009009545670, guid: beb9a31f6777a4844a275f266222fd5c, type: 3}
+    - {fileID: 6327669768361206619, guid: beb9a31f6777a4844a275f266222fd5c, type: 3}
+    - {fileID: -1455286042999207982, guid: 328f199d833158649bc2f06aa1b87668, type: 3}
+    - {fileID: 4083922786723411931, guid: 328f199d833158649bc2f06aa1b87668, type: 3}
+    - {fileID: -394211405747208116, guid: 328f199d833158649bc2f06aa1b87668, type: 3}
+    - {fileID: 3708185313802689113, guid: 328f199d833158649bc2f06aa1b87668, type: 3}
+    - {fileID: 6932780571850111775, guid: 328f199d833158649bc2f06aa1b87668, type: 3}
+    - {fileID: 1924512707493046810, guid: 328f199d833158649bc2f06aa1b87668, type: 3}
+    AssetBundleName: beyond/features/structural fire plan

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2727008625
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd4a8d8e072144e5c0cf4d282f211e14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ec5555621b0a60db310d46402943cdca
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/RCCL-SCC/Scripts/ScriptableObjects/Ships/Data/features/Odyssey/watertight
+  doors.asset
+Dependencies: []

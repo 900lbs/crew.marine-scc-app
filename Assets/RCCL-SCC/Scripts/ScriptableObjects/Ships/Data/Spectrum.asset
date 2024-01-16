@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99255afdcc5b64644b7b423610b43283, type: 3}
+  m_Name: Spectrum
+  m_EditorClassIdentifier: 
+  Ship:
+    id: 4
+    decks:
+    - {fileID: 21300002, guid: ddd5598b69533b5409d6ffa81834c991, type: 3}
+    - {fileID: 21300014, guid: 8ebccf9d6d8c8dd4896d62d0e88c852a, type: 3}
+    - {fileID: 21300012, guid: 8ebccf9d6d8c8dd4896d62d0e88c852a, type: 3}
+    - {fileID: 21300010, guid: 8ebccf9d6d8c8dd4896d62d0e88c852a, type: 3}
+    - {fileID: 21300008, guid: 8ebccf9d6d8c8dd4896d62d0e88c852a, type: 3}
+    - {fileID: 21300006, guid: 8ebccf9d6d8c8dd4896d62d0e88c852a, type: 3}
+    - {fileID: 21300004, guid: 8ebccf9d6d8c8dd4896d62d0e88c852a, type: 3}
+    - {fileID: 21300002, guid: 8ebccf9d6d8c8dd4896d62d0e88c852a, type: 3}
+    - {fileID: 21300000, guid: 8ebccf9d6d8c8dd4896d62d0e88c852a, type: 3}
+    - {fileID: 21300014, guid: 2034e92dff60e5241b4521435f481534, type: 3}
+    - {fileID: 21300012, guid: 2034e92dff60e5241b4521435f481534, type: 3}
+    - {fileID: 21300010, guid: 2034e92dff60e5241b4521435f481534, type: 3}
+    - {fileID: 21300008, guid: 2034e92dff60e5241b4521435f481534, type: 3}
+    - {fileID: 21300006, guid: 2034e92dff60e5241b4521435f481534, type: 3}
+    - {fileID: 21300004, guid: 2034e92dff60e5241b4521435f481534, type: 3}
+    - {fileID: 21300002, guid: 2034e92dff60e5241b4521435f481534, type: 3}
+    - {fileID: 21300000, guid: 2034e92dff60e5241b4521435f481534, type: 3}
+    - {fileID: 21300008, guid: ddd5598b69533b5409d6ffa81834c991, type: 3}
+    - {fileID: 21300006, guid: ddd5598b69533b5409d6ffa81834c991, type: 3}
+    - {fileID: 21300004, guid: ddd5598b69533b5409d6ffa81834c991, type: 3}
+    - {fileID: 21300000, guid: ddd5598b69533b5409d6ffa81834c991, type: 3}
+    cabins: []
+    legends:
+    - LegendName: Damage Control Plan
+      LegendImage: {fileID: 21300000, guid: f4f071b715dc1db49817e8d7f882884a, type: 3}
+    - LegendName: Evacuation Plan
+      LegendImage: {fileID: 21300000, guid: 22d5330b43126094aad4458d2d5d7e62, type: 3}
+    - LegendName: Life Saving Plan
+      LegendImage: {fileID: 21300000, guid: 65975049cf9a5b348aa6b980f921cf1c, type: 3}
+    - LegendName: Structural Fire Protection
+      LegendImage: {fileID: 21300000, guid: 8fa913518612b6f4d883ec45952fbcfd, type: 3}
+    - LegendName: Watertight Doors
+      LegendImage: {fileID: 21300000, guid: bae780e91bcfe014086488b90b28c28c, type: 3}
+    - LegendName: Fire Control Plan
+      LegendImage: {fileID: 21300000, guid: 01d3fedc5b79f414991961f2082fed3e, type: 3}
+    - LegendName: Safety Plan
+      LegendImage: {fileID: 21300000, guid: 35e348c3a467f0d4a98d90c889097c8d, type: 3}
+    Features:
+    - spectrum/features/damage control plan
+    - spectrum/features/fire control plan
+    - spectrum/features/framing
+    - spectrum/features/life saving appliances
+    - spectrum/features/safety plan
+    - spectrum/features/structural fire protection b-c type bulkheads and ceilings
+    - spectrum/features/watertight doors
+    shipAbbreviation: SC
+    eniramShipID: 1023-028
+    eMusteringURL: http://10.168.11.220/A-PASS/BridgeDashboard.aspx?ParentId=ed696506-2a56-4f19-9b4e-f9e867f83fd3

@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Table Settings
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: da6c04f8c82e15b4c8e2696009f5b6e8,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.sceneSettings.IsTablet
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.sceneSettings.TargetFrameRate
+    value: 60
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlBase.sc_xml_ver
+    value: 1.0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlBase.pageName
+    value: scc:main
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlBase.prop67
+    value: scc
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlBase.eVar139
+    value: SY
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlBase.eVar140
+    value: 20190601,20190616
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlBase.eVar143
+    value: RCI
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlBase.timestamp
+    value: timestamp
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlBase.reportSuiteID
+    value: rcciexcalibur
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlClose.sc_xml_ver
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlClose.pageName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlClose.prop67
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlClose.eVar139
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlClose.eVar140
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlClose.eVar143
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlClose.timestamp
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlClose.reportSuiteID
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlClose.linkName
+    value: SCC Close
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlClose.eVar175
+    value: scc:main:sccclose
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlIsolate.sc_xml_ver
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlIsolate.pageName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlIsolate.prop67
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlIsolate.eVar139
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlIsolate.eVar140
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlIsolate.eVar143
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlIsolate.timestamp
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlIsolate.reportSuiteID
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlIsolate.linkName
+    value: SCC Isolate Decks
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlIsolate.eVar64
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlIsolate.listVar1
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlMinimize.sc_xml_ver
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlMinimize.pageName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlMinimize.prop67
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlMinimize.eVar139
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlMinimize.eVar140
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlMinimize.eVar143
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlMinimize.timestamp
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlMinimize.reportSuiteID
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlMinimize.eVar175
+    value: scc:main:sccclose_yes
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlOverlays.sc_xml_ver
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlOverlays.pageName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlOverlays.prop67
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlOverlays.eVar139
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlOverlays.eVar140
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlOverlays.eVar143
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlOverlays.timestamp
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlOverlays.reportSuiteID
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlOverlays.linkName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlOverlays.eVar175
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlTimers.sc_xml_ver
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlTimers.pageName
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlTimers.prop67
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlTimers.eVar139
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlTimers.eVar140
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlTimers.eVar143
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlTimers.timestamp
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlTimers.reportSuiteID
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlTimers.linkName
+    value: man your routes | Start
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlTimers.eVar63
+    value: man your routes | Start
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlTimers.prop63
+    value: man your routes | Start
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Settings.XmlTimers.events
+    value: event505
+    objectReference: {fileID: 0}

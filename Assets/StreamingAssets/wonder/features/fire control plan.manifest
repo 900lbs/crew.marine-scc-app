@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 640595965
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c32b6b3be8f27628e4678aafabb751b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ec5555621b0a60db310d46402943cdca
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scripts/ScriptableObjects/Ships/Data/features/Wonder/fire control plan.asset
+Dependencies: []

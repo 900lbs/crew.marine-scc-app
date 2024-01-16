@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: ESCAPE ROUTES
+  m_EditorClassIdentifier: 
+  data:
+    featureName: ESCAPE ROUTES
+    Ship: 1
+    OptionalFeatureTool: 0
+    column: 2
+    overlays:
+    - {fileID: 21300010, guid: 9cf1cb1208120124c93a7d95a14cb26e, type: 3}
+    - {fileID: 21300008, guid: 9cf1cb1208120124c93a7d95a14cb26e, type: 3}
+    - {fileID: 21300006, guid: 9cf1cb1208120124c93a7d95a14cb26e, type: 3}
+    - {fileID: 21300004, guid: 9cf1cb1208120124c93a7d95a14cb26e, type: 3}
+    - {fileID: 21300002, guid: 9cf1cb1208120124c93a7d95a14cb26e, type: 3}
+    - {fileID: 21300000, guid: 9cf1cb1208120124c93a7d95a14cb26e, type: 3}
+    - {fileID: 21300010, guid: 6471d4868f9495045823ffe4b305c229, type: 3}
+    - {fileID: 21300008, guid: 6471d4868f9495045823ffe4b305c229, type: 3}
+    - {fileID: 21300006, guid: 6471d4868f9495045823ffe4b305c229, type: 3}
+    - {fileID: 21300004, guid: 6471d4868f9495045823ffe4b305c229, type: 3}
+    - {fileID: 21300002, guid: 6471d4868f9495045823ffe4b305c229, type: 3}
+    - {fileID: 21300000, guid: 6471d4868f9495045823ffe4b305c229, type: 3}
+    - {fileID: 21300002, guid: 96c0b531e80e56144bdb9a60f1e8669f, type: 3}
+    - {fileID: 21300000, guid: 96c0b531e80e56144bdb9a60f1e8669f, type: 3}
+    - {fileID: 21300006, guid: e7fab3efb143ccc41be92c4f128bd47a, type: 3}
+    - {fileID: 21300004, guid: e7fab3efb143ccc41be92c4f128bd47a, type: 3}
+    - {fileID: 21300002, guid: e7fab3efb143ccc41be92c4f128bd47a, type: 3}
+    - {fileID: 21300000, guid: e7fab3efb143ccc41be92c4f128bd47a, type: 3}
+    - {fileID: 21300010, guid: e7fab3efb143ccc41be92c4f128bd47a, type: 3}
+    - {fileID: 21300008, guid: e7fab3efb143ccc41be92c4f128bd47a, type: 3}
+    AssetBundleName: edge/features/escape routes

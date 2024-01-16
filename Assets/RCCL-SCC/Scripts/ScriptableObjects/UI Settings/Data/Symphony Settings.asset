@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0f283e344d345f49bc0728e0ce8bce2, type: 3}
+  m_Name: Symphony Settings
+  m_EditorClassIdentifier: 
+  Settings:
+    selectedCol:
+      serializedVersion: 2
+      rgba: 4291611852
+    deselectedCol:
+      serializedVersion: 2
+      rgba: 652600805
+    selectedButtonCol:
+      serializedVersion: 2
+      rgba: 4293787392
+    selectedTextCol:
+      serializedVersion: 2
+      rgba: 4291074816
+    deselectedButtonCol:
+      serializedVersion: 2
+      rgba: 4283705601
+    deSelectedTextCol:
+      serializedVersion: 2
+      rgba: 4287719979
+    deSelectedDashCol:
+      serializedVersion: 2
+      rgba: 4293787392
+    inactiveColor:
+      serializedVersion: 2
+      rgba: 4287190274
+    color9:
+      serializedVersion: 2
+      rgba: 4281998594
+    color10:
+      serializedVersion: 2
+      rgba: 4278190080
+    deckSelectionButton: {fileID: 2779777936745967009, guid: 6bdea16f65a274647941f7ede1fc5e4d,
+      type: 3}
+    deckSelectionSpacer: {fileID: 1754313596255228047, guid: 2a069870bdc2121479e2333a26cf1b36,
+      type: 3}

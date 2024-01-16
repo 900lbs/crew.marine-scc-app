@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b479c8bea939da41af5ec4c02763017, type: 3}
+  m_Name: Erase All Annotations
+  m_EditorClassIdentifier: 
+  FileName: 'Erase All Annotations '
+  Items: []
+  MenuPrefab: {fileID: 2156129403099137406, guid: 8d25803bab1597e4aad5e885d2fe4c3a,
+    type: 3}
+  MenuButtons:
+  - {fileID: 1233333629010591052, guid: 4636ecb328de9454b80d75ff626298c3, type: 3}
+  - {fileID: 4295491081909197832, guid: 9d95581c574d51d4f8fc923db2f7279c, type: 3}
+  Message: Are you sure you want to erase all annotations?

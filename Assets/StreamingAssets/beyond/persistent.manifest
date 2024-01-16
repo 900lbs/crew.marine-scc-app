@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3346770120
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45d99f0bfa4ebc5e9b8e5e84c96c9991
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd30867720ec59be358393d30e72f356
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99255afdcc5b64644b7b423610b43283, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/RCCL-SCC/Scripts/ScriptableObjects/Ships/Data/Beyond.asset
+Dependencies: []

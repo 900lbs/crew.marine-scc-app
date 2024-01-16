@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99255afdcc5b64644b7b423610b43283, type: 3}
+  m_Name: Edge
+  m_EditorClassIdentifier: 
+  Ship:
+    id: 1
+    decks:
+    - {fileID: 21300010, guid: 8f1f51dc68f1fae43a9bc995c244ef79, type: 3}
+    - {fileID: 21300006, guid: 8f1f51dc68f1fae43a9bc995c244ef79, type: 3}
+    - {fileID: 21300008, guid: 8f1f51dc68f1fae43a9bc995c244ef79, type: 3}
+    - {fileID: 21300004, guid: 8f1f51dc68f1fae43a9bc995c244ef79, type: 3}
+    - {fileID: 21300002, guid: 8f1f51dc68f1fae43a9bc995c244ef79, type: 3}
+    - {fileID: 21300000, guid: 8f1f51dc68f1fae43a9bc995c244ef79, type: 3}
+    - {fileID: 21300010, guid: 677e1a56c715814499c0033c3ee9a235, type: 3}
+    - {fileID: 21300008, guid: 677e1a56c715814499c0033c3ee9a235, type: 3}
+    - {fileID: 21300006, guid: 677e1a56c715814499c0033c3ee9a235, type: 3}
+    - {fileID: 21300004, guid: 677e1a56c715814499c0033c3ee9a235, type: 3}
+    - {fileID: 21300002, guid: 677e1a56c715814499c0033c3ee9a235, type: 3}
+    - {fileID: 21300000, guid: 677e1a56c715814499c0033c3ee9a235, type: 3}
+    - {fileID: 21300010, guid: 94a8bd7a4affd4c40aa3007b27175796, type: 3}
+    - {fileID: 21300008, guid: 94a8bd7a4affd4c40aa3007b27175796, type: 3}
+    - {fileID: 21300006, guid: 94a8bd7a4affd4c40aa3007b27175796, type: 3}
+    - {fileID: 21300004, guid: 94a8bd7a4affd4c40aa3007b27175796, type: 3}
+    - {fileID: 21300002, guid: 94a8bd7a4affd4c40aa3007b27175796, type: 3}
+    - {fileID: 21300000, guid: 94a8bd7a4affd4c40aa3007b27175796, type: 3}
+    - {fileID: 21300008, guid: c5bab0d3699270340bb354b2d6c1806e, type: 3}
+    - {fileID: 21300006, guid: c5bab0d3699270340bb354b2d6c1806e, type: 3}
+    - {fileID: 21300004, guid: c5bab0d3699270340bb354b2d6c1806e, type: 3}
+    - {fileID: 21300002, guid: c5bab0d3699270340bb354b2d6c1806e, type: 3}
+    - {fileID: 21300000, guid: c5bab0d3699270340bb354b2d6c1806e, type: 3}
+    cabins:
+    - {fileID: 21300000, guid: 113ec8827296066438e9d7b01e515123, type: 3}
+    - {fileID: 21300010, guid: 6d31efbebe5b84945815c237666c8847, type: 3}
+    - {fileID: 21300008, guid: 6d31efbebe5b84945815c237666c8847, type: 3}
+    - {fileID: 21300006, guid: 6d31efbebe5b84945815c237666c8847, type: 3}
+    - {fileID: 21300004, guid: 6d31efbebe5b84945815c237666c8847, type: 3}
+    - {fileID: 21300002, guid: 6d31efbebe5b84945815c237666c8847, type: 3}
+    - {fileID: 21300000, guid: 6d31efbebe5b84945815c237666c8847, type: 3}
+    - {fileID: 21300010, guid: 113ec8827296066438e9d7b01e515123, type: 3}
+    - {fileID: 21300008, guid: 113ec8827296066438e9d7b01e515123, type: 3}
+    - {fileID: 21300006, guid: 113ec8827296066438e9d7b01e515123, type: 3}
+    - {fileID: 21300004, guid: 113ec8827296066438e9d7b01e515123, type: 3}
+    - {fileID: 21300002, guid: 113ec8827296066438e9d7b01e515123, type: 3}
+    legends:
+    - LegendName: Damage Control
+      LegendImage: {fileID: 21300000, guid: 1d4dc1ab000dc00468b2703556344294, type: 3}
+    - LegendName: Assembly Stations
+      LegendImage: {fileID: 21300000, guid: 9a3646c12f30ae6469dbe7ebd2f86d4e, type: 3}
+    - LegendName: Structural Fire Protection
+      LegendImage: {fileID: 21300000, guid: a24203041b0eb5640baf68bef573568d, type: 3}
+    - LegendName: Escape Routes
+      LegendImage: {fileID: 21300000, guid: 494790b119c24594d9cf75066c3fcb81, type: 3}
+    - LegendName: Hatches
+      LegendImage: {fileID: 21300000, guid: c3ea8eede1bfa71468ef1f5fa7db25e0, type: 3}
+    - LegendName: Safety Plan
+      LegendImage: {fileID: 21300000, guid: 1f208b4eef96a5349ab7e62edda036ce, type: 3}
+    - LegendName: Watertight Doors
+      LegendImage: {fileID: 21300000, guid: 2ee10883dfebfba4a8c1768326b2a1d3, type: 3}
+    Features:
+    - edge/features/assembly stations - life saving appliances arrangement
+    - edge/features/damage control plan
+    - edge/features/escape routes
+    - edge/features/fire control plan
+    - edge/features/framing
+    - edge/features/hatches
+    - edge/features/safety and fire control plan
+    - edge/features/safety plan
+    - edge/features/structural fire protection b-c type bulkheads and ceilings
+    - edge/features/watertight doors
+    shipAbbreviation: EG
+    eniramShipID: id=1023-011
+    eMusteringURL: http://10.150.11.220/A-PASS/BridgeDashboard.aspx?ParentId=ed696506-2a56-4f19-9b4e-f9e867f83fd3

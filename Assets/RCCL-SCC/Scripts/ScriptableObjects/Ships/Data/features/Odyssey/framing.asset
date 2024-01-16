@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: framing
+  m_EditorClassIdentifier: 
+  data:
+    featureName: Framing
+    Ship: 50
+    OptionalFeatureTool: 2
+    column: 0
+    overlays:
+    - {fileID: 2148723135783895460, guid: 35b577e2d2868a84883d12383ce7f635, type: 3}
+    - {fileID: 7546088808658402145, guid: 35b577e2d2868a84883d12383ce7f635, type: 3}
+    - {fileID: 4620592989377028804, guid: 35b577e2d2868a84883d12383ce7f635, type: 3}
+    - {fileID: 1325021359646558983, guid: 35b577e2d2868a84883d12383ce7f635, type: 3}
+    - {fileID: -9001972788820163896, guid: 35b577e2d2868a84883d12383ce7f635, type: 3}
+    - {fileID: 6358870509162987150, guid: 35b577e2d2868a84883d12383ce7f635, type: 3}
+    - {fileID: 5572730627340027677, guid: e733ece41f22c2149b33306ba72712d1, type: 3}
+    - {fileID: 2674787027330453100, guid: e733ece41f22c2149b33306ba72712d1, type: 3}
+    - {fileID: 274817286507240903, guid: e733ece41f22c2149b33306ba72712d1, type: 3}
+    - {fileID: 100141510868128561, guid: e733ece41f22c2149b33306ba72712d1, type: 3}
+    - {fileID: -2758604157983846527, guid: e733ece41f22c2149b33306ba72712d1, type: 3}
+    - {fileID: -924587897245694703, guid: e733ece41f22c2149b33306ba72712d1, type: 3}
+    - {fileID: -8455518705105284301, guid: e0deeb6586ef4c94fa9af8d93a88c9d7, type: 3}
+    - {fileID: -4327261252345453252, guid: e0deeb6586ef4c94fa9af8d93a88c9d7, type: 3}
+    - {fileID: -3831501494068651125, guid: e0deeb6586ef4c94fa9af8d93a88c9d7, type: 3}
+    - {fileID: -5555207923469764208, guid: e0deeb6586ef4c94fa9af8d93a88c9d7, type: 3}
+    - {fileID: -9052523033548241962, guid: 231e40efe9d95bb4281f3caa118e1bb9, type: 3}
+    - {fileID: 4085580503751642340, guid: 231e40efe9d95bb4281f3caa118e1bb9, type: 3}
+    - {fileID: -4604757157828561322, guid: 231e40efe9d95bb4281f3caa118e1bb9, type: 3}
+    - {fileID: -3488689766395112124, guid: 231e40efe9d95bb4281f3caa118e1bb9, type: 3}
+    - {fileID: -4694374180012082758, guid: 231e40efe9d95bb4281f3caa118e1bb9, type: 3}
+    - {fileID: 8413714534538092052, guid: 231e40efe9d95bb4281f3caa118e1bb9, type: 3}
+    AssetBundleName: odyssey/features/Framing

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 907b0f847d6592e43b48f441597c8238, type: 3}
+  m_Name: safety plan
+  m_EditorClassIdentifier: 
+  data:
+    featureName: safety plan
+    Ship: 100
+    OptionalFeatureTool: 0
+    column: 1
+    overlays:
+    - {fileID: -1324124578354346113, guid: 40a81f8d28068114d996900ea9dedc35, type: 3}
+    - {fileID: 1111955276423478644, guid: 40a81f8d28068114d996900ea9dedc35, type: 3}
+    - {fileID: 6656935686134929778, guid: 40a81f8d28068114d996900ea9dedc35, type: 3}
+    - {fileID: 8641574130938600326, guid: 40a81f8d28068114d996900ea9dedc35, type: 3}
+    - {fileID: -3288731531226509923, guid: 40a81f8d28068114d996900ea9dedc35, type: 3}
+    - {fileID: 357225191953165681, guid: 40a81f8d28068114d996900ea9dedc35, type: 3}
+    - {fileID: 7273416192772018349, guid: 0f9a98b041b4ef7419ed29b06d0bb3fd, type: 3}
+    - {fileID: -8088118859610830783, guid: 0f9a98b041b4ef7419ed29b06d0bb3fd, type: 3}
+    - {fileID: -6569081114675167843, guid: 0f9a98b041b4ef7419ed29b06d0bb3fd, type: 3}
+    - {fileID: 3260692398087377896, guid: 0f9a98b041b4ef7419ed29b06d0bb3fd, type: 3}
+    - {fileID: -2000554192008730866, guid: 0f9a98b041b4ef7419ed29b06d0bb3fd, type: 3}
+    - {fileID: -386606027853182541, guid: 0f9a98b041b4ef7419ed29b06d0bb3fd, type: 3}
+    - {fileID: 2861339043935204320, guid: a954aa96163577f44b0cda1a0ecb30e5, type: 3}
+    - {fileID: 4869532652140329529, guid: a954aa96163577f44b0cda1a0ecb30e5, type: 3}
+    - {fileID: -5487012145274674294, guid: a954aa96163577f44b0cda1a0ecb30e5, type: 3}
+    - {fileID: -704130581781017875, guid: a954aa96163577f44b0cda1a0ecb30e5, type: 3}
+    - {fileID: 7182397070225443099, guid: a954aa96163577f44b0cda1a0ecb30e5, type: 3}
+    - {fileID: -6036918125625041293, guid: ec0cc7d2e20a669408a088bd555e9462, type: 3}
+    - {fileID: 59711245526554116, guid: ec0cc7d2e20a669408a088bd555e9462, type: 3}
+    - {fileID: -4000646292732289625, guid: ec0cc7d2e20a669408a088bd555e9462, type: 3}
+    - {fileID: -7559565660793905005, guid: ec0cc7d2e20a669408a088bd555e9462, type: 3}
+    - {fileID: 8745251091334291423, guid: ec0cc7d2e20a669408a088bd555e9462, type: 3}
+    - {fileID: -969111747059764931, guid: ec0cc7d2e20a669408a088bd555e9462, type: 3}
+    AssetBundleName: wonder/features/safety plan

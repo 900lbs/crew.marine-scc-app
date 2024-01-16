@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1206022716
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: beyond/persistent
+      Dependencies: {}
+    Info_1:
+      Name: beyond/features/framing
+      Dependencies: {}
+    Info_2:
+      Name: beyond/features/life saving appliances
+      Dependencies: {}
+    Info_3:
+      Name: beyond/features/damage control plan
+      Dependencies: {}
+    Info_4:
+      Name: beyond/features/escape routes
+      Dependencies: {}
+    Info_5:
+      Name: beyond/features/fire control plan
+      Dependencies: {}
+    Info_6:
+      Name: beyond/features/safety plans
+      Dependencies: {}
+    Info_7:
+      Name: beyond/features/structural fire plan
+      Dependencies: {}
+    Info_8:
+      Name: beyond/features/watertight doors
+      Dependencies: {}

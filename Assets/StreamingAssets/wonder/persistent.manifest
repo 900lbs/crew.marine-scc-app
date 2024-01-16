@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4180072909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 306f1bd3933f21248e5e07ae8c63007b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd30867720ec59be358393d30e72f356
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99255afdcc5b64644b7b423610b43283, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/RCCL-SCC/Scripts/ScriptableObjects/Ships/Data/Wonder.asset
+Dependencies: []
